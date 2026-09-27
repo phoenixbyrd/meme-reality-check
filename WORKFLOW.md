@@ -42,6 +42,8 @@ Split the story list across fact-check subagents (e.g. 15–20 each). Each retur
 - `rating_explained` (3–6 sentences / 400+ characters: what the story asserts → what the named sources actually say with key numbers/dates → why this verdict follows)
 - `sources` (2+ NAMED sources with real URLs that were opened — wire services, agencies, primary documents; the original article itself doesn't count as a fact-check source)
 
+Cross-check the established fact-checkers: before finalizing a verdict, check whether Snopes, PolitiFact, FactCheck.org, Reuters Fact Check, or AP Fact Check have already rated the same claim. If they have, cite the relevant one as a corroborating source — but still verify against primary sources yourself; a fact-checker's verdict is a lead, not the evidence. If fact-checkers disagree with each other or with the primary sources, say so in `rating_explained` and let the verdict reflect the disagreement.
+
 ### 3. Assemble edition
 
 Write `editions/<YYYY-MM-DD>/stories.json` — array of:
