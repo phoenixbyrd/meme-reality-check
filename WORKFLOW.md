@@ -111,6 +111,7 @@ Runs separately after the site edition is live:
 - Editorial lineup: lead with false → misleading → mixed verdicts (most severe first); then the most newsworthy accurate/mostly-accurate. Same evidentiary standard both sides; the villain is inaccuracy, not a side.
 - Deep-dive format, hosts Alex (`avocado_v2:MAI_01`, plain-language asker) + Jordan (`avocado_v2:MAI_03`, authoritative explainer). Cold-open hook, one sharp central premise, signposts, driveway-moment ending. ~20 min (~3,200–3,600 words).
 - Generate via `podcast-helper generate` **in the cron worker itself** (never delegate media steps to a subagent — Sentinel rejects nested-worker media). Series id `spin-check-daily`. Do NOT publish: no RSS feed without James's consent.
+- After generation: save dated MP3 to `~/workspace/your_files/spin-check/`; upload to Drive Phone/Mica/Podcasts; copy to `docs/audio/<YYYY-MM-DD>.mp3`, prune audio older than 7 days, commit + push (wires the edition page's top player).
 - Report episode title, duration, and listen link in the final message; delivery goes to the Podcasts side chat.
 - `podcast-helper manifest read` first to avoid repeating recent framings.
 
