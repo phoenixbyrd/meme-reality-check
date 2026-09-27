@@ -88,7 +88,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Ar
 a{color:#8ea6ff;text-decoration:none}
 a:hover{text-decoration:underline}
 .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
-header.site{background:rgba(13,15,20,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:14px 0;position:sticky;top:0;z-index:50}
+header.site{background:rgba(13,15,20,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:14px 0;position:sticky;top:0;z-index:50;transition:transform .28s ease}
+header.site.hide{transform:translateY(-110%)}
+body.navhidden .filters{top:0}
 header.site .wrap{display:flex;align-items:center;justify-content:space-between}
 .brand{font-size:21px;font-weight:800;letter-spacing:.3px;color:#fff}
 .brand .m1{background:linear-gradient(135deg,#7c5cff,#00d4ff);-webkit-background-clip:text;background-clip:text;color:transparent}
@@ -205,6 +207,11 @@ document.querySelectorAll('.memeimg').forEach(im=>im.onclick=()=>{lbi.src=im.src
 if(lb)lb.onclick=()=>lb.classList.remove('open');
 document.addEventListener('keydown',e=>{if(e.key==='Escape')lb.classList.remove('open');});
 apply();
+let lastY=window.scrollY;const hdr=document.querySelector('header.site');
+window.addEventListener('scroll',()=>{const y=window.scrollY;
+if(y>lastY+4&&y>140){hdr.classList.add('hide');document.body.classList.add('navhidden');}
+else if(y<lastY-4){hdr.classList.remove('hide');document.body.classList.remove('navhidden');}
+lastY=y;},{passive:true});
 """
 
 PAGE_TOP = """<!DOCTYPE html>

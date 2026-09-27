@@ -104,6 +104,16 @@ Then verify: `curl -s https://phoenixbyrd.github.io/meme-reality-check/editions/
 - If a side yields fewer than ~10 solid stories, publish what's honest and note the shortfall in `edition.json` `description`.
 - If GitHub Pages shows a stale page after push, wait 2–3 minutes and re-curl.
 
+## Podcast stage — Spin Check daily (6:00 AM ET, cron `spin-check-daily`, owner `goal:spin-check-daily-podcast`)
+
+Runs separately after the site edition is live:
+- Read `editions/<YYYY-MM-DD>/stories.json` (today's date, America/New_York). If missing, retry up to 30 min, then report the miss.
+- Editorial lineup: lead with false → misleading → mixed verdicts (most severe first); then the most newsworthy accurate/mostly-accurate. Same evidentiary standard both sides; the villain is inaccuracy, not a side.
+- Deep-dive format, hosts Alex (`avocado_v2:MAI_01`, plain-language asker) + Jordan (`avocado_v2:MAI_03`, authoritative explainer). Cold-open hook, one sharp central premise, signposts, driveway-moment ending. ~20 min (~3,200–3,600 words).
+- Generate via `podcast-helper generate` **in the cron worker itself** (never delegate media steps to a subagent — Sentinel rejects nested-worker media). Series id `spin-check-daily`. Do NOT publish: no RSS feed without James's consent.
+- Report episode title, duration, and listen link in the final message; delivery goes to the Podcasts side chat.
+- `podcast-helper manifest read` first to avoid repeating recent framings.
+
 ## Notes
 
 - `assemble.py` was the meme-era assembly helper (gather-file parsing, image downloads, text-card generation) and is **retired** — story editions are assembled directly as `stories.json`. Kept in repo for history.
