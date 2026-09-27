@@ -54,6 +54,8 @@ Write `editions/<YYYY-MM-DD>/memes.json` — array of:
 ```
 Shortcut: `assemble.py` automates this step — it parses the gather files (`left_memes.md` with `## N.` headers, `right_memes.md` with `### RN.` headers, `fc_*.md` fact-check files), trims to exactly 50/50 (keeps all checkable-claim memes, drops lowest-traction jokes), converts/downloads images to `images/<ID>.jpg`, generates styled text-card images for memes with no downloadable image, and writes both JSON files. Adapt it if gather formats change.
 
+Real-image upgrade (worth doing when time allows): most placeholders are one-off IG/FB/Threads originals not indexed anywhere, so expect a low hit rate — but try `/opt/hatch/bin/image-search` with exact quoted phrases from each meme's text for the text-card memes. Only swap in a found image after VIEWING it and confirming it matches the meme (text/visuals); when in doubt keep the placeholder — a wrong image is worse than none. If the found image is a slight variant (e.g. different caption wording), update that meme's `meme_text` transcription in `memes.json` to describe what's actually shown, then rebuild.
+
 ### 5. Build + deploy
 
 ```
