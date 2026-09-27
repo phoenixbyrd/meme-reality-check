@@ -52,6 +52,7 @@ Write `editions/<YYYY-MM-DD>/memes.json` — array of:
  "sources": [{"name": "Bureau of Labor Statistics", "url": "https://..."}],
  "order": 1}
 ```
+Shortcut: `assemble.py` automates this step — it parses the gather files (`left_memes.md` with `## N.` headers, `right_memes.md` with `### RN.` headers, `fc_*.md` fact-check files), trims to exactly 50/50 (keeps all checkable-claim memes, drops lowest-traction jokes), converts/downloads images to `images/<ID>.jpg`, generates styled text-card images for memes with no downloadable image, and writes both JSON files. Adapt it if gather formats change.
 
 ### 5. Build + deploy
 
