@@ -274,7 +274,7 @@ def main():
         editions[d] = (edition, memes)
         # copy images
         src_img = os.path.join(EDITIONS, d, "images")
-        dst_img = os.path.join(SITE, "editions", d)
+        dst_img = os.path.join(SITE, "editions", d, "images")
         if os.path.isdir(src_img):
             for fn in os.listdir(src_img):
                 os.makedirs(dst_img, exist_ok=True)
