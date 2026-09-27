@@ -71,6 +71,37 @@ footer.site{border-top:1px solid var(--line);padding:26px 0;margin-top:10px;font
 .ednav{display:flex;justify-content:space-between;padding:8px 0 30px;font-size:14px}
 .dateline{font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--mut);text-align:center;margin-top:26px}
 @media(max-width:640px){.fcount{display:none}.filters{top:60px}}
+/* ---- news layout (story editions) ---- */
+.nameplate{text-align:center;padding:34px 0 16px;border-bottom:3px double var(--line);margin-bottom:6px}
+.np-kicker{font-size:11px;text-transform:uppercase;letter-spacing:3px;color:var(--acc)}
+.np-title{font-family:Georgia,'Times New Roman',serif;font-size:clamp(36px,6vw,60px);font-weight:800;color:#fff;margin:8px 0 6px}
+.np-title .vs{color:#ff5c7a;font-style:italic;font-weight:400}
+.np-tag{color:var(--mut);font-size:14px;max-width:640px;margin:0 auto}
+.np-meta{font-size:12px;color:var(--mut);margin-top:10px}
+.scoreboard{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;padding:14px 0 4px}
+.sb{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:5px 14px;font-size:12px;color:var(--mut)}
+.sb b{color:#fff;margin-right:6px}
+.leadstory{border-bottom:1px solid var(--line);padding:22px 0 26px;margin-bottom:8px}
+.leadstory.hidden{display:none}
+.leadstory .kicker{font-size:11px;text-transform:uppercase;letter-spacing:2px;color:var(--acc);margin-bottom:8px}
+.lead-head{font-family:Georgia,serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;line-height:1.2}
+a.lead-head:hover{color:#8ea6ff;text-decoration:none}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:34px;padding:10px 0 30px}
+@media(max-width:860px){.cols{grid-template-columns:1fr}}
+.sidecol h2{font-family:Georgia,serif;font-size:22px;color:#fff;padding-bottom:10px;border-bottom:2px solid var(--line);margin-bottom:4px;display:flex;align-items:center;gap:10px}
+.sidecol h2 .count{font-size:12px;color:var(--mut);font-weight:400;margin-left:auto;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block;flex:none}
+.dot.left{background:#60a5fa}.dot.right{background:#f87171}
+.brief{padding:16px 0;border-bottom:1px solid var(--line)}
+.brief.hidden{display:none}
+.b-head{font-family:Georgia,serif;font-size:18px;font-weight:700;color:#fff;line-height:1.35}
+a.b-head:hover{color:#8ea6ff;text-decoration:none}
+.b-meta{font-size:12px;color:var(--mut);margin:6px 0;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.b-claim{font-size:13.5px;color:var(--mut);font-style:italic;margin:6px 0}
+.b-claim b,.b-why b{color:var(--txt);font-style:normal}
+.b-why{font-size:13.5px;color:var(--txt);margin:6px 0}
+.b-src{font-size:12px;color:var(--mut)}
+.b-src a{margin-right:8px}
 </style></head>
 <body>
 <header class="site"><div class="wrap">
@@ -95,7 +126,7 @@ const verBtns=[...document.querySelectorAll('[data-verdict]')];
 let side='all',verdict='all';
 function apply(){
   let n=0;
-  document.querySelectorAll('.card').forEach(c=>{
+  document.querySelectorAll('.card,.brief[data-side],.leadstory[data-side]').forEach(c=>{
     const okS=side==='all'||c.dataset.side===side;
     const okV=verdict==='all'||c.dataset.verdict===verdict;
     const show=okS&&okV;

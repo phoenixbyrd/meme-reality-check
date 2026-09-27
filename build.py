@@ -149,7 +149,39 @@ footer.site{border-top:1px solid var(--line);padding:26px 0;margin-top:10px;font
 .ednav{display:flex;justify-content:space-between;padding:8px 0 30px;font-size:14px}
 .dateline{font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--mut);text-align:center;margin-top:26px}
 @media(max-width:640px){.fcount{display:none}.filters{top:60px}}
+/* ---- news layout (story editions) ---- */
+.nameplate{text-align:center;padding:34px 0 16px;border-bottom:3px double var(--line);margin-bottom:6px}
+.np-kicker{font-size:11px;text-transform:uppercase;letter-spacing:3px;color:var(--acc)}
+.np-title{font-family:Georgia,'Times New Roman',serif;font-size:clamp(36px,6vw,60px);font-weight:800;color:#fff;margin:8px 0 6px}
+.np-title .vs{color:#ff5c7a;font-style:italic;font-weight:400}
+.np-tag{color:var(--mut);font-size:14px;max-width:640px;margin:0 auto}
+.np-meta{font-size:12px;color:var(--mut);margin-top:10px}
+.scoreboard{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;padding:14px 0 4px}
+.sb{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:5px 14px;font-size:12px;color:var(--mut)}
+.sb b{color:#fff;margin-right:6px}
+.leadstory{border-bottom:1px solid var(--line);padding:22px 0 26px;margin-bottom:8px}
+.leadstory.hidden{display:none}
+.leadstory .kicker{font-size:11px;text-transform:uppercase;letter-spacing:2px;color:var(--acc);margin-bottom:8px}
+.lead-head{font-family:Georgia,serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;line-height:1.2}
+a.lead-head:hover{color:#8ea6ff;text-decoration:none}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:34px;padding:10px 0 30px}
+@media(max-width:860px){.cols{grid-template-columns:1fr}}
+.sidecol h2{font-family:Georgia,serif;font-size:22px;color:#fff;padding-bottom:10px;border-bottom:2px solid var(--line);margin-bottom:4px;display:flex;align-items:center;gap:10px}
+.sidecol h2 .count{font-size:12px;color:var(--mut);font-weight:400;margin-left:auto;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block;flex:none}
+.dot.left{background:#60a5fa}.dot.right{background:#f87171}
+.brief{padding:16px 0;border-bottom:1px solid var(--line)}
+.brief.hidden{display:none}
+.b-head{font-family:Georgia,serif;font-size:18px;font-weight:700;color:#fff;line-height:1.35}
+a.b-head:hover{color:#8ea6ff;text-decoration:none}
+.b-meta{font-size:12px;color:var(--mut);margin:6px 0;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.b-claim{font-size:13.5px;color:var(--mut);font-style:italic;margin:6px 0}
+.b-claim b,.b-why b{color:var(--txt);font-style:normal}
+.b-why{font-size:13.5px;color:var(--txt);margin:6px 0}
+.b-src{font-size:12px;color:var(--mut)}
+.b-src a{margin-right:8px}
 """
+
 
 JS = """
 const sideBtns=[...document.querySelectorAll('[data-side]')];
@@ -157,7 +189,7 @@ const verBtns=[...document.querySelectorAll('[data-verdict]')];
 let side='all',verdict='all';
 function apply(){
   let n=0;
-  document.querySelectorAll('.card').forEach(c=>{
+  document.querySelectorAll('.card,.brief[data-side],.leadstory[data-side]').forEach(c=>{
     const okS=side==='all'||c.dataset.side===side;
     const okV=verdict==='all'||c.dataset.verdict===verdict;
     const show=okS&&okV;
@@ -225,26 +257,121 @@ def side_badge(side):
     return '<span class="side right">Trending right</span>'
 
 
-def story_card(m):
-    srcs = " ".join(
+SEVERITY = {"false": 0, "misleading": 1, "mixed": 2,
+            "mostly-accurate": 3, "accurate": 4, "no-claim": 5}
+
+
+def brief_sources(m):
+    return " ".join(
         f'<a href="{esc(s.get("url", "#"))}" target="_blank" rel="noopener">{esc(s.get("name", "source"))}</a>'
         for s in m.get("sources", []))
-    claim_txt = m.get("trending_claim") or "No checkable factual claim — opinion or analysis."
-    claim_html = (f'<div class="claim"><b>The claim being checked</b>{esc(claim_txt)}</div>'
-                  if m.get("verdict") != "no-claim" else "")
+
+
+def brief_html(m):
+    vlabel = VERDICTS.get(m.get("verdict"), VERDICTS["no-claim"])[0]
+    srcs = brief_sources(m)
     pub = f" &middot; {esc(m['published'])}" if m.get("published") else ""
-    whytrend = (f'<div class="whytrend">Why it\'s trending here: {esc(m["trending_context"])}</div>'
-                if m.get("trending_context") else "")
-    return f"""<div class="card" data-side="{m['side']}" data-verdict="{m['verdict']}">
-<div class="body">
-<div class="badges">{side_badge(m['side'])}{verdict_chip(m['verdict'])}</div>
-<a class="headline" href="{esc(m['article_url'])}" target="_blank" rel="noopener">{esc(m['headline'])}</a>
-<div class="byline">{esc(m['outlet'])}{pub} &middot; <a class="read" href="{esc(m['article_url'])}" target="_blank" rel="noopener">Read the original &rarr;</a></div>
-{claim_html}
-<div class="reality"><b>Why this rating</b>{esc(m.get('rating_explained', ''))}</div>
-<div class="srcs"><strong>Sources:</strong> {srcs if srcs else "—"}</div>
-{whytrend}
-</div></div>"""
+    claim = m.get("trending_claim") or "No checkable factual claim — opinion or analysis."
+    return f"""<article class="brief" data-side="{m['side']}" data-verdict="{m['verdict']}">
+<a class="b-head" href="{esc(m['article_url'])}" target="_blank" rel="noopener">{esc(m['headline'])}</a>
+<div class="b-meta"><span>{esc(m['outlet'])}{pub}</span>{verdict_chip(m['verdict'])}<a href="{esc(m['article_url'])}" target="_blank" rel="noopener">Read the original &rarr;</a></div>
+<p class="b-claim"><b>The claim:</b> {esc(claim)}</p>
+<p class="b-why"><b>Why {esc(vlabel.lower())}:</b> {esc(m.get('rating_explained', ''))}</p>
+<div class="b-src"><strong>Sources:</strong> {srcs if srcs else "&mdash;"}</div>
+</article>"""
+
+
+def lead_html(m):
+    vlabel = VERDICTS.get(m.get("verdict"), VERDICTS["no-claim"])[0]
+    srcs = brief_sources(m)
+    pub = f" &middot; {esc(m['published'])}" if m.get("published") else ""
+    side_word = "the left" if m["side"] == "left" else "the right"
+    return f"""<section class="leadstory" data-side="{m['side']}" data-verdict="{m['verdict']}">
+<div class="kicker">Top reality check &middot; trending on {side_word}</div>
+<a class="lead-head" href="{esc(m['article_url'])}" target="_blank" rel="noopener">{esc(m['headline'])}</a>
+<div class="b-meta"><span>{esc(m['outlet'])}{pub}</span>{verdict_chip(m['verdict'])}<a href="{esc(m['article_url'])}" target="_blank" rel="noopener">Read the original &rarr;</a></div>
+<p class="b-claim"><b>The claim:</b> {esc(m.get('trending_claim') or 'No checkable factual claim — opinion or analysis.')}</p>
+<p class="b-why"><b>Why {esc(vlabel.lower())}:</b> {esc(m.get('rating_explained', ''))}</p>
+<div class="b-src"><strong>Sources:</strong> {srcs if srcs else "&mdash;"}</div>
+</section>"""
+
+
+def pick_lead(items, date):
+    # most severe verdict leads; ties alternate sides by day for fairness
+    try:
+        daynum = int(str(date)[8:10])
+    except Exception:
+        daynum = 1
+    first_side = "left" if daynum % 2 == 1 else "right"
+    return sorted(items, key=lambda m: (SEVERITY.get(m.get("verdict", "no-claim"), 5),
+                                        0 if m["side"] == first_side else 1,
+                                        m.get("order", 0)))[0]
+
+
+def edition_page_stories(date, edition, items, prev_date, next_date):
+    sev = lambda m: (SEVERITY.get(m.get("verdict", "no-claim"), 5), m.get("order", 0))
+    left = sorted([m for m in items if m["side"] == "left"], key=sev)
+    right = sorted([m for m in items if m["side"] == "right"], key=sev)
+    lead = pick_lead(items, date)
+    left = [m for m in left if m["id"] != lead["id"]]
+    right = [m for m in right if m["id"] != lead["id"]]
+    counts = {v: 0 for v in VERDICTS}
+    for m in items:
+        counts[m.get("verdict", "no-claim")] = counts.get(m.get("verdict", "no-claim"), 0) + 1
+    left_n = sum(1 for m in items if m["side"] == "left")
+    right_n = sum(1 for m in items if m["side"] == "right")
+    sb = ('<div class="scoreboard"><span class="sb"><b>' + str(left_n) + '</b>trending left</span>'
+          f'<span class="sb"><b>{right_n}</b>trending right</span>' +
+          "".join(f'<span class="sb"><b style="color:{VERDICTS[v][1]}">{counts[v]}</b>{VERDICTS[v][0]}</span>'
+                  for v in VERDICT_ORDER if counts[v]) + '</div>')
+    ver_btns = "".join(f'<button class="fbtn" data-verdict="{v}">{VERDICTS[v][0]}</button>'
+                       for v in VERDICT_ORDER)
+    nav = []
+    if prev_date:
+        nav.append(f'<a href="{BASE_URL}/editions/{prev_date}/">&larr; {prev_date}</a>')
+    else:
+        nav.append('<span></span>')
+    if next_date:
+        nav.append(f'<a href="{BASE_URL}/editions/{next_date}/">{next_date} &rarr;</a>')
+    else:
+        nav.append(f'<a href="{BASE_URL}/archive.html">Archive &rarr;</a>')
+    left_html = "\n".join(brief_html(m) for m in left)
+    right_html = "\n".join(brief_html(m) for m in right)
+    return (PAGE_TOP.replace("{title}", edition["title"]) + HEADER.replace("{base}", BASE_URL) + f"""
+<div class="wrap">
+<div class="nameplate">
+<div class="np-kicker">Daily story fact-check</div>
+<div class="np-title">Trending <span class="vs">vs.</span> Reality</div>
+<div class="np-tag">What's trending vs. what's true — every claim checked against named sources, same standard for both sides.</div>
+<div class="np-meta">{esc(edition['date_label'])} &middot; Daily edition</div>
+</div>
+{sb}
+<div class="filters"><div class="wrap">
+<button class="fbtn on" data-side="all">All</button>
+<button class="fbtn" data-side="left">Left</button>
+<button class="fbtn" data-side="right">Right</button>
+<span class="fsep"></span>
+<button class="fbtn on" data-verdict="all">Any verdict</button>
+{ver_btns}
+<span class="fcount" id="fcount"></span>
+</div></div>
+{lead_html(lead)}
+<div class="cols">
+<section class="sidecol"><h2><span class="dot left"></span>Trending on the Left<span class="count">{left_n} stories</span></h2>
+{left_html}</section>
+<section class="sidecol"><h2><span class="dot right"></span>Trending on the Right<span class="count">{right_n} stories</span></h2>
+{right_html}</section>
+</div>
+{HOW_STORIES}
+<div class="ednav">{nav[0]}{nav[1]}</div>
+</div>
+{FOOTER}""")
+
+
+def edition_page(date, edition, items, prev_date, next_date):
+    if edition.get("kind", "stories") == "stories":
+        return edition_page_stories(date, edition, items, prev_date, next_date)
+    return edition_page_memes(date, edition, items, prev_date, next_date)
 
 
 def meme_card(m, date):
@@ -265,13 +392,10 @@ def meme_card(m, date):
 </div></div>"""
 
 
-def edition_page(date, edition, items, prev_date, next_date):
+def edition_page_memes(date, edition, items, prev_date, next_date):
     kind = edition.get("kind", "stories")
     is_stories = kind == "stories"
-    if is_stories:
-        cards = "\n".join(story_card(m) for m in sorted(items, key=lambda x: x.get("order", 0)))
-    else:
-        cards = "\n".join(meme_card(m, date) for m in sorted(items, key=lambda x: x.get("order", 0)))
+    cards = "\n".join(meme_card(m, date) for m in sorted(items, key=lambda x: x.get("order", 0)))
     counts = {v: 0 for v in VERDICTS}
     for m in items:
         counts[m.get("verdict", "no-claim")] = counts.get(m.get("verdict", "no-claim"), 0) + 1
@@ -292,18 +416,11 @@ def edition_page(date, edition, items, prev_date, next_date):
         nav.append(f'<a href="{BASE_URL}/editions/{next_date}/">{next_date} &rarr;</a>')
     else:
         nav.append(f'<a href="{BASE_URL}/archive.html">Archive &rarr;</a>')
-    if is_stories:
-        kicker, h1, side_l, side_r = (
-            "Daily story fact-check",
-            'What\'s trending, <span class="grad">minus the spin.</span>',
-            "from left-leaning outlets", "from right-leaning outlets")
-        how = HOW_STORIES
-    else:
-        kicker, h1, side_l, side_r = (
-            "Meme pilot edition",
-            'The memes, <span class="grad">minus the spin.</span>',
-            "from left-leaning sources", "from right-leaning sources")
-        how = HOW_MEMES
+    kicker, h1, side_l, side_r = (
+        "Meme pilot edition",
+        'The memes, <span class="grad">minus the spin.</span>',
+        "from left-leaning sources", "from right-leaning sources")
+    how = HOW_MEMES
     return (PAGE_TOP.replace("{title}", edition["title"]) + HEADER.replace("{base}", BASE_URL) + f"""
 <div class="wrap">
 <div class="dateline">{esc(edition['date_label'])} &middot; Daily edition</div>

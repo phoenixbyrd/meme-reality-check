@@ -18,7 +18,7 @@ Run every day at 4 AM America/New_York. Today's date = the edition date.
 
 ## Pipeline
 
-### 1. Source stories (target: up to 50 left + 50 right — quality bar governs)
+### 1. Source stories (target: 100 — 50 left + 50 right; quality bar governs)
 
 Spawn two research subagents in parallel (or do it directly for small runs):
 
@@ -90,7 +90,7 @@ python3 build.py
 git add -A && git commit -m "stories edition <YYYY-MM-DD>" && git push origin main
 ```
 
-Then verify: `curl -s https://phoenixbyrd.github.io/meme-reality-check/editions/<YYYY-MM-DD>/ | grep -c 'class="card"'` must equal the story count. Open the page and eyeball 3–4 cards (headline links, verdict chips, explanations render).
+Then verify: `curl -s https://phoenixbyrd.github.io/meme-reality-check/editions/<YYYY-MM-DD>/ | grep -c '<article class="brief"'` must equal the story count minus 1 (the lead story renders separately as `.leadstory`). Open the page and eyeball the lead story plus 3–4 briefs (headline links, verdict chips, explanations render).
 
 ### 6. Sanity checks before push
 
