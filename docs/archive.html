@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Archive | Meme Reality Check</title>
+<meta name="description" content="Daily fact-check of trending political memes from left- and right-leaning sources. The reality behind the meme.">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#0d0f14;--card:#161a23;--card2:#1d2230;--line:#262c3d;--txt:#e8ebf2;--mut:#9aa3b8;--acc:#7c5cff}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--txt);line-height:1.6;min-height:100vh}
+a{color:#8ea6ff;text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header.site{background:rgba(13,15,20,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:14px 0;position:sticky;top:0;z-index:50}
+header.site .wrap{display:flex;align-items:center;justify-content:space-between}
+.brand{font-size:21px;font-weight:800;letter-spacing:.3px;color:#fff}
+.brand .m1{background:linear-gradient(135deg,#7c5cff,#00d4ff);-webkit-background-clip:text;background-clip:text;color:transparent}
+.brand .m2{color:#ff5c7a}
+.tagline{font-size:12px;color:var(--mut);margin-top:1px}
+nav a{color:var(--mut);font-size:14px;margin-left:20px}
+nav a:hover{color:#fff}
+.hero{padding:44px 0 10px;text-align:center}
+.hero .kicker{display:inline-block;font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--acc);border:1px solid var(--acc);border-radius:999px;padding:5px 14px;margin-bottom:16px}
+.hero h1{font-size:clamp(30px,5vw,52px);line-height:1.1;font-weight:800;margin-bottom:12px}
+.hero h1 .grad{background:linear-gradient(135deg,#7c5cff,#00d4ff 60%,#22c55e);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{color:var(--mut);max-width:640px;margin:0 auto;font-size:16px}
+.stats{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:22px 0 6px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 16px;font-size:13px;color:var(--mut)}
+.stat b{font-size:20px;display:block;color:#fff}
+.filters{position:sticky;top:62px;z-index:40;background:rgba(13,15,20,.9);backdrop-filter:blur(12px);padding:14px 0;border-bottom:1px solid var(--line);margin-top:18px}
+.filters .wrap{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.fbtn{background:var(--card);border:1px solid var(--line);color:var(--mut);border-radius:999px;padding:7px 16px;font-size:13px;cursor:pointer;transition:.15s}
+.fbtn:hover{border-color:var(--acc);color:#fff}
+.fbtn.on{background:var(--acc);border-color:var(--acc);color:#fff;font-weight:600}
+.fsep{width:1px;height:22px;background:var(--line);margin:0 4px}
+.fcount{margin-left:auto;font-size:13px;color:var(--mut)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:18px;padding:26px 0 40px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-3px);border-color:#3a4360}
+.card.hidden{display:none}
+.memeimg{width:100%;aspect-ratio:1/1;object-fit:cover;background:#0a0c10;cursor:zoom-in;display:block}
+.card .body{padding:16px 18px 18px;display:flex;flex-direction:column;gap:10px;flex:1}
+.badges{display:flex;gap:8px;flex-wrap:wrap}
+.side{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1px;border-radius:999px;padding:4px 11px}
+.side.left{background:rgba(96,165,250,.14);color:#7fb3ff;border:1px solid rgba(96,165,250,.4)}
+.side.right{background:rgba(248,113,113,.13);color:#ff9d9d;border:1px solid rgba(248,113,113,.4)}
+.verdict{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1px;border-radius:999px;padding:4px 11px;border:1px solid}
+.claim{font-size:14px;color:var(--mut);font-style:italic;border-left:3px solid var(--line);padding-left:12px}
+.claim b{color:var(--txt);font-style:normal;display:block;font-size:12px;text-transform:uppercase;letter-spacing:1px;margin-bottom:4px}
+.reality{font-size:14px;color:var(--txt)}
+.reality b{display:block;font-size:12px;text-transform:uppercase;letter-spacing:1px;color:var(--mut);margin-bottom:4px}
+.srcs{font-size:12px;color:var(--mut);margin-top:auto;padding-top:8px;border-top:1px dashed var(--line)}
+.srcs a{margin-right:10px}
+.trsrc{font-size:12px;color:var(--mut)}
+.trsrc a{color:var(--mut);text-decoration:underline}
+.how{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;margin:10px 0 40px;font-size:14px;color:var(--mut)}
+.how h2{color:#fff;font-size:18px;margin-bottom:10px}
+.how li{margin:6px 0 6px 18px}
+footer.site{border-top:1px solid var(--line);padding:26px 0;margin-top:10px;font-size:13px;color:var(--mut)}
+.archive-list{list-style:none;padding:24px 0 40px}
+.archive-list li{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 22px;margin-bottom:12px}
+.archive-list .d{font-size:13px;color:var(--mut)}
+.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:24px}
+.lightbox.open{display:flex}
+.lightbox img{max-width:100%;max-height:100%;border-radius:12px}
+.ednav{display:flex;justify-content:space-between;padding:8px 0 30px;font-size:14px}
+.dateline{font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--mut);text-align:center;margin-top:26px}
+@media(max-width:640px){.fcount{display:none}.filters{top:60px}}
+</style></head>
+<body>
+<header class="site"><div class="wrap">
+<div><a class="brand" href="https://phoenixbyrd.github.io/meme-reality-check/"><span class="m1">MEME</span> <span class="m2">VS</span> <span class="m1">REALITY</span></a><div class="tagline">The reality behind the meme.</div></div>
+<nav><a href="https://phoenixbyrd.github.io/meme-reality-check/">Today</a><a href="https://phoenixbyrd.github.io/meme-reality-check/archive.html">Archive</a><a href="https://phoenixbyrd.github.io/meme-reality-check/#how">Method</a></nav>
+</div></header>
+<div class="wrap">
+<div class="dateline">Archive</div>
+<div class="hero"><h1>Past <span class="grad">editions.</span></h1></div>
+<ul class="archive-list"><li><a href="https://phoenixbyrd.github.io/meme-reality-check/editions/2026-09-27/"><strong style="color:#fff">September 27, 2026</strong></a>
+<div class="d">Sunday, September 27, 2026 &middot; 50 left-source memes, 50 right-source memes checked</div></li></ul>
+</div>
+<footer class="site"><div class="wrap">
+<strong style="color:#fff">Meme Reality Check</strong> — every day we pull trending political memes from left-leaning and right-leaning sources and check the claims behind them against named sources. Same rules for both sides.<br>
+<span style="font-size:12px">Memes belong to their creators; shown here for commentary and fact-checking. Corrections: reply in the Muse app.</span>
+</div></footer>
+<div class="lightbox" id="lb"><img id="lbi" alt="meme enlarged"></div>
+<script>
+const sideBtns=[...document.querySelectorAll('[data-side]')];
+const verBtns=[...document.querySelectorAll('[data-verdict]')];
+let side='all',verdict='all';
+function apply(){
+  let n=0;
+  document.querySelectorAll('.card').forEach(c=>{
+    const okS=side==='all'||c.dataset.side===side;
+    const okV=verdict==='all'||c.dataset.verdict===verdict;
+    const show=okS&&okV;
+    c.classList.toggle('hidden',!show);
+    if(show)n++;
+  });
+  document.getElementById('fcount').textContent=n+' shown';
+}
+sideBtns.forEach(b=>b.onclick=()=>{side=b.dataset.side;sideBtns.forEach(x=>x.classList.toggle('on',x===b));apply();});
+verBtns.forEach(b=>b.onclick=()=>{verdict=b.dataset.verdict;verBtns.forEach(x=>x.classList.toggle('on',x===b));apply();});
+const lb=document.getElementById('lb'),lbi=document.getElementById('lbi');
+document.querySelectorAll('.memeimg').forEach(im=>im.onclick=()=>{lbi.src=im.src;lb.classList.add('open');});
+lb.onclick=()=>lb.classList.remove('open');
+document.addEventListener('keydown',e=>{if(e.key==='Escape')lb.classList.remove('open');});
+apply();
+</script>
+</body></html>

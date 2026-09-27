@@ -210,7 +210,7 @@ def edition_page(date, edition, memes, prev_date, next_date):
         nav.append(f'<a href="{next_date}">{next_date} &rarr;</a>')
     else:
         nav.append(f'<a href="{BASE_URL}/archive.html">Archive &rarr;</a>')
-    return (PAGE_TOP.format(title=edition["title"]) + HEADER.format(base=BASE_URL) + f"""
+    return (PAGE_TOP.replace("{title}", edition["title"]) + HEADER.replace("{base}", BASE_URL) + f"""
 <div class="wrap">
 <div class="dateline">{esc(edition['date_label'])} &middot; Daily edition</div>
 <div class="hero">
@@ -246,7 +246,7 @@ def archive_page(items):
         f"""<li><a href="{BASE_URL}/editions/{d}/"><strong style="color:#fff">{esc(ed['title'])}</strong></a>
 <div class="d">{esc(ed['date_label'])} &middot; {ed.get('left_n', 0)} left-source memes, {ed.get('right_n', 0)} right-source memes checked</div></li>"""
         for d, ed in items)
-    return (PAGE_TOP.format(title="Archive") + HEADER.format(base=BASE_URL) + f"""
+    return (PAGE_TOP.replace("{title}", "Archive") + HEADER.replace("{base}", BASE_URL) + f"""
 <div class="wrap">
 <div class="dateline">Archive</div>
 <div class="hero"><h1>Past <span class="grad">editions.</span></h1></div>
