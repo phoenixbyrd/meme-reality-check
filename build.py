@@ -164,6 +164,11 @@ footer.site{border-top:1px solid var(--line);padding:26px 0;margin-top:10px;font
 .d-sec>a{display:block;color:var(--txt);padding:11px 2px;border-bottom:1px solid var(--line);font-size:15px}
 .d-btns{display:flex;flex-wrap:wrap;gap:8px}
 .d-foot{font-size:13px;color:var(--mut)}
+/* ---- edition podcast player ---- */
+.podplayer{background:#141922;border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:18px 0}
+.pp-kicker{font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--mut);margin-bottom:10px}
+.podplayer audio{width:100%}
+.pp-note{font-size:12px;color:var(--mut);margin-top:8px}
 /* ---- news layout (story editions) ---- */
 .nameplate{text-align:center;padding:34px 0 16px;border-bottom:3px double var(--line);margin-bottom:6px}
 .np-kicker{font-size:11px;text-transform:uppercase;letter-spacing:3px;color:var(--acc)}
@@ -393,6 +398,11 @@ def edition_page_stories(date, edition, items, prev_date, next_date):
 <div class="np-title">Trending <span class="vs">vs.</span> Reality</div>
 <div class="np-tag">What's trending vs. what's true — every claim checked against named sources, same standard for both sides.</div>
 <div class="np-meta">{esc(edition['date_label'])} &middot; Daily edition</div>
+</div>
+<div class="podplayer">
+<div class="pp-kicker">🎧 Listen to today's episode</div>
+<audio controls preload="none" src="{BASE_URL}/audio/{date}.mp3"></audio>
+<div class="pp-note">Spin Check — all of today's stories read aloud (~20 min). New episode daily at 6:00 AM ET.</div>
 </div>
 {sb}
 <div id="filterSrc" hidden>
