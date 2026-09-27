@@ -1,0 +1,470 @@
+[
+ {
+  "id": "L01",
+  "side": "left",
+  "headline": "Jake Tapper: Trump’s Outside Advisers Pushing For Martial Law Takeover Of Midterms",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/jake-tapper-trump-outside-advisors-pushing",
+  "published": "2026-09-26",
+  "trending_claim": "Outside advisers to Trump, including attorney Peter Tickton, are urging him to take federal control of the 2026 midterms — including by declaring martial law on or around Election Day — as reported by The Atlantic and covered in a CNN segment by Jake Tapper.",
+  "verdict": "accurate",
+  "rating_explained": "The Atlantic's reporting by Yvonne Wingett Sanchez and Michael Scherer is the basis: Election Law Blog quotes it at length, with attorney Peter Ticktin (the Atlantic's spelling; Crooks and Liars renders it 'Tickton') laying out three scenarios for the fall, the last being that Trump 'tries to declare martial law on or around November 3' — 'Either martial law, or step aside.' Baller Alert, summarizing the same reporting, confirms CNN's Jake Tapper covered the piece Thursday on The Lead. The Atlantic's piece itself is careful to frame this as pressure from outside advisers: it reports a White House official saying Ticktin, Wayne Allyn Root and Tina Peters 'play no role in election policy,' and a DOJ spokesperson saying there are no such plans. The trending claim faithfully reports what The Atlantic reported and that Tapper covered it, without asserting Trump has decided to act, so the claim stands as accurate.",
+  "sources": [
+   {
+    "name": "Election Law Blog (quoting The Atlantic)",
+    "url": "https://electionlawblog.org/2026/the-supporters-urging-trump-to-declare-martial-law-for-the-midterms/"
+   },
+   {
+    "name": "Baller Alert",
+    "url": "https://balleralert.com/trump-allies-declare-martial-law-midterm-elections/"
+   }
+  ],
+  "trending_context": "Front-page lead on Crooks and Liars' 'The Latest' on Sep 26–27, driven by The Atlantic's reporting and Jake Tapper's CNN segment.",
+  "order": 1
+ },
+ {
+  "id": "L02",
+  "side": "left",
+  "headline": "SCOTUS Again Blocks Missouri’s Gerrymandered Congressional Map",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/scotus-again-blocks-missouri-s",
+  "published": "2026-09-26",
+  "trending_claim": "In a unanimous unsigned decision, the Supreme Court ordered Missouri to use the 2022 congressional map — not the legislature's 2025 gerrymandered map — for the 2026 election, ruling that as a matter of state law the 2022 map must be used.",
+  "verdict": "accurate",
+  "rating_explained": "The Associated Press reported on September 26, 2026 that the Supreme Court, in an unsigned opinion with 'no noted dissents,' halted the 8th Circuit ruling and let stand the Missouri Supreme Court's decision, quoting the high court: 'The District Court and Court of Appeals should not enjoin or otherwise prohibit the use of the 2022 map in the 2026 congressional election in Missouri.' The Missouri Independent's original reporting (by Rudi Keller) describes it as 'a unanimous decision' and quotes the ruling verbatim: 'In short, as a matter of state law, the 2022 map — not the 2025 map — must be used in the 2026 congressional election.' AP adds the context that the 2025 map was used in the August primaries and targeted Rep. Emanuel Cleaver's district. Every element of the trending claim — unanimous, unsigned, 2022 map for 2026, as a matter of state law — matches the named sources exactly.",
+  "sources": [
+   {
+    "name": "Associated Press (via WCIA)",
+    "url": "https://www.wcia.com/news/national/ap-supreme-court-rejects-a-trump-backed-missouri-congressional-map-for-the-third-time/"
+   },
+   {
+    "name": "Missouri Independent (via The Pitch KC)",
+    "url": "https://www.thepitchkc.com/us-supreme-court-again-blocks-missouris-gerrymandered-congressional-map/"
+   }
+  ],
+  "trending_context": "Leading Crooks and Liars on Sep 26 (via the Missouri Independent), capping three weeks of court fights that changed the map in place five times.",
+  "order": 2
+ },
+ {
+  "id": "L03",
+  "side": "left",
+  "headline": "US Amb. To China Insists Trump Got Assurances From Xi On Iran",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/us-amb-china-trump-got-assurances-xi-iran",
+  "published": "2026-09-26",
+  "trending_claim": "U.S. Ambassador to China David Perdue claimed on Fox News that Xi Jinping assured Trump that China would stop direct or indirect support for Iran, and that the two leaders agreed Iran would never get a nuclear weapon and the Strait of Hormuz would stay open — even as CBS reported the Xi visit ended with few achievements announced.",
+  "verdict": "accurate",
+  "rating_explained": "Reuters reported September 25–26, 2026 that Perdue said on CNBC that Trump reiterated to Xi that direct or indirect support for Iran was 'totally unacceptable,' and told Fox News' 'America's Newsroom' when asked whether China would stop assisting Iran: 'That's what the commitment is. They assured us yesterday they're not doing that.' The AP's summit wrap confirms the broader framing: the visit was 'heavy on pomp and light on substance' with 'no major breakthroughs,' and the CBS News piece 'Trump-Xi visit to Washington wraps up with few achievements announced' is confirmed as published September 25, 2026. One material caveat: Reuters also reported that a senior Iranian official told the wire Chinese officials assured Iran that Beijing would not limit its economic, political or military ties with Tehran under US pressure — directly contradicting Perdue's claimed assurance. The trending claim accurately recounts what Perdue said and the CBS contrast, so it is accurate; whether Beijing's assurance is real is disputed, not established.",
+  "sources": [
+   {
+    "name": "Reuters (via TBS News)",
+    "url": "https://www.tbsnews.net/world/trump-warns-xi-over-chinese-support-iran-receives-assurances-us-envoy-says-1553911"
+   },
+   {
+    "name": "Associated Press (via KXL)",
+    "url": "https://www.kxl.com/xi-is-wrapping-his-visit-to-washington-with-a-peek-at-the-constitution-and-bill-of-rights/"
+   }
+  ],
+  "trending_context": "Trending on Crooks and Liars on Sep 26 amid coverage of Xi's White House state dinner; Aaron Rupar's clip of the Fox segment circulated widely on the left.",
+  "order": 3
+ },
+ {
+  "id": "L04",
+  "side": "left",
+  "headline": "White House bars CNN from covering Trump on behalf of major TV networks as he travels to Tennessee",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/25/politics/white-house-blocks-cnn-air-force-one-travel-pool?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-25",
+  "trending_claim": "The White House barred CNN from flying on Air Force One to Tennessee for its scheduled TV pool duties — leaving no television pool coverage of the trip — days after a federal judge ordered the administration to restore CNN, MS NOW and Politico's White House credentials.",
+  "verdict": "accurate",
+  "rating_explained": "The Associated Press reported that the White House signaled Friday night, September 25, 2026 that CNN would be left off Air Force One for Trump's Saturday trip to Knoxville, Tennessee, where the network was scheduled to serve its rotating TV-pool turn. U.S. District Judge Timothy Kelly had struck down the White House's broader ban on CNN, MS NOW and Politico in an overnight ruling early Thursday, though AP notes the order addressed 'hard passes' and said nothing directly about pool duties or Air Force One. The Hill reported that the Friday night White House note listed no replacement for CNN, meaning no television pool coverage of the trip. One nuance: AP later reported the seat went to Real America's Voice, a conservative network that is not a member of the five-network pool — so there was no TV pool coverage in the established pool's sense. The claim's core and details are corroborated.",
+  "sources": [
+   {
+    "name": "Associated Press (via 990 WNTP)",
+    "url": "https://990theanswer.com/news/national/cnn-left-off-air-force-one-for-trumps-upcoming-trip-white-house-signals-in-new-m/c32504981ee2f5b3c137e57d9d36f33e"
+   },
+   {
+    "name": "The Hill (via KCAU)",
+    "url": "https://www.kcau9.com/news/national-news/cnn-says-its-press-pool-reporters-were-barred-from-boarding-air-force-one/"
+   }
+  ],
+  "trending_context": "Top story on Memeorandum Sep 26–27 with related items from the NYT, Politico, NBC and the Guardian; the press-pool fight dominated left-leaning media all weekend.",
+  "order": 4
+ },
+ {
+  "id": "L05",
+  "side": "left",
+  "headline": "Talarico Challenges Chickensh*t Paxton To Fox News Debate",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/talarico-challenges-cowardly-paxton-fox",
+  "published": "2026-09-26",
+  "trending_claim": "Democrat James Talarico challenged Republican Ken Paxton to debate on Fox News with Bret Baier moderating, after Paxton refused debate invitations from CNN and the Texas Tribune Festival and went silent on an earlier commitment to debate.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "USA Today and the Texas Tribune (republished by the San Antonio Current) both confirm that Talarico issued the Fox News debate challenge during a September 24 interview at the Texas Tribune Festival, proposing Bret Baier as moderator and calling Fox Paxton's 'safe space.' They also confirm the backdrop: Paxton's senior adviser Nick Maddux said in July that 'of course we are going to debate,' then declined three debate invitations from local Texas TV stations (Nexstar, WFAA, Hearst/NBC/Telemundo), and WFAA reported the campaign had not responded to its messages since August 24. The CNN refusal is confirmed too: after Talarico accepted CNN's invitation on September 2, Maddux rejected it as a 'CCP-style struggle session.' The one imprecise element is the claim that Paxton 'refused debate invitations from ... the Texas Tribune Festival': Tribune reporting says Paxton was invited to participate in the festival itself (his campaign stopped responding), while the Fox News challenge was issued at the festival — these are distinct facts the claim compresses together. The core of the claim is solid; that sub-detail is not supported as stated.",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/state/texas/2026/09/25/talarico-challenges-paxton-to-debate-on-fox-news-hosted-by-bret-baier/91934709007/"
+   },
+   {
+    "name": "Texas Tribune (via San Antonio Current)",
+    "url": "https://www.sacurrent.com/news/texas-news/james-talarico-challenges-ken-paxton-to-fox-news-debate/"
+   }
+  ],
+  "trending_context": "High on Crooks and Liars' latest list on Sep 26–27 as the Texas Senate race heats up.",
+  "order": 5
+ },
+ {
+  "id": "L06",
+  "side": "left",
+  "headline": "Sen Tuberville Admits ‘I Read Very Little’ Because No Other Opinion Matters",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/sen-tuberville-admits-i-read-very-little",
+  "published": "2026-09-26",
+  "trending_claim": "Sen. Tommy Tuberville told Raw Story's Matt Laslo 'I read very little... I want my own opinion, not somebody else's,' and showed no knowledge of the White House press ban or a ProPublica report that a Kremlin-linked oligarch financed Donald Trump Jr.'s wedding party.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Tuberville told Raw Story's Matt Laslo he reads 'very little' to keep his own opinion, then asked 'Did they ban Politico, too?' when pressed about reporting that JD Vance was the source behind a story the White House cited to justify banning Politico, and said 'I didn't see that' about ProPublica's report that a Kremlin-linked oligarch financed Donald Trump Jr.'s wedding. A second outlet (All Chronology) corroborates the 'I read very little... I want my own opinion, not somebody else's' quote to Laslo, along with his 'no way Vance would do that' and 'I don't get into all that' responses. ProPublica's investigation confirms Umar Kremlev, an oligarch close to Vladimir Putin, footed the bill for hundreds of thousands of dollars of Trump Jr.'s wedding expenses, based on records reviewed and interviews with three people familiar with the event. The Crosscheck's fact-check confirms Trump banned Politico (alongside CNN and MS NOW) from the White House on September 18 and that a September 22 court letter cited six Politico stories; it rates the Vance-as-source identification as single-sourced from Status and unproven, though undenied. The ban itself was real, Tuberville's quoted answers match across independent accounts, and the ProPublica reporting is described faithfully, so the claim holds.",
+  "sources": [
+   {
+    "name": "All Chronology — 'Senator Tuberville Reveals Shocking Strategy To Form His Own Opinion' (Sept 24, 2026)",
+    "url": "https://allchronology.com/2026/09/24/senator-tuberville-reveals-shocking-strategy-to-form-his-own-opinion/"
+   },
+   {
+    "name": "ProPublica — 'Donald Trump Jr.'s Wedding Bankrolled by Putin-Linked Russian Oligarch' (Sept 2026)",
+    "url": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin"
+   },
+   {
+    "name": "The Crosscheck — 'The White House cited its own background call to justify banning Politico' (Sept 23, 2026)",
+    "url": "https://thecrosscheck.org/factcheck/2026-09-23-politico-ban-vance-background-call/"
+   }
+  ],
+  "trending_context": "Widely shared on the left on Sep 26 (Raw Story original) as an emblem of GOP incuriosity; featured on Crooks and Liars.",
+  "order": 6
+ },
+ {
+  "id": "L07",
+  "side": "left",
+  "headline": "Sen. John Cornyn Refuses To Raise A Dime For Ken Paxton",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/sen-john-cornyn-refuses-fundraise-corrupt",
+  "published": "2026-09-26",
+  "trending_claim": "Outgoing Sen. John Cornyn told CNN's Manu Raju he will not fundraise at all for GOP Senate nominee Ken Paxton, who beat him in the primary, calling Paxton a flawed candidate and warning that nominating unappealing candidates is 'how majority parties become minority parties.'",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Cornyn told CNN's Manu Raju he will not fundraise for GOP nominee Ken Paxton, called him a flawed candidate, and warned that nominating unappealing candidates is how majority parties become minority parties. USA Today confirms Cornyn told a CNN reporter on September 24 he would not help fundraise for Paxton, quoting him: 'Well, for all the reasons that we pointed out in the primary' and 'if we nominate flawed candidates in November, we risk losing.' USA Today also confirms Paxton defeated Cornyn by 28 percentage points in the May runoff following the March primary, and that Paxton has Trump's endorsement while Democrat James Talarico is his general-election opponent. The Washington Examiner independently confirms Cornyn hosted a Dallas fundraiser for six GOP Senate nominees that excluded Paxton, and that Cornyn 'has previously said he does not plan to raise money for his former opponent.' The C&L article's own intro garbles the primary outcome, but the trending claim's version — that Paxton beat Cornyn — is what the named sources confirm. Every checkable element of the claim is corroborated.",
+  "sources": [
+   {
+    "name": "USA Today — 'Cornyn calls Paxton flawed, won't fundraise for Texas Senate' (Sept 25, 2026)",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2026/09/25/john-cornyn-weighs-in-on-ken-paxton-in-texas-senate-race/91941186007/"
+   },
+   {
+    "name": "Washington Examiner — 'Paxton snubbed from Texas fundraising event with George W. Bush and Cornyn' (Sept 2026)",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4738497/ken-paxton-texas-fundraising-bush-cornyn/"
+   }
+  ],
+  "trending_context": "Trending on Crooks and Liars on Sep 26; Aaron Rupar's clip of the Raju interview circulated on Bluesky, highlighting GOP divisions in the Texas Senate race.",
+  "order": 7
+ },
+ {
+  "id": "L08",
+  "side": "left",
+  "headline": "Another MAGA Rat Flees Trump’s Sinking Oil Tanker",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/another-maga-rat-flees-trumps-sinking-oil",
+  "published": "2026-09-26",
+  "trending_claim": "Wisconsin GOP gubernatorial candidate Rep. Tom Tiffany — who voted five times to keep the Iran war going after earlier calling for an exit — is now calling for the U.S. to leave Iran as diesel hits all-time highs, saying 'it's time to move on... Time to come home, take care of business here in America.'",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Rep. Tom Tiffany, a Wisconsin GOP gubernatorial candidate, voted five times against measures that would have ended the Iran war after earlier calling for an exit, and is now calling for withdrawal as diesel hits record highs. The Milwaukee Journal Sentinel confirms Tiffany told reporters on September 22 at the Wisconsin Counties Association that the US should exit Iran ('Time to come home, take care of business here in America'), that he voted five times against resolutions barring Trump from continuing Iran operations without congressional approval (most recent in July; he missed the September 15 vote after a plane crash), and that he had publicly said the US should exit Iran since May. MAGA Report Cards, citing official House clerk roll calls, lists the five 'no' votes: H. Con. Res. 38, 40, 75, 86, and 89 from March through July 2026. The Journal Sentinel also confirms Wisconsin diesel averaged $6.61 a gallon per AAA, roughly double the $3.49 of a year earlier. Tiffany's statements, his voting record, and the record diesel prices all check out against the named sources.",
+  "sources": [
+   {
+    "name": "Milwaukee Journal Sentinel — 'Tiffany calls for Iran exit after voting against measures in Congress' (Sept 23, 2026)",
+    "url": "https://www.jsonline.com/story/news/politics/elections/2026/09/23/tiffany-calls-for-iran-exit-after-voting-against-measures-in-congress/91903780007/"
+   },
+   {
+    "name": "MAGA Report Cards — 'John James and Tom Tiffany Now Say Trump's Iran War Should End...' (Sept 23, 2026)",
+    "url": "https://www.magareportcards.com/blog/james-tiffany-iran-war-end-flip/"
+   }
+  ],
+  "trending_context": "Featured on Crooks and Liars on Sep 26, tying soaring diesel prices to GOP figures breaking with Trump over the Iran war.",
+  "order": 8
+ },
+ {
+  "id": "L09",
+  "side": "left",
+  "headline": "Palm Beach County, Home To Mar-a-Lago, Passes Data Center Moratorium",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/palm-beach-county-home-mar-lago-passes",
+  "published": "2026-09-26",
+  "trending_claim": "Palm Beach County commissioners voted 6-0 to enact a one-year moratorium on new large-scale (50+ megawatt) data centers, despite Trump saying every town should want one and that communities opposing them will end up 'backwards' and 'poor.'",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts Palm Beach County commissioners voted 6-0 for a one-year moratorium on new large-scale (50+ megawatt) data centers, even though Trump has urged communities to welcome data centers and warned opponents would end up 'backwards' and 'poor.' Realty Today confirms commissioners voted 6-0 on September 24 to temporarily stop new applications for data centers with anticipated peak electrical demand of at least 50 megawatts, for up to one year, while permanent rules are written. MarketWatch confirms Trump's mid-August remark that if he ran a community he 'would want to have the data centers because they bring tremendous income,' and his late-August social-media post that communities refusing them would 'end up being backwards and poor.' Both the county's role as Mar-a-Lago's home and the context of the vote are consistent across the named sources. The vote margin, the 50-megawatt threshold, the one-year duration, and Trump's quoted remarks all match.",
+  "sources": [
+   {
+    "name": "Realty Today — 'Palm Beach County Freezes Large Data Centers as AI Boom Collides With Real Estate and Power Constraints' (Sept 24, 2026)",
+    "url": "https://www.realtytoday.com/articles/114935/20260924/palm-beach-county-freezes-large-data-centers-ai-boom-collides-real-estate-power-constraints.htm"
+   },
+   {
+    "name": "MarketWatch — 'The data-center backlash is so fierce that Republican candidates are willing to cross Trump' (Sept 2026)",
+    "url": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03"
+   }
+  ],
+  "trending_context": "Amplified by Sen. Bernie Sanders on Sep 25 and trending in left media Sep 26 as a rebuke of Trump's data-center push in his own backyard (via Common Dreams).",
+  "order": 9
+ },
+ {
+  "id": "L10",
+  "side": "left",
+  "headline": "Roger Marshall’s Past Just Got Turned Into A BRUTAL Campaign Ad",
+  "outlet": "Crooks and Liars",
+  "article_url": "https://crooksandliars.com/2026/09/roger-marshall-s-past-just-got-turned",
+  "published": "2026-09-26",
+  "trending_claim": "A new campaign ad spotlights Sen. Roger Marshall's history of aggressive medical-debt collection: his practice sued more than 700 patients over unpaid bills, at least 81 were arrested after missing court, including a woman arrested in 2011 over a missed $50 payment while eight months pregnant.",
+  "verdict": "accurate",
+  "rating_explained": "The story asserts a new campaign ad spotlights Sen. Roger Marshall's aggressive medical-debt collection record: 700+ patient lawsuits, 81 arrests after missed court dates, including a woman arrested in 2011 over a missed $50 payment while eight months pregnant. The ad's existence and content are confirmed by the Washington Examiner's reporting that Democratic Kansas Senate nominee Adam Hamilton released a video ad featuring former patient 'Meischa' saying she was arrested because she 'didn't make a $50 payment to Roger Marshall' while eight months pregnant, and by a YouTube short describing the ad's content. The underlying facts trace to the NYT's September 8 investigation, summarized by Becker's: Marshall or his practice sued more than 700 patients, courts issued arrest warrants against 81 for missed court dates, the practice charged 18% annual interest, and Meischa Zimmerman was arrested three times — the first while eight months pregnant — over a C-section bill that grew past $7,000 with interest. Marshall's side is on record disputing the framing: his spokeswoman said the procedures matched standard Kansas practice and his lawyer said he was not involved in warrant or arrest decisions. The ad exists, its account matches the NYT findings, and Marshall's rebuttal is noted; the claim is accurate.",
+  "sources": [
+   {
+    "name": "Becker's Physician Leadership — 'Physician-senator sued 700+ patients over unpaid bills: NYT' (Sept 8, 2026)",
+    "url": "https://www.beckersphysicianleadership.com/compensation/81-arrest-warrants-tied-to-physician-lawmakers-patient-debt-cases/"
+   },
+   {
+    "name": "YouTube — 'Roger Marshall's FORMER Patient Arrested Over a $50 Medical Bill' (short, Sept 2026)",
+    "url": "https://www.youtube.com/shorts/wxKyC8UwLfg"
+   }
+  ],
+  "trending_context": "Trending on Crooks and Liars on Sep 26, fueling scrutiny of Marshall's medical-debt record ahead of his reelection bid.",
+  "order": 10
+ },
+ {
+  "id": "L11",
+  "side": "left",
+  "headline": "Iran says it is awaiting ‘definitive’ US response despite Trump rejecting latest proposal",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/26/middleeast/trump-rejects-iran-proposal-hormuz-intl?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-26",
+  "trending_claim": "Trump publicly rejected Iran's proposal to reopen the Strait of Hormuz within a week and resume nuclear talks (in exchange for lifting the naval blockade and oil sanctions), calling it 'unacceptable,' though Iran says no formal rejection has come through mediators; the WSJ reported Trump told aides he expects to resume bombing Iran after the midterm elections.",
+  "verdict": "accurate",
+  "rating_explained": "The CNN piece reports Trump publicly rejected Iran's proposal on Sept 26, calling it 'unacceptable,' after Iran offered to reopen the Strait of Hormuz within a week and resume nuclear talks in exchange for the U.S. lifting its naval blockade and waiving oil sanctions. USA Today independently confirms Trump's 'that deal would not be acceptable' remark to reporters on Sept 26 and cites the Wall Street Journal's Sept 25 reporting that the denied proposal included opening Hormuz, resuming nuclear talks, and lifting the U.S. blockade of Iranian ports. The New York Post, also citing the WSJ, confirms the reported remark that Trump 'told aides he expects to resume bombing the country after the midterm elections,' and confirms the deal would have restarted nuclear talks in exchange for lifting the blockade. On the Iranian side, Foreign Minister Abbas Araghchi told CNN that no formal rejection had come through mediator channels: 'nothing has been conveyed to us from the mediators yet.' The only element I could not verify firsthand is the WSJ's own wording on the bombing remark, since the Journal is paywalled; it reaches me secondhand via the Post's direct attribution. Every other checkable element of the claim matches named, published reporting, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "USA Today — Trump rejects Iran ceasefire proposal for Hormuz (Sept 26, 2026)",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-ceasefire-iran-strait-of-hormuz/91956448007/"
+   },
+   {
+    "name": "New York Post — Trump rejects regime's seven-day ceasefire proposal (Sept 26, 2026)",
+    "url": "https://nypost.com/2026/09/26/us-news/trump-reiterates-iran-can-not-have-a-nuclear-weapon-as-prez-rejects-regimes-seven-day-ceasefire-proposal/"
+   }
+  ],
+  "trending_context": "The weekend's top story on Memeorandum (AP, Axios, NYT, Politico all leading it Sep 26–27); CNN's version was updated Sunday with UN Ambassador Mike Waltz's 'State of the Union' comments.",
+  "order": 11
+ },
+ {
+  "id": "L12",
+  "side": "left",
+  "headline": "White House Claim of $250 Billion in Fraud Questionable",
+  "outlet": "Political Wire",
+  "article_url": "https://politicalwire.com/2026/09/27/white-house-claim-of-250-billion-in-fraud-questionable/",
+  "published": "2026-09-27",
+  "trending_claim": "The New York Times' Linda Qiu found the White House fraud task force's ledger — touted by JD Vance as $250 billion in fraud found since he became 'fraud czar' — is difficult to verify, includes cases from the Biden administration, and leans on unverified or prematurely counted allegations.",
+  "verdict": "accurate",
+  "rating_explained": "The NYT findings as published are corroborated on every checkable point. An independent analysis by the Washington Sun (republished by Opera News) confirms Vance told an RNC crowd in April that 'we found $250 billion of fraud just since the president made me the fraud czar,' yet the ledger dates its $245.7 billion figure to January 2025 — months before Vance took the role — and the White House would not say which timeframe is correct, establishing the figure is genuinely difficult to verify. The same analysis documents the ledger's Biden-era entries: the Small Business Administration's $22.2 billion in flagged fraudulent loans was actually identified during the Biden administration, and a 'top ten' enforcement entry touting four captured fugitives includes three charged in 2019 and 2024, before this administration took office. Even the administration-friendly WLT Report confirms the shifting headline numbers — Vance's Sept 25 update claims $260.7B 'uncovered' since January 2025, $72B stopped and $58.9B recovered — and concedes 'uncovered' means estimated suspicious payments flagged for examination, not court judgments, which matches the NYT's language about unverifiable or prematurely counted allegations quoted by PoliticalWire. One caveat: the NYT piece itself is paywalled, so I verified its content through published excerpts plus independent corroboration. Because the claim accurately describes the NYT's findings and those findings are independently substantiated, the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Opera News / Washington Sun — 'Bamboozled: D.C. insiders warn White House fraud ledger is full of red flags'",
+    "url": "https://www.operanewsapp.com/us/en/share/detail?news_id=a63882065134862eea730f4724d68ecc&news_entry_id=5062b0aa260916en_us&open_type=transcoded&from=localnews&request_id=share_request&share_from="
+   },
+   {
+    "name": "WLT Report — Trump White House Drops Stunning New Fraud Ledger (Sept 25, 2026)",
+    "url": "https://wltreport.com/2026/09/25/trump-white-house-drops-stunning-new-fraud-ledger/"
+   }
+  ],
+  "trending_context": "Trending on Memeorandum Sep 27 via the NYT fact-check (summarized by Political Wire), challenging the administration's fraud-ledger claims.",
+  "order": 12
+ },
+ {
+  "id": "L13",
+  "side": "left",
+  "headline": "Trump allies could use midterms ‘counting window’ to disrupt results, experts warn",
+  "outlet": "The Guardian",
+  "article_url": "https://thebullpost.press/trump-allies-could-use-midterms-counting-window-to-disrupt-results-experts-warn/",
+  "published": "2026-09-27",
+  "trending_claim": "Election experts including former officials Caitlin Durkovich, Larry Norden and Ben Hovland warn the Trump administration could exploit the post-election 'counting window' — using claims of foreign interference to seize equipment or ballots and amplify unfounded fraud allegations to challenge midterm results.",
+  "verdict": "accurate",
+  "rating_explained": "This story is real and correctly attributed. Memeorandum's aggregator page lists it as 'Trump allies could use midterms counting window to disrupt results, experts warn (George Chidi/The Guardian),' and PoliticalWire's own Sept 27 coverage links directly to theguardian.com, confirming the original Guardian piece exists with this headline and author; the original Guardian URL was not directly fetchable in this environment. I opened the provided mirror (thebullpost.press) and found its text consistent with the attributed Guardian piece, including the direct quotes, so the mirror URL is retained as a confirmed verbatim carrier. The substance checks out: the piece quotes former deputy homeland security adviser Caitlin Durkovich telling a Brennan Center for Justice briefing that the administration could 'use the claim of foreign interference at the end of voting days to either seize equipment or to seize ballots, whether they're legally justified to do so or not,' quotes Brennan Center's Larry Norden ('This is the biggest threat right now') and former EAC chair Ben Hovland (on the administration's 'narrative of fraud' and 'live ballots'). This is a warnings story, and the claim's 'could' framing is its honest frame: the experts are predicting future risk, not asserting past facts, and it is accurate that they issued these warnings.",
+  "sources": [
+   {
+    "name": "Memeorandum — listing of Guardian piece by George Chidi (Sept 27, 2026)",
+    "url": "https://www.memeorandum.com/260927/p18"
+   },
+   {
+    "name": "PoliticalWire — Trump Could Use 'Counting Window' to Disrupt Election (Sept 27, 2026)",
+    "url": "https://politicalwire.com/2026/09/27/trump-could-use-counting-window-to-disrupt-election/"
+   }
+  ],
+  "trending_context": "On Memeorandum's front page Sep 27 (George Chidi, Guardian); widely shared in left circles amid election-subversion fears. Note: theguardian.com is unreachable from this environment, so the article was verified via a verbatim mirror.",
+  "order": 13
+ },
+ {
+  "id": "R01",
+  "side": "right",
+  "headline": "Everything we know about Brian Cole, the DC pipe bombing suspect",
+  "outlet": "Fox News",
+  "article_url": "https://www.foxnews.com/politics/who-brian-cole-dc-pipe-bomb-suspect",
+  "published": "2025-12-04",
+  "trending_claim": "Attorney General Pam Bondi asserts the five-year pipe-bomb investigation 'languished' under Biden for four years, that the FBI had all the needed evidence the whole time, and that the Trump DOJ cracked the case through diligent police work — a claim now being paired on the right with Tucker Carlson's interview of Cole's parents, who say he was framed.",
+  "verdict": "mixed",
+  "rating_explained": "The arrest record is established: Brian Cole Jr. was arrested Dec 4, 2025, and on July 7, 2026 Judge Amir Ali denied his motion to dismiss, ruling Trump's Jan 6 pardons do not cover him because he 'had not been convicted of the conduct at issue when the President issued the pardon' and was not charged until nearly a year after the proclamation (WSYR/iHeart court coverage). Bondi did make the 'languished' remark — 'This case languished. It sat there for four years collecting dust' — but on Fox & Friends on Dec 5, 2025, not this weekend; it is being re-amplified now alongside Tucker Carlson's Sept 17, 2026 interview of Cole's parents, who say their son was framed (confirmed by WLT Report quoting Carlson's X post). The factual core of Bondi's claim comes from Deputy FBI Director Dan Bongino himself: a fresh team assigned about two months before the arrest 'scoured existing evidence,' and the key evidence — credit-card purchases of bomb components, cell-phone and vehicle activity from Jan 5 — was 'gathered under the previous administration' (RealClearInvestigations, citing AP). But the blanket claim of four years of inaction is contradicted by the on-the-record record: former director Wray testified under oath the FBI was 'aggressively investigating' with a dedicated team, and the FBI made repeated public appeals and doubled its reward — though a January 2025 House GOP report alleged resources were diverted as early as February 2021. So the arrest is real and the evidence-predated-the-new-team claim is supported by the FBI's own deputy director, but 'no one did anything for four years' is an unverifiable characterization with named contradictory evidence on the record — hence mixed. The pardon fight is also real: the motion was denied, trial is set for February 2027.",
+  "sources": [
+   {
+    "name": "RealClearInvestigations (via TIPP Insights) — DC Pipe Bomb Arrest Raises Questions About Christopher Wray's FBI (Dec 12, 2025)",
+    "url": "https://tippinsights.com/dc-pipe-bomb-arrest-raises-questions-about-christophers-wrays-fbi/"
+   },
+   {
+    "name": "570 WSYR / iHeart — Judge Rules Accused Jan. 6 Pipe Bomber Not Covered By Trump Pardons (July 7, 2026)",
+    "url": "https://wsyr.iheart.com/content/2026-07-07-judge-rules-accused-jan-6-pipe-bomber-not-covered-by-trump-pardons/"
+   },
+   {
+    "name": "WLT Report — Mother of Accused J6 Pipe-Bomb Suspect Interview (Sept 17, 2026)",
+    "url": "https://wltreport.com/2026/09/17/mother-accused-j6-pipe-bomb-suspect-interview/"
+   }
+  ],
+  "trending_context": "Featured among Fox News's top homepage stories on Sep 27, 2026, alongside a Jeanine Pirro segment revealing new details; the pardon-motion fight over whether Trump's Jan. 6 clemency covers Cole keeps the case alive in right-wing discussion.",
+  "order": 1
+ },
+ {
+  "id": "R02",
+  "side": "right",
+  "headline": "Trump to set new fuel economy standards and undo Biden-era 'EV mandate'",
+  "outlet": "Washington Examiner",
+  "article_url": "https://www.washingtonexaminer.com/news/white-house/4744317/trump-fuel-economy-standards-biden-electric-vehicles/",
+  "published": "2026-09-26",
+  "trending_claim": "Trump announced Saturday he has approved new fuel economy standards that terminate the Biden-era EV mandate, claiming the old rules cost automakers billions and that the new ones will mean lower car prices and manufacturing jobs returning to Michigan, Ohio, Indiana, and South Carolina.",
+  "verdict": "accurate",
+  "rating_explained": "The Washington Examiner quotes Trump's Saturday-night announcement verbatim: he approved new fuel-economy standards that 'TERMINATE' Biden's 'ridiculous EV Mandate,' said the old rules 'cost our Great Auto Manufacturers $Billions,' promised 'LOWER PRICES, saving families thousands,' and declared 'Plants are coming back, and Jobs are returning, to Michigan, Ohio, Indiana, South Carolina,' with Transportation Secretary Sean Duffy confirming the rule lands Monday. Reuters (via LA Post, Sept 26) independently confirms the underlying action: DOT will finalize sharply lower fuel-economy standards through 2031 on Monday, reversing Biden's push, with Trump saying they will lower new-vehicle prices; the department's proposal sets a 34.5 mpg fleet average by 2031 versus 50.4 mpg under Biden, and DOT's own estimate says the change cuts per-vehicle costs by $930. The NYT (via memeorandum) similarly reports the administration will 'move on Monday to sharply scale back fuel-efficiency rules,' killing a federal effort to speed EV adoption. Two caveats: lower prices and returning jobs are Trump's forward-looking claims, not established outcomes — DOT's own figures project roughly $185 billion more in fuel spending and ~100 billion extra gallons consumed through 2050 — and the Examiner's '2024 standards set by Biden's EPA' slightly conflates EPA emissions rules with NHTSA fuel-economy standards. The claim faithfully describes the announcement, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Reuters (via LA Post) — US to finalize sharply lower vehicle fuel economy standards (Sept 27, 2026)",
+    "url": "https://www.lapost.com/content/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate"
+   },
+   {
+    "name": "Memeorandum — listing of Maxine Joselow / New York Times: 'Trump Administration Plans to Gut Clean Car Rules' (Sept 27, 2026)",
+    "url": "https://www.memeorandum.com/260927/p18"
+   }
+  ],
+  "trending_context": "Leading story on the Washington Examiner on Sep 27 and carried by memeorandum (NYT: administration moves Monday to sharply scale back fuel-efficiency rules).",
+  "order": 2
+ },
+ {
+  "id": "R03",
+  "side": "right",
+  "headline": "Iran ready for 'doomsday war' after Trump rejects ceasefire, foreign minister says",
+  "outlet": "Washington Examiner",
+  "article_url": "https://www.washingtonexaminer.com/policy/foreign-policy/4744415/iran-doomsday-war-trump-ceasefire-araghchi/",
+  "published": "2026-09-27",
+  "trending_claim": "Iranian Foreign Minister Abbas Araghchi warned Iran is prepared for a 'doomsday war' after Trump publicly rejected Tehran's ceasefire offer Saturday (a halt to Hormuz attacks plus resumed nuclear talks in exchange for lifting the U.S. naval blockade); the WSJ reports Trump told aides he expects to resume intensive bombing after the midterms.",
+  "verdict": "accurate",
+  "rating_explained": "The Washington Examiner asserts three things: Araghchi's 'doomsday war' warning on NBC's Meet the Press, Trump's Saturday rejection of Iran's ceasefire offer, and the Wall Street Journal's report that Trump expects to resume bombing after the midterms. The New York Post independently confirms the core quote from the Sunday Meet the Press interview — 'We stand firm in the face of any aggression against us, even when it comes to a doomsday war... At the same time, we are ready for diplomacy' — and confirms Trump's rejection of the overture, describing the seven-day proposal as involving unfreezing roughly $12 billion in Iranian assets, ending the blockade, and easing sanctions in exchange for reopening the Strait of Hormuz. The National News Desk corroborates the WSJ report, writing that the Journal broke the news Friday night citing U.S. officials that Trump told aides he expects U.S. bombing to resume after November's midterms, and that Trump told reporters Saturday the deal 'would not be acceptable.' Every element of the trending claim is supported by two independent named outlets, and the WSJ component is correctly presented as a report attributed to the Journal's U.S.-official sources rather than as a confirmed fact.",
+  "sources": [
+   {
+    "name": "New York Post",
+    "url": "https://nypost.com/2026/09/27/us-news/iran-ready-for-doomsday-war-after-trump-rejects-cease-fire-proposal-but-still-wants-peace-tehran-negotiator/"
+   },
+   {
+    "name": "National News Desk (Sinclair/FOX 49)",
+    "url": "https://fox49.tv/news/nation-world/trump-rejects-iran-proposal-expects-renewed-bombing-after-midterms-report-ceasefire-war-conflict-attacks-strait-of-hormuz-gasoline-gas-prices-crude-oil-nuclear-weapon-midterm-elections-vote-voting-polls-politics-president-donald-trump"
+   }
+  ],
+  "trending_context": "Top Washington Examiner story on Sep 27, 2026; the rejected Saturday ceasefire offer and the doomsday-war threat are the dominant foreign-policy story in right-leaning media this weekend.",
+  "order": 3
+ },
+ {
+  "id": "R04",
+  "side": "right",
+  "headline": "Trump takes aim at DEI and noncitizen programs in $1 billion pocket rescission",
+  "outlet": "Washington Examiner",
+  "article_url": "https://www.washingtonexaminer.com/news/white-house/4743853/trump-dei-noncitizen-programs-1-billion-pocket-rescission/",
+  "published": "2026-09-26",
+  "trending_claim": "Trump canceled nearly $1 billion in unspent federal funding ($810 million via a rare pocket rescission) on Sep 25, targeting immigration/refugee, DEI, foreign debt-relief, minority-business, and research/education programs — only the second pocket rescission in 50 years, and GOP Sen. Susan Collins says it unlawfully undermines Congress's power of the purse.",
+  "verdict": "accurate",
+  "rating_explained": "The Washington Examiner asserts that Trump canceled nearly $1 billion in unspent funds Friday night via an $810 million pocket rescission, the second such rescission in 50 years, targeting refugee/immigration, DEI, debt-relief, minority-business, and research/education programs, with Sen. Susan Collins calling it unlawful. The Daily Caller (citing CBS News) confirms the White House announced late Friday it would rescind $810 million, with the largest cut ($567 million) hitting HHS accounts funding refugee and asylee nonprofits, plus $70 million for 'Woke International Education' and HUD migrant-student grants, and confirms Collins's statement that the package is an effort to 'undermine Congress's Constitutional power of the purse,' citing the GAO's conclusion that pocket rescissions violate the Impoundment Control Act. Bloomberg Government confirms the $810 million figure, the late-Friday announcement, the $567 million HHS Office of Refugee Resettlement cut, affected departments (Commerce, Education, DHS, HUD, Justice, international assistance), and Collins's line that 'any effort to rescind appropriated funds without congressional approval is a clear violation of the law.' The Daily Caller/CBS reporting also confirms the 'second in 50 years' framing: the first pocket rescission in nearly five decades was Trump's own 2025 cancellation of $4.9 billion in foreign aid. All major elements check out against two independent outlets.",
+  "sources": [
+   {
+    "name": "Daily Caller",
+    "url": "https://dailycaller.com/2026/09/26/trump-pocket-rescission-cancels-810-million-congress-funding"
+   },
+   {
+    "name": "Bloomberg Government",
+    "url": "https://news.bgov.com/bloomberg-government-news/trump-to-cut-1-billion-in-spending-with-recissions-package"
+   }
+  ],
+  "trending_context": "Top Washington Examiner story Sep 26 and widely covered across right-wing media (NY Post, WLT Report) as Trump uses a rarely deployed budget power five days before the fiscal year ends.",
+  "order": 4
+ },
+ {
+  "id": "R05",
+  "side": "right",
+  "headline": "Fetterman Rejects Party-Switch Talk, Dodges 51st-Vote Query",
+  "outlet": "Newsmax",
+  "article_url": "https://www.newsmax.com/newsfront/john-fetterman-texas-tribune-festival-midterms/2026/09/27/id/1270834",
+  "published": "2026-09-27",
+  "trending_claim": "At the Texas Tribune Festival on Saturday, Sen. John Fetterman said Democratic control of the Senate was 'entirely possible' but refused to say how he would vote if he became the decisive 51st senator, saying 'let's revisit after the midterms.'",
+  "verdict": "accurate",
+  "rating_explained": "Newsmax asserts that at Saturday's Texas Tribune Festival closing keynote in Austin, Sen. John Fetterman called Democratic Senate control 'entirely possible' but dodged the 51st-vote question with 'let's revisit after the midterms.' The Hill's reporting (via Scoop) independently confirms: Fetterman defended his position as a Democrat on Saturday, refused to speculate how he would break ties if his party attained a 51-seat majority this November, and is quoted directly — 'Let's revisit after the midterms, and let's see what happens, you know, if I happen to be 51.' Primetimer's account of the same Saturday keynote corroborates that he said Democratic Senate control was 'entirely possible,' declined to say how he would vote if he became the 51st senator, rejected switching parties ('I've said I have no path as a Republican'), and confirmed moderator Major Garrett corrected his 'lifelong Republican' slip. The trending claim matches both independent accounts nearly verbatim.",
+  "sources": [
+   {
+    "name": "The Hill (via Scoop)",
+    "url": "https://scoopfeeds.com/article/e8bc2747-521f-5c8f-926e-0b63c0a06ca7"
+   },
+   {
+    "name": "Primetimer",
+    "url": "https://www.primetimer.com/news/video-of-democrat-john-fettermans-im-a-lifelong-long-republican-slip-up-goes-viral"
+   }
+  ],
+  "trending_context": "Fresh Sep 27 right-leaning coverage (Newsmax) of Fetterman's party-defection saga — the same Democrat who cast the lone Democratic vote against the Iran war powers resolution is now the pivot of midterm Senate math.",
+  "order": 5
+ },
+ {
+  "id": "R06",
+  "side": "right",
+  "headline": "Senate Rejects Latest Bid to Curb Trump's Iran War Powers",
+  "outlet": "Newsmax",
+  "article_url": "https://www.newsmax.com/newsfront/senate-trump-iran/2026/09/24/id/1270603",
+  "published": "2026-09-24",
+  "trending_claim": "The Senate defeated the Iran war powers resolution 50-49 on Thursday: four Republicans (Rand Paul, Susan Collins, Lisa Murkowski, Thom Tillis) voted for it, Democrat John Fetterman was the lone Democrat voting against it, and the measure died because it needed 51 votes.",
+  "verdict": "mostly-accurate",
+  "rating_explained": "Newsmax asserts the Senate rejected the Iran war powers resolution 50-49 on Thursday, with four named Republicans voting for it and Fetterman as the lone Democratic no vote. NPR (via WAMC) confirms the resolution failed 49 to 50 and names the same four Republicans — Susan Collins, Lisa Murkowski, Rand Paul, Thom Tillis — as voting with Democrats, with Pennsylvania Sen. John Fetterman 'the lone Democrat to vote no.' Reuters (via SRN News) independently confirms the identical 50-49 tally, the same four Republican yes votes, and Fetterman as the single Democrat voting against. The only flaw is the claim's 'needed 51 votes' explanation: because 99 of 100 senators voted, a simple majority of 50 would have sufficed for passage, so the measure actually fell one yes vote short of 50, not 51. The vote count, the four Republican names, and Fetterman's unique Democratic opposition are all confirmed by two wire outlets; only the threshold number is slightly off.",
+  "sources": [
+   {
+    "name": "NPR (via WAMC)",
+    "url": "https://www.wamc.org/2026-09-24/in-one-of-their-last-votes-before-november-senate-gop-blocks-effort-to-end-iran-war"
+   },
+   {
+    "name": "Reuters (via SRN News)",
+    "url": "https://srnnews.com/us-democrats-tee-up-pre-election-war-powers-vote-as-some-republicans-break-with-trump-on-iran/"
+   }
+  ],
+  "trending_context": "Carried across right-leaning media (Newsmax, Washington Examiner); Fetterman's lone Democratic no vote against his own party's resolution made the close vote a headline story.",
+  "order": 6
+ },
+ {
+  "id": "R07",
+  "side": "right",
+  "headline": "Facing a barrage of Republican anti-trans ads, some Democrats are changing how they respond",
+  "outlet": "CNN",
+  "article_url": "https://www.cnn.com/2026/09/27/politics/democrats-trans-attacks-messaging-midterms?cid=external-feeds_iluminar_meta",
+  "published": "2026-09-27",
+  "trending_claim": "Democrats in competitive midterms — including James Talarico (TX Senate), Rep. Marcy Kaptur (OH), and Amy Acton (OH governor) — are now publicly opposing trans athletes in girls' sports or trans ideology after GOP advertisers spent more than $60 million on 190+ transgender-focused TV ads this year, per AdImpact.",
+  "verdict": "accurate",
+  "rating_explained": "The CNN piece (the R07 article) asserts that Democrats including James Talarico, Marcy Kaptur, and Amy Acton have taken public positions opposing trans athletes in girls' sports or trans 'ideology,' in the context of AdImpact data showing GOP advertisers spent over $60 million on 190+ transgender-referencing TV ads this year. The CNN wire copy (via KION) confirms each element verbatim: Talarico told Fox News he would 'oppose trans athletes playing in girls' sports if it risks safety or fairness'; Kaptur aired ads saying she 'voted with Republicans to keep transgender ideology out of schools,' prompting Equality Ohio to downgrade her from B to D; Acton was downgraded from A to B after saying in June she does 'not support boys playing in girls' sports'; and 'according to data from AdImpact, GOP advertisers spent more than $60 million airing more than 190 TV ads that reference transgender policies since the start of the year.' Reuters (via Northland News Radio) independently corroborates the broader ad-blitz premise, reporting Republican-aligned groups attacking Sherrod Brown over transgender rights in Ohio and citing AdImpact on the heavy spending in that race. Every checkable claim in the trending claim is confirmed by named outlets.",
+  "sources": [
+   {
+    "name": "CNN Wire (via KION Central Coast)",
+    "url": "https://kioncentralcoast.com/politics/cnn-us-politics/2026/09/27/facing-a-barrage-of-republican-anti-trans-ads-some-democrats-are-changing-how-they-respond/"
+   },
+   {
+    "name": "Reuters (via Northland News Radio)",
+    "url": "https://northlandnewsradio.com/2026/09/18/trump-linked-pop-up-pacs-blitz-ohio-with-ads-against-brown-in-costly-senate-race/"
+   }
+  ],
+  "trending_context": "Sep 27 story trending hard in right-leaning media (PoliticalWire, right-wing blogs) as evidence the GOP's trans-ads strategy is forcing Democrats to concede the issue.",
+  "order": 7
+ }
+]
