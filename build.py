@@ -90,7 +90,6 @@ a:hover{text-decoration:underline}
 .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
 header.site{background:rgba(13,15,20,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:14px 0;position:sticky;top:0;z-index:50;transition:transform .28s ease}
 header.site.hide{transform:translateY(-110%)}
-body.navhidden .filters{top:0}
 header.site .wrap{display:flex;align-items:center;justify-content:space-between}
 .brand{font-size:21px;font-weight:800;letter-spacing:.3px;color:#fff}
 .brand .m1{background:linear-gradient(135deg,#7c5cff,#00d4ff);-webkit-background-clip:text;background-clip:text;color:transparent}
@@ -150,7 +149,21 @@ footer.site{border-top:1px solid var(--line);padding:26px 0;margin-top:10px;font
 .lightbox img{max-width:100%;max-height:100%;border-radius:12px}
 .ednav{display:flex;justify-content:space-between;padding:8px 0 30px;font-size:14px}
 .dateline{font-size:12px;text-transform:uppercase;letter-spacing:2px;color:var(--mut);text-align:center;margin-top:26px}
-@media(max-width:640px){.fcount{display:none}.filters{top:60px}}
+/* ---- hamburger drawer menu ---- */
+#menuBtn{position:fixed;top:14px;right:14px;z-index:100;width:46px;height:46px;border-radius:12px;background:rgba(20,24,33,.94);border:1px solid var(--line);cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px}
+#menuBtn span{display:block;width:20px;height:2px;background:#fff;border-radius:2px;transition:transform .25s ease,opacity .25s ease}
+#menuBtn.open span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+#menuBtn.open span:nth-child(2){opacity:0}
+#menuBtn.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+#scrim{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:90;opacity:0;pointer-events:none;transition:opacity .25s ease}
+#scrim.show{opacity:1;pointer-events:auto}
+#drawer{position:fixed;top:0;right:0;bottom:0;width:min(320px,84vw);background:#10141c;border-left:1px solid var(--line);z-index:95;transform:translateX(105%);transition:transform .3s ease;overflow-y:auto;padding:76px 20px 30px}
+#drawer.open{transform:none}
+.d-sec{margin-bottom:26px}
+.d-h{font-size:11px;text-transform:uppercase;letter-spacing:2px;color:var(--mut);margin-bottom:10px}
+.d-sec>a{display:block;color:var(--txt);padding:11px 2px;border-bottom:1px solid var(--line);font-size:15px}
+.d-btns{display:flex;flex-wrap:wrap;gap:8px}
+.d-foot{font-size:13px;color:var(--mut)}
 /* ---- news layout (story editions) ---- */
 .nameplate{text-align:center;padding:34px 0 16px;border-bottom:3px double var(--line);margin-bottom:6px}
 .np-kicker{font-size:11px;text-transform:uppercase;letter-spacing:3px;color:var(--acc)}
@@ -186,8 +199,26 @@ a.b-head:hover{color:#8ea6ff;text-decoration:none}
 
 
 JS = """
-const sideBtns=[...document.querySelectorAll('[data-side]')];
-const verBtns=[...document.querySelectorAll('[data-verdict]')];
+(function(){
+const fsrc=document.getElementById('filterSrc');
+const dS=document.getElementById('dSide'),dV=document.getElementById('dVerdict');
+if(fsrc&&dS&&dV){
+fsrc.querySelectorAll('.fbtn[data-side]').forEach(b=>dS.appendChild(b));
+fsrc.querySelectorAll('.fbtn[data-verdict]').forEach(b=>dV.appendChild(b));
+const fc0=document.getElementById('fcount');
+if(fc0)document.querySelector('.d-foot').appendChild(fc0);
+fsrc.remove();
+}
+[dS,dV].forEach(d=>{if(d&&!d.children.length)d.closest('.d-sec').style.display='none';});
+const menuBtn=document.getElementById('menuBtn'),drawer=document.getElementById('drawer'),scrim=document.getElementById('scrim');
+function setMenu(open){menuBtn.classList.toggle('open',open);drawer.classList.toggle('open',open);scrim.classList.toggle('show',open);}
+menuBtn.onclick=()=>setMenu(!drawer.classList.contains('open'));
+scrim.onclick=()=>setMenu(false);
+drawer.querySelectorAll('a').forEach(a=>a.onclick=()=>setMenu(false));
+document.addEventListener('keydown',e=>{if(e.key==='Escape')setMenu(false);});
+})();
+const sideBtns=[...document.querySelectorAll('.fbtn[data-side]')];
+const verBtns=[...document.querySelectorAll('.fbtn[data-verdict]')];
 let side='all',verdict='all';
 function apply(){
   let n=0;
@@ -198,7 +229,7 @@ function apply(){
     c.classList.toggle('hidden',!show);
     if(show)n++;
   });
-  document.getElementById('fcount').textContent=n+' shown';
+  const fce=document.getElementById('fcount');if(fce)fce.textContent=n+' shown';
 }
 sideBtns.forEach(b=>b.onclick=()=>{side=b.dataset.side;sideBtns.forEach(x=>x.classList.toggle('on',x===b));apply();});
 verBtns.forEach(b=>b.onclick=()=>{verdict=b.dataset.verdict;verBtns.forEach(x=>x.classList.toggle('on',x===b));apply();});
@@ -225,8 +256,19 @@ PAGE_TOP = """<!DOCTYPE html>
 
 HEADER = """<header class="site"><div class="wrap">
 <div><a class="brand" href="{base}/"><span class="m1">TRENDING</span> <span class="m2">VS</span> <span class="m1">REALITY</span></a><div class="tagline">What's trending vs. what's true.</div></div>
-<nav><a href="{base}/">Today</a><a href="{base}/archive.html">Archive</a><a href="{base}/#how">Method</a></nav>
-</div></header>"""
+</div></header>
+<button id="menuBtn" aria-label="Open menu"><span></span><span></span><span></span></button>
+<div id="scrim"></div>
+<aside id="drawer" aria-label="Site menu">
+<div class="d-sec"><div class="d-h">Menu</div>
+<a href="{base}/">Today's edition</a>
+<a href="{base}/archive.html">Archive</a>
+<a href="#how">How we rate</a>
+</div>
+<div class="d-sec"><div class="d-h">Side</div><div class="d-btns" id="dSide"></div></div>
+<div class="d-sec"><div class="d-h">Verdict</div><div class="d-btns" id="dVerdict"></div></div>
+<div class="d-foot"></div>
+</aside>"""
 
 FOOTER = """<footer class="site"><div class="wrap">
 <strong style="color:#fff">Trending Reality Check</strong> — every day we pull the top trending political stories from left-leaning and right-leaning outlets, link the originals, and check the central claims against named sources. Same rules for both sides.<br>
@@ -353,15 +395,14 @@ def edition_page_stories(date, edition, items, prev_date, next_date):
 <div class="np-meta">{esc(edition['date_label'])} &middot; Daily edition</div>
 </div>
 {sb}
-<div class="filters"><div class="wrap">
+<div id="filterSrc" hidden>
 <button class="fbtn on" data-side="all">All</button>
 <button class="fbtn" data-side="left">Left</button>
 <button class="fbtn" data-side="right">Right</button>
-<span class="fsep"></span>
 <button class="fbtn on" data-verdict="all">Any verdict</button>
 {ver_btns}
 <span class="fcount" id="fcount"></span>
-</div></div>
+</div>
 {lead_html(lead)}
 <div class="cols">
 <section class="sidecol"><h2><span class="dot left"></span>Trending on the Left<span class="count">{left_n} stories</span></h2>
@@ -442,15 +483,14 @@ def edition_page_memes(date, edition, items, prev_date, next_date):
 </div>
 </div>
 </div>
-<div class="filters"><div class="wrap">
+<div id="filterSrc" hidden>
 <button class="fbtn on" data-side="all">All</button>
 <button class="fbtn" data-side="left">Trending left</button>
 <button class="fbtn" data-side="right">Trending right</button>
-<span class="fsep"></span>
 <button class="fbtn on" data-verdict="all">Any verdict</button>
 {ver_btns}
 <span class="fcount" id="fcount"></span>
-</div></div>
+</div>
 <div class="wrap">
 <div class="grid">{cards}</div>
 {how}
