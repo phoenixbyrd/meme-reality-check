@@ -1,14 +1,16 @@
-# Meme Reality Check — daily runbook (4:00 AM ET)
+# Trending Reality Check — daily runbook (4:00 AM ET)
 
 Run every day at 4 AM America/New_York. Today's date = the edition date.
 
 ## House rules (never break these)
 
 - **Same rules for both sides.** A false claim from the left and a false claim from the right get the identical treatment. No partisan framing, ever.
-- **Facts only.** Check each meme's factual claim against NAMED, published sources (e.g. Bureau of Labor Statistics, AP, Reuters, official agency releases). Never infer motive or intent. Never attribute feelings or opinions that weren't explicitly stated.
+- **Facts only.** Check each story's central claim against NAMED, published sources (e.g. Bureau of Labor Statistics, AP, Reuters, official agency releases, court filings). Never infer motive or intent. Never attribute feelings or opinions that weren't explicitly stated.
 - **Attribute and admit.** State what's disputed or unknown. If a claim can't be verified either way, say so — don't guess.
-- **Jokes are jokes.** Memes with no checkable factual claim get verdict `no-claim` ("Just a joke — no factual claim"), never a fake verdict.
-- The side badge ("Trending left" / "Trending right") describes where the meme circulates, not whether it's true.
+- **Explain every rating.** `rating_explained` must walk through the evidence step by step: what the story asserts, what the named sources actually say (with key numbers/dates), and the explicit reasoning from evidence to verdict. A verdict without a visible evidence trail is a failed card.
+- **Opinions are opinions.** Pure opinion/analysis pieces with no checkable factual claim get verdict `no-claim` ("Opinion — no checkable claim"), never a fake verdict.
+- **Never fabricate.** Every `article_url` must be a real page that was opened and confirmed to match the headline. Never invent headlines, links, claims, ratings, sources, or trending context.
+- The side badge ("Trending left" / "Trending right") describes where the story circulates, not whether it's true.
 
 ## Verdicts
 
@@ -16,64 +18,91 @@ Run every day at 4 AM America/New_York. Today's date = the edition date.
 
 ## Pipeline
 
-### 1. Source memes (target: 50 left + 50 right)
+### 1. Source stories (target: up to 50 left + 50 right — quality bar governs)
 
 Spawn two research subagents in parallel (or do it directly for small runs):
 
-- **Left:** r/PoliticalHumor hot/top (old.reddit.com), left meme pages (Occupy Democrats, Being Liberal, MeidasTouch memes), left meme accounts on X. Search "trending liberal political memes this week".
-- **Right:** conservative meme subreddits (verify they exist first), right meme pages on Facebook/Instagram, right meme accounts on X, and 4chan's /pol/ board (via its JSON API: `https://a.4cdn.org/pol/catalog.json` for the catalog, `https://a.4cdn.org/pol/thread/<no>.json` per thread, images at `https://i.4cdn.org/pol/<tim><ext>` — prioritize high-reply-count threads from the last day or two; skip pure shock content with no meme/claim value). Search "trending conservative political memes this week".
+- **Left:** Ground News trending, Memeorandum, Google News top stories, most-read pages at HuffPost / Daily Kos / MSNBC / MeidasTouch / Crooks and Liars, r/politics rising/hot. Search "trending political news" filtered to the last 2 days.
+- **Right:** Ground News trending, Drudge Report, Memeorandum, most-read pages at Fox News / Breitbart / Daily Wire / Washington Examiner / Revolver News, r/Conservative rising/hot.
 
-Each meme needs: direct `image_url`, full `meme_text` transcription, the factual `claim` (or "no checkable claim"), `source_url`, `source_name`, visible `traction` (upvotes/shares). Prioritize memes making verifiable claims. Every entry must come from a real page that was opened — never invent memes.
+Each story must clear ALL of these:
+1. Genuinely trending in the last ~48h in that side's ecosystem (most-read, most-shared, leading an aggregator — record the evidence in `trending_context`).
+2. Politically newsworthy (politics, policy, governance, elections, courts — not celebrity gossip).
+3. Has a central checkable factual claim.
 
-### 2. Download images
+Publish only stories that clear the bar, keeping the two sides as balanced as the day's news allows. **Never pad with filler to hit 50/50** — report the honest counts in `edition.json` `description`. If the same event trends on both sides with materially different circulating claims, it may appear once per side (each side's telling checked separately); don't list the identical article twice.
 
-Save each image to `editions/<YYYY-MM-DD>/images/<ID>.jpg` (IDs: `L01`–`L50` left, `R01`–`R50` right). If a download fails, keep the meme but point `image` at the hotlink URL and note it.
+Each story needs: exact `headline`, `outlet` name, `article_url` (opened and verified), `published` date, `trending_claim` (the central assertion as it circulates, 1–2 sentences), `trending_context` (1 sentence on why it's trending on this side).
 
-### 3. Fact-check
+### 2. Fact-check
 
-Split the meme list across fact-check subagents (e.g. 25 each). Each returns, per meme:
-`claim`, `verdict`, `reality` (2–4 plain sentences: what the checkable facts are, with numbers where relevant), `sources` (2+ named sources with URLs).
+Split the story list across fact-check subagents (e.g. 15–20 each). Each returns, per story:
+- `trending_claim` (confirm or sharpen what the story actually asserts)
+- `verdict`
+- `rating_explained` (3–6 sentences / 400+ characters: what the story asserts → what the named sources actually say with key numbers/dates → why this verdict follows)
+- `sources` (2+ NAMED sources with real URLs that were opened — wire services, agencies, primary documents; the original article itself doesn't count as a fact-check source)
 
-Keep `reality` tight and readable — this is shown on the card. Quote the meme's claim exactly where possible.
+### 3. Assemble edition
 
-### 4. Assemble edition
+Write `editions/<YYYY-MM-DD>/stories.json` — array of:
+```json
+{"id": "L01", "side": "left", "headline": "...", "outlet": "HuffPost",
+ "article_url": "https://...", "published": "2026-09-27",
+ "trending_claim": "...", "verdict": "mixed",
+ "rating_explained": "...", "sources": [{"name": "Bureau of Labor Statistics", "url": "https://..."}],
+ "trending_context": "Most-read on HuffPost; 6k shares in 24h.", "order": 1}
+```
+IDs: `L01`… left, `R01`… right, `order` sequential per side.
 
 Write `editions/<YYYY-MM-DD>/edition.json`:
 ```json
-{"title": "September 27, 2026", "date_label": "Sunday, September 27, 2026",
- "description": "50 left-source memes and 50 right-source memes, checked against the record."}
+{"kind": "stories", "title": "September 28, 2026", "date_label": "Monday, September 28, 2026",
+ "description": "34 trending stories from left-leaning outlets and 31 from right-leaning outlets, each checked against the record."}
 ```
-Write `editions/<YYYY-MM-DD>/memes.json` — array of:
-```json
-{"id": "L01", "side": "left", "image": "images/L01.jpg",
- "source_name": "r/PoliticalHumor", "source_url": "https://...",
- "traction": "12.4k upvotes", "meme_text": "...", "claim": "...",
- "verdict": "false", "reality": "...",
- "sources": [{"name": "Bureau of Labor Statistics", "url": "https://..."}],
- "order": 1}
-```
-Shortcut: `assemble.py` automates this step — it parses the gather files (`left_memes.md` with `## N.` headers, `right_memes.md` with `### RN.` headers, `fc_*.md` fact-check files), trims to exactly 50/50 (keeps all checkable-claim memes, drops lowest-traction jokes), converts/downloads images to `images/<ID>.jpg`, generates styled text-card images for memes with no downloadable image, and writes both JSON files. Adapt it if gather formats change.
 
-Real-image upgrade (worth doing when time allows): most placeholders are one-off IG/FB/Threads originals not indexed anywhere, so expect a low hit rate — but try `/opt/hatch/bin/image-search` with exact quoted phrases from each meme's text for the text-card memes. Only swap in a found image after VIEWING it and confirming it matches the meme (text/visuals); when in doubt keep the placeholder — a wrong image is worse than none. If the found image is a slight variant (e.g. different caption wording), update that meme's `meme_text` transcription in `memes.json` to describe what's actually shown, then rebuild.
+### 4. Validate
+
+`python3 build.py` validates every story (required fields, verdict values, URL shape, explanation length, no metadata leakage) and **fails loudly** — a failed build means the edition is not publishable; fix the data, don't weaken the checks.
+
+Link-check every `article_url`:
+```
+python3 - <<'EOF'
+import json, urllib.request
+for d in ["<YYYY-MM-DD>"]:
+    for m in json.load(open(f"editions/{d}/stories.json")):
+        req = urllib.request.Request(m["article_url"], headers={"User-Agent": "Mozilla/5.0"})
+        try:
+            r = urllib.request.urlopen(req, timeout=20)
+            print(r.status, m["id"], m["article_url"][:80])
+        except Exception as e:
+            print("ERROR", m["id"], m["article_url"][:80], str(e)[:100])
+EOF
+```
+Investigate every ERROR: a 403 from a known outlet's real URL is usually bot-blocking and acceptable (the gatherer opened it in a browser); a DNS failure, 404, or wrong-page means drop or fix the story. Never publish a "Read the original" link that doesn't resolve.
 
 ### 5. Build + deploy
 
 ```
 cd ~/workspace/meme-reality-check
 python3 build.py
-git add -A && git commit -m "edition <YYYY-MM-DD>" && git push origin main
+git add -A && git commit -m "stories edition <YYYY-MM-DD>" && git push origin main
 ```
 
-Then verify: `curl -s https://phoenixbyrd.github.io/meme-reality-check/editions/<YYYY-MM-DD>/ | grep -c 'class="card"'` should equal the meme count.
+Then verify: `curl -s https://phoenixbyrd.github.io/meme-reality-check/editions/<YYYY-MM-DD>/ | grep -c 'class="card"'` must equal the story count. Open the page and eyeball 3–4 cards (headline links, verdict chips, explanations render).
 
 ### 6. Sanity checks before push
 
-- `python3 build.py` exits 0 and reports the right edition count.
-- Every meme has a downloaded image OR a working hotlink (spot-check 5).
-- Verdict distribution looks honest — if all 50 on one side are "false" and all 50 on the other are "accurate", re-examine; real life is never that clean.
-- No partisan language in `reality` text. No motive inference.
+- Counts per side are honest; no filler.
+- Verdict distribution looks honest — if all of one side is "false" and all of the other is "accurate", re-examine; real life is never that clean.
+- No partisan language in `rating_explained`. No motive inference.
+- No raw metadata prefixes in any text field.
 
 ## Failure handling
 
-- If fewer than ~30 memes per side are findable, publish what was honestly found and note the shortfall in `edition.json` `description`. Never pad with invented memes.
+- If a side yields fewer than ~10 solid stories, publish what's honest and note the shortfall in `edition.json` `description`.
 - If GitHub Pages shows a stale page after push, wait 2–3 minutes and re-curl.
+
+## Notes
+
+- `assemble.py` was the meme-era assembly helper (gather-file parsing, image downloads, text-card generation) and is **retired** — story editions are assembled directly as `stories.json`. Kept in repo for history.
+- The `editions/2026-09-27-memes/` directory is the archived meme pilot; `build.py` still renders it as a legacy edition. Don't touch it.
