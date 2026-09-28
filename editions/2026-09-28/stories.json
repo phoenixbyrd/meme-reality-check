@@ -1,0 +1,939 @@
+[
+ {
+  "article_url": "https://www.lapost.com/content/white-house-airs-another-government-funded-ad-this-time-with-trump-warning-of-final-battle",
+  "headline": "White House airs another government-funded ad, this time with Trump warning of ‘final battle’",
+  "id": "L01",
+  "outlet": "LA Post (CNN wire)",
+  "published": "2026-09-27",
+  "rating_explained": "CNN reports that the White House launched another taxpayer-funded television ad featuring Trump walking down a hall while audio plays of him saying 'this is the final battle,' and that media tracker AdImpact captured the ad airing during at least two Sunday NFL games: Fox's Washington Commanders–Seattle Seahawks and Carolina Panthers–Cleveland Browns broadcasts. CNN confirms the ad 'appears nearly identical to the majority of a video Trump posted on Truth Social in January 2024, during his third presidential campaign,' differing only in six extra seconds on the campaign version (campaign logo and a text number) versus the 'Paid for by the US Government' tagline at the end of the White House-funded ad. The New York Weekly Times independently corroborates that the 'final battle' spot aired during Sunday NFL games at a cost of more than $362,000, citing AdImpact. The White House disputes the campaign-ad framing, insisting the spots are 'very clearly not campaign ads' akin to prior administrations' PSAs — but that dispute over characterization does not contradict any checkable factual element. Since every factual element (funding tagline, Sunday NFL airings, 'final battle' quote, near-identical match to the January 2024 Truth Social video) is confirmed by two named outlets, the claim is accurate.",
+  "sources": [
+   {
+    "name": "CNN (Aileen Graef, Sept. 27, 2026)",
+    "url": "https://www.cnn.com/2026/09/27/politics/white-house-trump-government-funded-ad?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "New York Weekly Times (Sept. 28, 2026)",
+    "url": "https://newyorkweeklytimes.com/2026/09/28/government-funded-trump-ads-draw-scrutiny/"
+   }
+  ],
+  "trending_claim": "The White House aired a taxpayer-funded TV ad during Sunday NFL broadcasts in which Trump says 'this is the final battle,' and the ad is nearly identical to a video he posted on Truth Social in January 2024 during his presidential campaign.",
+  "trending_context": "It led Political Wire's 9/27 coverage and was amplified the same weekend in the MeidasTouch/MeidasPlus bulletin and NPR's politics chat.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 1
+ },
+ {
+  "article_url": "https://www.usatoday.com/story/news/politics/2026/09/27/donald-trump-iran-war-negotiations-strait-hormuz/91972256007/",
+  "headline": "Trump expects Iran negotiations to continue after rejecting ceasefire proposal",
+  "id": "L02",
+  "outlet": "USA Today",
+  "published": "2026-09-27",
+  "rating_explained": "USA Today's Sept. 27 report says Trump told Axios in a phone interview that he expects U.S. negotiators to continue talks with Iran this week — 'I expect more talks with Iran (this week). They want to make a deal, but it is not the deal that I want to make' — one day after he rejected Iran's ceasefire proposal that would have opened the Strait of Hormuz. The Associated Press confirms Trump rejected the proposal on Saturday, Sept. 26, reporting that Iran offered to reopen the strait and resume nuclear talks within seven days if the U.S. lifted its naval blockade of Iranian ports, waived sanctions on Iranian oil sales, and observed a ceasefire that would include Lebanon. The Wall Street Journal, cited by USA Today, first reported on Sept. 25 that Trump had denied the proposal and was privately skeptical Iran would meet his demands. One nuance: Iranian Foreign Minister Abbas Araghchi has said no formal rejection was conveyed through the Qatari mediators, so Trump's rejection is publicly stated rather than confirmed through diplomatic channels — but that does not contradict the story's claim about what Trump said and proposed. Because both the rejection and the stated expectation of continued negotiations are supported by direct quotes reported by two wire outlets, the claim is accurate.",
+  "sources": [
+   {
+    "name": "USA Today (Sept. 27, 2026)",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/27/donald-trump-iran-war-negotiations-strait-hormuz/91972256007/"
+   },
+   {
+    "name": "Associated Press (Sept. 26, 2026)",
+    "url": "https://990theanswer.com/news/national/trump-rejects-irans-proposal-to-reopen-the-strait-of-hormuz-and-other-mideast-ne/c529a0a729600230559354b80c005bad"
+   }
+  ],
+  "trending_claim": "Trump rejected an Iranian seven-day ceasefire proposal involving reopening the Strait of Hormuz and restarting nuclear talks, and said negotiations would continue.",
+  "trending_context": "It was a lead Political Wire item on 9/27 and featured in KPFA and MeidasTouch weekend roundups.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 2
+ },
+ {
+  "article_url": "https://aaronparnas.substack.com/p/news-trump-stews-over-press-kimberly",
+  "headline": "NEWS: Trump Stews Over Press, Kimberly Guilfoyle Threatens Regime Change, AI Meddles With US Government, Big Supreme Court Ruling",
+  "id": "L03",
+  "outlet": "Aaron Parnas (Substack)",
+  "published": "2026-09-26",
+  "rating_explained": "The story asserts that Guilfoyle made the 'We can do that to any country we want. We can do that here' remark at a March 2026 Athens dinner and that her lawyer disputed the characterization. The Wall Street Journal's 'The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe,' opened and read in full, reports exactly this: a dinner attended by Greek and U.S. officials where Guilfoyle argued with Energy Minister Stavros Papastavrou about the impending Romanian government collapse, made the quoted remark (sourced to a person who attended plus others told about it), and Papastavrou retorted the U.S. could not replace Greece's elected government, with Guilfoyle's lawyer disputing the characterization. Helleniscope independently quotes the identical WSJ passage, confirming the account's details. The newsletter frames the remark as 'allegedly' and notes the lawyer's dispute, matching the source material. Unknown: whether the quote is verbatim, since no recording of the dinner has surfaced. No established fact-checker has rated this claim yet; it broke on 9/25–26.",
+  "sources": [
+   {
+    "name": "The Wall Street Journal",
+    "url": "https://www.wsj.com/articles/kimberly-guilfoyle-mystery-man-energy-5adeb541"
+   },
+   {
+    "name": "Helleniscope",
+    "url": "http://www.helleniscope.com/2026/09/27/more-fallout-from-the-wsj-report-on-marafatsos-guilfoyle/"
+   }
+  ],
+  "trending_claim": "At a private dinner in Athens in March 2026, U.S. Ambassador Kimberly Guilfoyle allegedly told Greek officials, 'We can do that to any country we want. We can do that here,' in a discussion of a government collapse, a quote her lawyer disputed the characterization of.",
+  "trending_context": "The underlying WSJ report was amplified across Aaron Parnas's and the MeidasTouch network's newsletters and social coverage on 9/26–27.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 3
+ },
+ {
+  "article_url": "https://www.usatoday.com/story/news/politics/2026/09/26/republicans-break-trump-iran-gas-prices-midterm-election/91925861007/",
+  "headline": "Republicans jump ship as Trump's anchor weighs heavy on party",
+  "id": "L04",
+  "outlet": "USA Today",
+  "published": "2026-09-26",
+  "rating_explained": "The story asserts that Donalds removed prominent Trump references from his campaign materials, several GOP candidates called for ending the Iran war, and others criticized immigration enforcement. The USA Today article itself, opened and read in full, confirms all three: Donalds' endorsement was relegated from prominent homepage placement to a scrolling endorsements section; Hinson and Rogers publicly called for an end to the Iran war; Salazar's ad said the deportation push went 'too far'; and Marshall questioned ICE coordination with local law enforcement. The Hill, reporting Trump's 9/26 'Fake Story' pushback, confirms the underlying website changes did occur while Trump disputes the distancing interpretation. Newsmax likewise confirms at least eight Trump references were removed from the homepage and the endorsement remains elsewhere on the site. The Washington Examiner independently documents the same set of candidates breaking with Trump on Iran and immigration. Caveat: 'jump ship' is interpretive framing — Donalds says the redesign was planned for two months and that he is 'proud' of Trump's endorsement, and Trump rejects the distancing narrative. But the factual claim as written is fully supported by multiple named outlets. No established fact-checker has issued a formal verdict on this specific claim yet.",
+  "sources": [
+   {
+    "name": "The Hill (via CW7AZ)",
+    "url": "https://cw7az.com/news/trump-slams-reporting-on-removal-of-his-endorsements-from-gop-candidates-website/"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4739118/republicans-break-with-trump-unpopular-issues-midterm-races-heat-up/"
+   },
+   {
+    "name": "Newsmax",
+    "url": "https://www.newsmax.com/newsfront/trump-donalds-hits/2026/09/26/id/1270803"
+   }
+  ],
+  "trending_claim": "Byron Donalds removed prominent Trump references from his campaign materials, several GOP candidates called for ending the Iran war, and others publicly criticized immigration enforcement.",
+  "trending_context": "The 'GOP distancing from Trump' theme led Political Wire and multiple left-leaning weekend roundups, with Donalds as the signature example.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 4
+ },
+ {
+  "article_url": "https://www.usatoday.com/story/news/politics/elections/2026/09/26/trump-approval-ratings-record-lows-midterm-elections/91895541007/",
+  "headline": "Trump's sinking approval ratings a bad midterm sign for Republicans",
+  "id": "L05",
+  "outlet": "USA Today",
+  "published": "2026-09-26",
+  "rating_explained": "USA Today attributes the 34.7% average to FiftyPlusOne's aggregation of major polls (among U.S. adults), and Ipsos's own Sept. 21 press release confirms the 32% Reuters/Ipsos reading, calling it 'a low point in Reuters/Ipsos polling fielded across his first and second presidency' from a Sept. 17–20 survey of 1,277 adults. Reuters independently reports the same 32% career low, with Republican approval down to 73% from 82% the prior week. The article itself discloses the poll spread (29% American Research Group, 35% Economist/YouGov, 39% Emerson and Marist) and other aggregators (RealClearPolitics 39%, New York Times 37%, Silver Bulletin ~38% as of Sept. 22–23), so the 34.7% is the lowest average and is properly attributed rather than presented as consensus. All checkable numbers match the named sources; the 'record low' descriptor is accurate for the Reuters/Ipsos series.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-approval-falls-career-low-32-high-costs-bite-reutersipsos-poll-finds-2026-09-21/"
+   },
+   {
+    "name": "Ipsos (Reuters/Ipsos poll press release)",
+    "url": "https://www.ipsos.com/en-us/republicans-rating-trump-cost-living-declines"
+   }
+  ],
+  "trending_claim": "Trump is averaging 34.7% approval, including a 32% Reuters/Ipsos result, among record-low readings ahead of the midterms.",
+  "trending_context": "It led Political Wire's second page and was picked up by The Hill and left-oriented election roundups on 9/26–27.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 5
+ },
+ {
+  "article_url": "https://crooksandliars.com/2026/09/leaked-army-plans-indicate-yet-another",
+  "headline": "Leaked Army Plans Indicate Yet Another Military Invasion Is Coming SOON",
+  "id": "L06",
+  "outlet": "Crooks and Liars",
+  "published": "2026-09-25",
+  "rating_explained": "Every checkable element of the central claim is corroborated across multiple outlets independently describing the same CBS News Sept. 25 report: Army Reserve headquarters sought feedback on six formation types (military police brigade, medical brigade, forward resuscitative/surgical detachment, engineer battalion, combat sustainment support battalion, expeditionary sustainment command) that would fall under SOUTHCOM, 'possibly needed in 90-120 days,' with command responses due Sept. 25. All outlets confirm the document names no country and contains no deployment orders, and that multiple U.S. officials — speaking anonymously — tied the request to continuing contingency planning aimed at Cuba. This distinction matters because the C&L headline ('military invasion is coming SOON') materially overstates the evidence: the 90–120-day figure is a force-availability window for planners, not an established invasion timetable, and the reporting expressly separates planning from a decision to act. The central claim as stated is therefore accurate, but the headline's 'invasion coming soon' implication is not supported by the underlying reporting.",
+  "sources": [
+   {
+    "name": "CBS News reporting (via europesays corroboration)",
+    "url": "https://www.europesays.com/3273035/"
+   },
+   {
+    "name": "Particle (summarizing CBS reporting)",
+    "url": "https://particle.news/story/army-reserve-asks-if-support-units-could-be-ready-for-southcom-in-90120-days"
+   },
+   {
+    "name": "Informat.ro",
+    "url": "https://informat.ro/en/international/us-prepares-military-resources-for-potential-action-in-cuba-140615"
+   }
+  ],
+  "trending_claim": "An internal Army Reserve headquarters message asked subordinate commands for feedback by Sept. 25 on the possible availability of six types of support formations for U.S. Southern Command within 90–120 days. The message does not name Cuba, multiple U.S. officials linked the request to continuing military planning concerning Cuba, and there is no indication any unit received deployment orders.",
+  "trending_context": "It was highlighted in a 9/26 independent-media roundup and in KPFA's 9/27 news lineup.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 6
+ },
+ {
+  "article_url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-united-states-cuba-pressure-fail/91958965007/",
+  "headline": "Trump on Cuba: 'I don't think we'll need the military.'",
+  "id": "L07",
+  "outlet": "USA Today",
+  "published": "2026-09-26",
+  "rating_explained": "The story asserts that on Saturday, Sept. 26, 2026, President Trump told reporters he predicted a U.S.-Cuba deal and saw no need for military action. I opened the USA Today article page and it quotes him directly: 'I would say that Cuba and the U.S. will make a deal,' Trump said on Saturday. 'I don't think we'll need the military.' A same-day Reuters wire report records the identical exchange: 'I would say that Cuba and us will make a deal. I don't think we'll need the military,' Trump told reporters at the White House. Both sources place the remarks in response to a question about rumors of U.S. military units being activated over Cuba, and both note the context of his Sept. 22 UN General Assembly remarks pledging 'freedom will be coming' to Cuba, which prompted the Cuban delegation to walk out. The claim is a straightforward recounting of a public on-camera statement corroborated by two named news organizations, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-united-states-cuba-pressure-fail/91958965007/"
+   },
+   {
+    "name": "Reuters (via SRN News)",
+    "url": "https://srnnews.com/trump-predicts-cuba-and-us-will-make-a-deal/"
+   }
+  ],
+  "trending_claim": "Trump said on 9/26 he expected a U.S.-Cuba deal and did not think military action would be needed.",
+  "trending_context": "The Cuba military-planning story ran prominently in Crooks and Liars, KPFA, and MeidasTouch roundups on 9/26–27.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 7
+ },
+ {
+  "article_url": "https://www.usatoday.com/story/news/politics/2026/09/27/todd-blanche-cnn-air-force-one-trump/91975635007/",
+  "headline": "Todd Blanche backs decision to block CNN from Air Force One",
+  "id": "L08",
+  "outlet": "USA Today",
+  "published": "2026-09-27",
+  "rating_explained": "The story asserts that Attorney General Todd Blanche on Sept. 27, 2026 publicly backed removing CNN from the scheduled TV pool aboard Air Force One for Trump's Sept. 26 trip to the Texas-Tennessee football game in Neyland Stadium, following a court order restoring White House press passes. The USA Today article page quotes Blanche in a Sept. 27 'This Week' interview with Martha Raddatz saying 'The White House routinely decides who can go on Air Force One,' and it records that on Sept. 24, U.S. District Judge Timothy Kelly issued a temporary restraining order — in effect 14 days — ordering the White House to reinstate passes for CNN, MS NOW and Politico reporters after Trump's Sept. 18 ban. The AP independently reported the same court order: Judge Kelly ordered early Thursday that 'CNN, MS NOW and Politico must have their access restored' via a TRO, finding the outlets met the 'high bar' and were likely to show their passes were revoked without due process. Reuters and AP also confirmed the Sept. 24 reinstatement of the journalists on White House grounds. The sequence the claim describes — TRO restoring passes, then CNN blocked from the Sept. 26 Air Force One pool, then Blanche defending the block on Sept. 27 — is corroborated by three named outlets, so the verdict is accurate.",
+  "sources": [
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/27/todd-blanche-cnn-air-force-one-trump/91975635007/"
+   },
+   {
+    "name": "Associated Press",
+    "url": "https://www.ap.org/news-highlights/elections/2026/judge-blocks-trumps-ban-and-says-cnn-ms-now-and-politico-must-have-white-house-access-restored/"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/politico-denied-access-white-house-after-judges-order-news-outlet-says-2026-09-24/"
+   }
+  ],
+  "trending_claim": "Blanche defended excluding CNN from the Air Force One pool after a judge temporarily restored CNN, MS NOW, and Politico White House passes.",
+  "trending_context": "The press-access dispute led Political Wire's 9/27 coverage and featured prominently in NPR and MeidasTouch reporting that weekend.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 8
+ },
+ {
+  "article_url": "https://inlandnewstoday.com/story.php?s=78647",
+  "headline": "INT: Trump loses bid to overturn $83.3 million judgment in E. Jean Carroll defamation case",
+  "id": "L09",
+  "outlet": "Inland News Today",
+  "published": "2026-09-28",
+  "rating_explained": "The article's text is recycled from the September 2025 AP report: its quoted holding ('has failed to identify any grounds that would warrant reconsidering our prior holding on presidential immunity') comes from the three-judge panel opinion issued in September 2025, not a new 9/28/2026 decision. The Federalist Times confirms the panel rejected Trump's appeal 'in September' (2025), the full court denied en banc rehearing in April 2026 (three judges dissented), and El-Balad notes the $83.3M award was affirmed 'last September' with only a Supreme Court cert petition and a stay of payment still pending. So the underlying facts — a panel upheld the $83.3M award and rejected Trump's immunity and damages arguments — are true as history, but the article presents them as a fresh decision 'issued on Monday' 9/28/2026, for which no court record, wire report, or named source exists. The story misleads by dressing up year-old news as a breaking event.",
+  "sources": [
+   {
+    "name": "Federalist Times",
+    "url": "https://federalisttimes.com/second-circuit-refuses-to-rehear-trumps-challenge-to-83-3-million-e-jean-carroll-defamation-verdict/"
+   },
+   {
+    "name": "El-Balad",
+    "url": "https://www.el-balad.com/17009021"
+   }
+  ],
+  "trending_claim": "The article asserts a Second Circuit panel issued a decision on Monday 9/28/2026 upholding the $83.3 million E. Jean Carroll defamation verdict, rejecting Trump's immunity and damages arguments.",
+  "trending_context": "The recycled story was picked up by left-leaning news feeds and legal commentators as if the Second Circuit had issued a fresh decision on 9/28.",
+  "verdict": "misleading",
+  "side": "left",
+  "order": 9
+ },
+ {
+  "article_url": "https://www.wcia.com/news/national/ap-supreme-court-rejects-a-trump-backed-missouri-congressional-map-for-the-third-time/",
+  "headline": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time",
+  "id": "L10",
+  "outlet": "Associated Press",
+  "published": "2026-09-25",
+  "rating_explained": "On Friday 9/25/2026 the Supreme Court suspended an Eighth Circuit ruling that would have required Missouri to use the GOP-drawn 2025 map, leaving the 2022 map in place — the third time in as many weeks the Court sided against the map, per both CNN and USA Today. The unsigned per curiam opinion held that reverting mid-election, with ballots already printed, mailed, and absentee and overseas voting underway, 'would usher in electoral chaos,' invoking the Purcell principle. CNN and USA Today both explicitly report 'no noted dissents,' and the WSJ likewise described the five-page opinion as one 'without any dissents.' Missouri Gov. Mike Kehoe said the state would comply. Every element of the story's claim — third rejection, the 2022 map retained for the midterms, the electoral-chaos rationale, and no noted dissents — is confirmed by named outlets.",
+  "sources": [
+   {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/09/25/politics/supreme-court-rejects-gop-third-effort-to-capture-house-seat-from-missouri?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "USA Today",
+    "url": "https://www.usatoday.com/story/news/politics/2026/09/25/supreme-court-redistrict-trump-missouri-midterm-election/91902594007/"
+   }
+  ],
+  "trending_claim": "The Supreme Court kept Missouri's 2022 congressional map for the midterms, citing electoral chaos, with no noted dissents.",
+  "trending_context": "It was a prominent Aaron Parnas/Meidas-aligned roundup item on 9/26 and the AP coverage was replicated widely through 9/27.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 10
+ },
+ {
+  "article_url": "https://politicalwire.com/2026/09/27/trumps-support-of-ken-paxton-was-colossal-mistake/",
+  "headline": "Trump’s Support of Ken Paxton Was ‘Colossal Mistake’",
+  "id": "L11",
+  "outlet": "Political Wire",
+  "published": "2026-09-27",
+  "rating_explained": "Named outlets quoting the 9/27 Guardian report confirm that Sen. Thom Tillis (R-N.C.) appeared on CNN's State of the Union on Sunday 9/27/2026 and said, 'He made a colossal mistake,' referring to Trump's backing of Ken Paxton over incumbent John Cornyn in the May Texas Senate primary. Tillis added, 'John Cornyn's a great member of the US Senate. Paxton has his challenges,' and, 'We would not be spending tens or hundreds of millions of dollars in Texas if Cornyn had won.' Aggregations of both The Guardian's and The Hill's 9/27 reports carry the identical quotes, and the Brit Brief and ENM News reports corroborate the venue (CNN's State of the Union, host Jake Tapper), the date, and the exact wording. The story's claim matches the reported statement precisely.",
+  "sources": [
+   {
+    "name": "Brit Brief",
+    "url": "https://britbrief.co.uk/politics/partisanship/tillis-trumps-paxton-endorsement-a-colossal-mistake.html"
+   },
+   {
+    "name": "ENM News",
+    "url": "https://enmnews.com/2026/09/27/tillis-blasts-trumps-texas-bet-gop-fights-senate-seat"
+   }
+  ],
+  "trending_claim": "Sen. Thom Tillis said on CNN's State of the Union that Trump's endorsement of Ken Paxton over John Cornyn in the Texas Senate primary was a 'colossal mistake.'",
+  "trending_context": "The Guardian report was surfaced by Political Wire on 9/27 and echoed across The Hill, left aggregators, and social commentary on 9/27–28.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 11
+ },
+ {
+  "article_url": "https://www.newsbeep.com/747250/",
+  "headline": "Cattle groups call out ICE operations for workforce disruptions",
+  "id": "L12",
+  "outlet": "News Beep",
+  "published": "2026-09-26",
+  "rating_explained": "Reuters' 9/25 reporting (republished by SRN News and Northland News Radio) confirms the Kansas Livestock Association, Oklahoma Cattlemen's Association, and Texas Cattle Feeders Association said in a joint statement that ICE activity caused reported workforce disruptions at processors, feedlots, dairies, and grain companies, delaying shipments of thousands of cattle. The statement's exact quote — 'These ICE operations are having a massive chilling effect on the legal, documented, skilled workers that put beef on the table and keep the cattle supply chain moving' — appears verbatim in the Reuters copy. In the same reporting, DHS Secretary Markwayne Mullin said ICE operations targeted criminals and people with final removal orders, adding that 'ICE was not conducting worksite operations in Kansas.' All three associations, the delayed-shipments claim, the exact quote, and Mullin's denial are confirmed by the named wire service.",
+  "sources": [
+   {
+    "name": "SRN News (Reuters)",
+    "url": "https://srnnews.com/us-immigration-crackdown-hits-kansas-disrupts-beef-processing/"
+   },
+   {
+    "name": "Northland News Radio (Reuters)",
+    "url": "https://northlandnewsradio.com/2026/09/25/us-immigration-crackdown-hits-kansas-disrupts-beef-processing/"
+   }
+  ],
+  "trending_claim": "Three cattle associations (Texas, Kansas, Oklahoma) said ICE operations delayed shipments of thousands of cattle to processors and had a 'massive chilling effect' on legal, documented workers, with DHS Secretary Markwayne Mullin denying worksite operations in Kansas.",
+  "trending_context": "Texas Tribune-based reporting was replicated across news aggregators on 9/25–27 and became part of the trending 'ranchers vs. Trump' narrative in left media.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 12
+ },
+ {
+  "article_url": "https://crypto.news/california-bans-officials-from-issuing-meme-coins/",
+  "headline": "California bans public officials from issuing meme coins",
+  "id": "L14",
+  "outlet": "crypto.news",
+  "published": "2026-09-27",
+  "rating_explained": "Cointelegraph and Crypto Briefing both confirm Gov. Gavin Newsom signed Assembly Bill 2409 on Sunday 9/27/2026. The bill, introduced by Assemblymember Avelino Valencia on Feb. 20, 2026, passed 40-0 in the Senate and unanimously in the Assembly, and bars state and local public officials — plus covered employees with contracting authority — from issuing meme coins. It also prohibits digital asset service providers from listing, for California residents, meme coins issued on or after Jan. 1, 2027 by or in partnership with federal, state, or local public officials. Crypto Briefing notes enforcement is civil-only (AG, district attorneys, city attorneys, county counsel). Newsom's quote, 'No official should profit off their office,' is carried by Cointelegraph. Every element of the story's claim is confirmed by the named outlets.",
+  "sources": [
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins"
+   },
+   {
+    "name": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/california-bans-officials-meme-coins/"
+   }
+  ],
+  "trending_claim": "Newsom signed AB 2409 on 9/27, barring covered California officials from issuing meme coins and restricting certain new official-linked listings from 2027.",
+  "trending_context": "Multiple fresh reports landed within hours on 9/27 and the governor's announcement circulated broadly on political social media.",
+  "verdict": "accurate",
+  "side": "left",
+  "order": 13
+ },
+ {
+  "article_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-468-92726",
+  "headline": "Today in Politics, Bulletin 468. 9/27/26",
+  "id": "L15",
+  "outlet": "MeidasPlus (MeidasTouch)",
+  "published": "2026-09-27",
+  "rating_explained": "Perdue's 9/27 appearance on Fox News Sunday is confirmed by the NY Post, the WSJ, and the AP: he said, 'He actually asked President Xi, would he like to buy some, at one point,' while discussing U.S. arms sales to Taiwan. The bulletin is correct that Perdue made the statement on Fox and the attributed quote matches the named reporting. However, the bulletin's framing — that the remark occurred 'in their recent meeting' — is more specific than what Perdue said: he said 'at one point' and did not specify when, and the WSJ explicitly notes the White House and State Department declined to say whether Trump made the proposal during his meeting with Xi last week or at a previous one. Administration officials also told the WSJ there are no plans to sell weapons to China and that such sales are prohibited by law. The core attribution is accurate, but the timing detail is asserted beyond what Perdue actually stated.",
+  "sources": [
+   {
+    "name": "New York Post",
+    "url": "https://nypost.com/2026/09/27/us-news/trump-asked-chinas-xi-jinping-if-hed-like-to-buy-american-weapons-us-ambassador-reveals/"
+   },
+   {
+    "name": "Wall Street Journal",
+    "url": "https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46"
+   }
+  ],
+  "trending_claim": "U.S. Ambassador to China David Perdue said on Fox News Sunday (9/27/2026) that Trump had asked President Xi whether China wanted to buy U.S. weapons systems; the bulletin places the Trump-Xi remark in their recent meeting.",
+  "trending_context": "MeidasTouch's daily bulletin (large left audience) led its 9/27 edition with the Perdue claim, which also appeared in its 9/26 roundup.",
+  "verdict": "mostly-accurate",
+  "side": "left",
+  "order": 14
+ },
+ {
+  "article_url": "https://nypost.com/2026/09/27/world-news/raf-fairford-terror-suspects-stripped-down-after-uk-cops-foil-van-bomb-plot/",
+  "headline": "Stripped down terror suspects arrested after 'planning van bombings' at UK base used by US bombers — as police eye Iran",
+  "id": "R01",
+  "outlet": "New York Post",
+  "published": "2026-09-27",
+  "rating_explained": "The core of the story is confirmed by named officials and BBC reporting: Gloucestershire Police's ACC Richard Ocone confirmed five men were arrested in Whelford near RAF Fairford after reports of three suspicious vehicles, initially under the Explosives Act and then re-arrested on suspicion of preparing a terrorist act, with ~85 homes evacuated and Army bomb-disposal teams examining the vans; the BBC also confirmed RAF Fairford is a long-standing US military forward operating location recently used by US warplanes for strikes on Iran. However, two headline elements rest on single tabloid sourcing, not police confirmation: the NYP attributes 'explosives and chemicals were found' to the UK Sun, and police have not confirmed the vans' contents, with BBC noting the operation was not intelligence-led. The Iran link comes from Telegraph reporting citing 'sources familiar with the investigation,' while Defence Secretary Wes Streeting explicitly said it was 'far too early to comment or speculate' on Iranian involvement. So the arrests and base details are solid; the explosives-find and Iranian link are attributed-but-unconfirmed.",
+  "sources": [
+   {
+    "name": "New York Post",
+    "url": "https://nypost.com/2026/09/27/world-news/raf-fairford-terror-suspects-stripped-down-after-uk-cops-foil-van-bomb-plot/"
+   },
+   {
+    "name": "BBC News reporting (via Capital FM Kenya)",
+    "url": "https://capitalfm.africa/five-arrested-as-counter-terror-police-investigate-major-incident-near-raf-fairford/"
+   }
+  ],
+  "trending_claim": "British police arrested five men near RAF Fairford on Sept 27 after finding explosives and chemicals in three vans, on suspicion of planning van bombings at the US-used base, with investigators examining a possible Iranian link.",
+  "trending_context": "Leading Drudge Report front page; top Fox News homepage story and heavily covered by right-leaning outlets (Examiner, NYP) tying it to the Iran conflict.",
+  "verdict": "mostly-accurate",
+  "side": "right",
+  "order": 1
+ },
+ {
+  "article_url": "https://www.foxnews.com/politics/who-brian-cole-dc-pipe-bomb-suspect",
+  "headline": "What we know about Virginia man charged in DC pipe bomb incidents night before Jan 6",
+  "id": "R02",
+  "outlet": "Fox News",
+  "published": "2026-09-27",
+  "rating_explained": "The central identity and charging claims check out against primary sources: the FBI's official release states Brian Cole Jr. of Woodbridge, Virginia, was arrested and charged for allegedly placing the explosive devices at the DNC and RNC offices on January 5, 2021, as announced by Attorney General Bondi on December 4, 2025; AP reporting independently confirms he was 30, arrested in northern Virginia, and charged with explosives offenses, resolving an investigation that had run nearly five years. The main caveat is timing: this is a December 2025 development recirculating on Sep 28, 2026, and the story does not note that the case has since advanced significantly — prosecutors say Cole confessed after arrest, a second superseding indictment added weapons-of-mass-destruction and terrorism charges in April 2026, and a judge ruled in July 2026 that Trump's J6 pardons do not cover him. Also, the FBI stresses charges are allegations and Cole is presumed innocent. The core identification is accurate; the story's omission of nine months of subsequent case developments makes it slightly stale rather than false.",
+  "sources": [
+   {
+    "name": "FBI",
+    "url": "https://www.fbi.gov/news/stories/fbi-arrests-washington-dc-pipe-bomb-suspect-in-virginia"
+   },
+   {
+    "name": "Associated Press (via SRN News)",
+    "url": "https://srnnews.com/5-years-later-authorities-arrest-a-suspect-in-washington-pipe-bomb-case-heres-what-to-know/"
+   }
+  ],
+  "trending_claim": "Brian Cole Jr., 30, of Woodbridge, Virginia, is the man charged with planting the pipe bombs outside the DNC and RNC headquarters on Jan. 5, 2021, ending the nearly five-year unsolved investigation.",
+  "trending_context": "Leading story on the Fox News homepage as of Sep 28; the pipe-bomb arrest is the dominant J6-related story on the right this weekend.",
+  "verdict": "mostly-accurate",
+  "side": "right",
+  "order": 2
+ },
+ {
+  "article_url": "https://www.foxnews.com/politics/doj-says-evidence-against-j6-pipe-bomb-suspect-just-sitting-there-five-years",
+  "headline": "Trump DOJ cracks cold case that 'languished' under Biden for more than four years",
+  "id": "R03",
+  "outlet": "Fox News",
+  "published": "2026-09-27",
+  "rating_explained": "The attribution is verified on the record: Attorney General Bondi said at the Dec. 4, 2025 press conference that investigators were 'sifting through evidence that had been sitting at the FBI with the Biden administration for four long years,' that 'evidence has been sitting there collecting dust,' that the 'cold case languished for four years,' and that 'there was no new tip' — quotes carried by Fox News and corroborated across Dec. 2025 reporting. FBI Director Patel said the prior administration 'sat on the evidence for four years' and that his team 'reexamined every piece of evidence... something that the prior administration refused and failed to do,' while the FBI's own release attributes the breakthrough to a fresh team reexamining evidence and sifting 'over three million lines of data,' with no new tip. AP reporting independently confirms the identification came from a 'fresh analysis of already collected evidence' — bank and cell records gathered years earlier. Two caveats: the Fox article's exact text could not be re-verified because its URL returned a server error (HTTP 500) on fetch, so the claim was verified through Fox's sibling explainer and primary sources instead; and officials' own figure is 'four years,' making 'five years' a slight overstatement of even their claim, while independent evidence cannot settle whether the FBI was truly inactive versus merely unsuccessful under Biden.",
+  "sources": [
+   {
+    "name": "FBI",
+    "url": "https://www.fbi.gov/news/stories/fbi-arrests-washington-dc-pipe-bomb-suspect-in-virginia"
+   },
+   {
+    "name": "Associated Press (via SRN News)",
+    "url": "https://srnnews.com/5-years-later-authorities-arrest-a-suspect-in-washington-pipe-bomb-case-heres-what-to-know/"
+   },
+   {
+    "name": "Fox News (sibling explainer carrying Bondi quotes)",
+    "url": "https://www.foxnews.com/politics/who-brian-cole-dc-pipe-bomb-suspect"
+   }
+  ],
+  "trending_claim": "DOJ officials say the evidence used to identify pipe-bomb suspect Brian Cole was 'just sitting there' at the FBI for years and the case went unsolved under the Biden administration.",
+  "trending_context": "Top-of-homepage story on Fox News Sep 28, paired with segments from Jeanine Pirro and Dan Bongino on the suspect.",
+  "verdict": "mostly-accurate",
+  "side": "right",
+  "order": 3
+ },
+ {
+  "article_url": "https://heritagereview.com/un-ambassador-says-trump-spurned-iran-ceasefire-over-upfront-sanctions-demands/",
+  "headline": "Trump Rejects Iran Ceasefire Over Sanctions Demands",
+  "id": "R04",
+  "outlet": "Heritage Review",
+  "published": "2026-09-27",
+  "rating_explained": "The attribution is verified: Waltz did appear on CNN's 'State of the Union' on Sept. 27, where he said of Iran's demands, 'They were asking for everything up front, with a promise that they would then talk,' and that the seven-day Hormuz proposal included 'a request to have access to billions in frozen funds and a request for the lifting of sanctions,' calling it 'a pretty cynical attempt' in a separate NBC interview. Trump himself confirmed the rejection Saturday: 'They made a proposal, but I rejected it,' adding the deal 'would not be acceptable.' However, this is Washington's characterization of Tehran's terms, and Iranian Foreign Minister Abbas Araghchi publicly disputed Waltz's account, saying, 'I am surprised that the ambassador is talking about a seven-day plan, as he has not read it' — so the 'why' is contested, not an established fact. Heritage Review itself acknowledges that 'no full text of the Iranian proposal appears in the public remarks.' The story accurately reports what Waltz and Trump said on record; whether Iran's terms actually amounted to upfront demands before nuclear talks is disputed by the other party.",
+  "sources": [
+   {
+    "name": "7Globe (carrying CNN/NBC interview coverage)",
+    "url": "https://www.7globe.in/unacceptable-cynical-attempt-why-us-rejected-irans-ceasefire-proposal/"
+   },
+   {
+    "name": "Heritage Review",
+    "url": "https://heritagereview.com/un-ambassador-says-trump-spurned-iran-ceasefire-over-upfront-sanctions-demands/"
+   }
+  ],
+  "trending_claim": "Trump rejected Iran's seven-day Hormuz ceasefire proposal because Tehran demanded upfront sanctions relief and access to billions in frozen funds before negotiating an end to its nuclear program — per UN Ambassador Mike Waltz on CNN's State of the Union.",
+  "trending_context": "Leading Fox News homepage ('Iran president races home as Trump torpedoes high-stakes deal to reopen Hormuz'); WSJ follow-up on Trump expecting renewed bombing after midterms discussed by Breitbart and Washington Examiner.",
+  "verdict": "mostly-accurate",
+  "side": "right",
+  "order": 4
+ },
+ {
+  "article_url": "https://www.washingtonexaminer.com/news/white-house/4744065/trump-confirm-reject-iran-peace-proposal/",
+  "headline": "Trump confirms he rejected Iran's peace proposal",
+  "id": "R05",
+  "outlet": "Washington Examiner",
+  "published": "2026-09-26",
+  "rating_explained": "Both halves of the claim are verified on the record. First, Trump's own confirmation: the Examiner quotes him from Saturday's reporter gaggle saying, 'They made a proposal, but I rejected it,' and 'that deal would not be acceptable,' adding that Iran wants a deal because it is 'losing so badly.' Second, the proposal's details: AP reported on Sept. 25 that Iran had offered to reopen the Strait of Hormuz and resume nuclear talks in seven days if the U.S. lifts its naval blockade of Iranian ports, waives sanctions on Iranian oil sales, and observes a ceasefire including Lebanon, with Foreign Minister Araghchi stating, 'The seven-day timeline will start as soon as the United States accepts this plan,' and the strait opening on day six. WSJ reporting (cited by the Examiner and others) independently confirms Trump rejected the offer and privately told aides he expects bombing to resume after the midterms, though Reuters noted it could not independently confirm the private-assessment portion. Trump notably did not answer directly whether he would resume airstrikes after November. The Examiner's account of the rejection, the seven-day frame, and the blockade-for-reopening exchange matches AP's on-the-record Iranian account and WSJ's U.S.-side reporting.",
+  "sources": [
+   {
+    "name": "Associated Press (via Akron News Reporter)",
+    "url": "https://www.akronnewsreporter.com/2026/09/25/iran-suggested-deal-strait-of-hormuz/"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/news/white-house/4744065/trump-confirm-reject-iran-peace-proposal/"
+   }
+  ],
+  "trending_claim": "President Trump confirmed he rejected Iran's proposal to reopen the Strait of Hormuz and resume nuclear talks within seven days in exchange for lifting the U.S. naval blockade, calling the deal 'not acceptable.'",
+  "trending_context": "The lead Iran-war story across right media Sep 26-27 (Breitbart and the New York Post ran parallel versions); headline confirmed on the article page.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 5
+ },
+ {
+  "article_url": "https://particle.news/story/undisclosed-iranian-cruise-missile-strike-injured-eight-us-marines-in-strait-of-hormuz",
+  "headline": "U.S. Marines injured in recent Iranian attack",
+  "id": "R06",
+  "outlet": "NBC News",
+  "published": "2026-09-27",
+  "rating_explained": "NBC News' reporting — attributed to three U.S. officials — is the source of every checkable element, and it is corroborated by multiple independent outlets citing NBC, including AzerNEWS and TRT, which reproduce the same details: the September 14 date, the battalion landing team, seven enlisted plus one officer, smoke inhalation and concussion-like symptoms with headaches, injuries not severe, and all eight returning to duty shortly after. The 'undisclosed' characterization checks out: the report states the Defense Department did not publicly report the incident when it occurred and CENTCOM declined to comment, with the injuries entered into the Pentagon's Defense Casualty Analysis System about ten days after the strike — a U.S. official attributed the lag to symptoms that manifest days later and the system's lack of real-time capability. The vessel was not a commissioned U.S. Navy ship, matching the claim's framing. No direct nbcnews.com URL could be located despite multiple searches, so the article_url remains the Particle News mirror of the NBC report. No Snopes, PolitiFact, or Reuters Fact Check entry on this breaking story was found. Iran has not publicly confirmed firing the missile; the Iranian attribution comes from the U.S. officials cited by NBC.",
+  "sources": [
+   {
+    "name": "Particle News (NBC News syndicated mirror)",
+    "url": "https://particle.news/story/undisclosed-iranian-cruise-missile-strike-injured-eight-us-marines-in-strait-of-hormuz"
+   },
+   {
+    "name": "AzerNEWS",
+    "url": "https://www.azernews.az/region/264605.html"
+   }
+  ],
+  "trending_claim": "NBC News, citing three U.S. officials, reported that eight U.S. Marines (seven enlisted, one officer, part of a battalion landing team) were injured on September 14 when an Iranian anti-ship cruise missile struck a non-Navy maritime vessel in the Strait of Hormuz; the Marines suffered smoke inhalation and concussion-like symptoms (none severe), all returned to duty, and the Pentagon had not publicly disclosed the incident — the injuries were entered into the DCAS casualty database nearly 10 days after the strike.",
+  "trending_context": "Featured on Memeorandum with broad discussion including right outlets (Fox News, RedState, Gateway Pundit, NewsMax) questioning Pentagon casualty reporting in the Iran conflict.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 6
+ },
+ {
+  "article_url": "https://www.washingtonexaminer.com/policy/foreign-policy/4744415/iran-doomsday-war-trump-ceasefire-araghchi/",
+  "headline": "Iran ready for 'doomsday war' after Trump rejects ceasefire, foreign minister says",
+  "id": "R07",
+  "outlet": "Washington Examiner",
+  "published": "2026-09-27",
+  "rating_explained": "The quote is verified verbatim: the Washington Examiner article page itself prints 'We are fully prepared for the war to be resumed. We stand firm in the face of any new aggression, even if it comes to a doomsday war,' and the ANI wire report (carried by The Hindu BusinessLine) independently quotes the identical sentence, adds 'We don't care about U.S. midterm elections. We care about our national interests,' and attributes it to Araghchi's September 27 NBC News 'Meet the Press' interview. The context is also confirmed: the Examiner prints Trump's own Saturday rejection of the ceasefire offer ('We're winning tremendously... I like making a deal too, but I'm not — that deal would not be acceptable'), and ANI confirms the interview addressed the Wall Street Journal report of Trump's rejection of a seven-day ceasefire proposal. Araghchi's 'we came to forge peace' line from the same interview is independently echoed in his own X post cited by other outlets. No established fact-checker disputes were found.",
+  "sources": [
+   {
+    "name": "The Hindu BusinessLine (ANI wire)",
+    "url": "https://www.thehindubusinessline.com/news/world/iran-ready-for-doomsday-war-with-us-says-foreign-minister-araghchi/article71518137.ece"
+   },
+   {
+    "name": "Washington Examiner",
+    "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4744415/iran-doomsday-war-trump-ceasefire-araghchi/"
+   }
+  ],
+  "trending_claim": "Iranian Foreign Minister Abbas Araghchi told NBC's Meet the Press on September 27, 'We are fully prepared for the war to be resumed. We stand firm in the face of any new aggression, even if it comes to a doomsday war,' adding that Iran does not care about U.S. midterm elections and cares only about its national interests — while also saying Iran stands ready for diplomacy.",
+  "trending_context": "Dominant right-leaning foreign-policy follow-up on Sep 27; headline confirmed on the article page.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 7
+ },
+ {
+  "article_url": "https://www.reuters.com/world/us/first-us-trial-against-tiktok-test-claims-platform-fueled-teen-mental-health-2026-09-25/",
+  "headline": "First US trial against TikTok to test claims platform fueled teen mental health crisis",
+  "id": "R08",
+  "outlet": "Reuters",
+  "published": "2026-09-25",
+  "rating_explained": "Reuters' September 25 article accurately reported everything it asserted at the time: Alabama's case was 'the first case against the company to reach trial,' the trial was 'scheduled to kick off Monday in Montgomery state court' and expected to last two to three weeks, AG Steve Marshall filed the suit in 2025, and the state's allegations — addictive endless video stream, algorithm pushing teens toward violent and self-harm content, misleading teen-safety claims — are quoted directly in the piece. However, Reuters itself reported on September 25 that TikTok reached a settlement with Alabama (a minimum of $100 million within 45 days, up to $300 million if conditions are met, per the Alabama Attorney General's office), ending the trial scheduled three days later — TikTok's first settlement with a state. So the forward-looking 'begins hearing on Sept. 28' element never happened: the trial did not occur. The verdict is mostly-accurate because the article's claims were correct when published, but as of the September 28 edition date the central present-tense framing is stale and needs the settlement caveat.",
+  "sources": [
+   {
+    "name": "Reuters (trial preview)",
+    "url": "https://www.reuters.com/world/us/first-us-trial-against-tiktok-test-claims-platform-fueled-teen-mental-health-2026-09-25/"
+   },
+   {
+    "name": "Reuters (settlement report)",
+    "url": "https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/"
+   }
+  ],
+  "trending_claim": "Alabama's case was the first state case against TikTok to reach trial in the U.S. litigation over social media's impact on teen wellbeing; jury selection/trial was scheduled to begin Monday, September 28 in Montgomery state court; and Alabama AG Steve Marshall's central allegations were that TikTok's endless video stream and recommendation algorithm made the platform addictive and pushed young users toward increasingly intense content about violence and self-harm.",
+  "trending_context": "Widely flagged in right/conservative weekend roundups (Digital Free Press, conservative news recaps) as a landmark case ahead of Monday's trial start.",
+  "verdict": "mostly-accurate",
+  "side": "right",
+  "order": 8
+ },
+ {
+  "article_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+  "headline": "Anthropic's CEO is about to have dinner with President Trump",
+  "id": "R09",
+  "outlet": "TechCrunch (Axios scoop)",
+  "published": "2026-09-27",
+  "rating_explained": "TechCrunch's forward-looking framing ('about to have dinner,' posted 1:34 PM PDT September 27) was confirmed that same day: Axios broke the scoop, TechCrunch confirmed it with a source familiar with Amodei's plans, The Hill (Max Rego) confirmed it with two sources, and Trump himself confirmed the dinner to reporters on the tarmac at Joint Base Andrews on Sunday evening — 'tonight, I'm having dinner with the head of Anthropic' — as reported by AFP. Multiple outlets confirm it was the first one-on-one meeting between Trump and Amodei. The court element also checks out: AFP, TechCrunch, and other outlets agree that a federal appeals court upheld the Pentagon's decision to classify Anthropic as a 'supply-chain risk' (barring U.S. military use of its models) two days earlier, on Friday September 25 — a designation imposed after Anthropic refused to allow its models for fully autonomous weapons or domestic mass surveillance. Note that by the time the September 28 edition publishes, the dinner has already occurred; the 'about to have' framing was accurate only at the article's September 27 publication time.",
+  "sources": [
+   {
+    "name": "AFP (via Malay Mail / Bangsar.net.my)",
+    "url": "https://www.bangsar.net.my/anthropic-ceo-amodei-meets-trump-for-late-night-white-house-talks-as-ai-tensions-mount/"
+   },
+   {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+   }
+  ],
+  "trending_claim": "President Trump was set to host Anthropic CEO Dario Amodei for a private one-on-one White House dinner on Sunday, September 27, 2026 — the first one-on-one meeting between the two men — two days after a federal appeals court upheld the Pentagon's designation of Anthropic as a supply-chain risk.",
+  "trending_context": "Top story on Memeorandum, with heavy discussion from right-leaning outlets (Daily Wire, Washington Examiner); followed up by Axios on the 'hit piece' briefing against Amodei before the dinner.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 9
+ },
+ {
+  "article_url": "https://politicalwire.com/2026/09/26/gop-election-outlook-goes-from-bad-to-craptastic/",
+  "headline": "GOP Election Outlook Goes From Bad to 'Craptastic'",
+  "id": "R10",
+  "outlet": "Political Wire (via Axios)",
+  "published": "2026-09-26",
+  "rating_explained": "The story's core is a description of Axios's reporting, and that description checks out. The Axios piece exists: it appears on Memeorandum's river as an Axios item dated Sept 26 and in the Axios RSS feed, and two outlets quote it verbatim. Political Wire and Charlie Sykes's 'A Week of GOP Panic' both reproduce the key lines word for word — the 'violent undertow fueled by Trump's unpopularity,' the environment 'disintegrating in real time,' and the list of developments with 'virtually no chance' of arriving before the Nov. 3 election. The trending claim's paraphrase — a 'disintegrating' environment, Trump dragging down coast-to-coast candidates, and no chance the Iran war ends or inflation cools before the election — faithfully mirrors the Axios wording (the original says 'the war ends,' referring to the Iran conflict then underway). The verification task here is whether Axios reported it, and the independent verbatim quotations confirm it did. Because the story accurately characterizes Axios's analysis, the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Political Wire",
+    "url": "https://politicalwire.com/2026/09/26/gop-election-outlook-goes-from-bad-to-craptastic/"
+   },
+   {
+    "name": "Charlie Sykes — 'A Week of GOP Panic' (quotes the Axios piece verbatim)",
+    "url": "https://charliesykes.substack.com/p/a-week-of-gop-panic"
+   }
+  ],
+  "trending_claim": "Axios reported that Republicans face a 'disintegrating' midterm environment, with Trump's unpopularity pulling down candidates coast to coast and virtually no chance the Iran war ends or inflation cools before Nov. 3.",
+  "trending_context": "Featured on Memeorandum with right-side discussion (Gateway Pundit, RedState, twitchy, Newsbusters, Washington Examiner); top item on Drudge's front page.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 10
+ },
+ {
+  "article_url": "https://www.washingtonexaminer.com/news/white-house/4742928/trump-republican-defections-midterm-elections-john-curtis-maria-salazar-pushback/",
+  "headline": "Trump waves off Republican breaks as midterm grows closer",
+  "id": "R11",
+  "outlet": "Washington Examiner",
+  "published": "2026-09-27",
+  "rating_explained": "Verified facts support the underlying events: Rep. Maria Elvira Salazar released a campaign ad telling Trump 'some of your immigration enforcement efforts have gone too far' (CNN, Sept 26), and Trump's only public comment was a mild Oval Office response — 'She got a little bit soft on the border. I understand that' — with his endorsement of Salazar left intact (CNN, NY Post). Sen. Roger Wicker did criticize the Xi Jinping state visit on the Senate floor, saying he would have advised against 'such a lavish welcome' (NY Post, Sept 23), and no public Trump response to Wicker was found — the 'tolerance' there rests on anonymous White House-adjacent sources quoted by the Examiner. The problem is the claim's core framing: the Examiner says Trump 'notably refrained from social media diatribes,' yet CNN reported that on Saturday evening, Sept 26, Trump reposted at least 14 social-media attacks on Salazar, including posts demanding her replacement — a development the Examiner piece, published Sept 27, does not mention. Also, despite the URL slug naming John Curtis, Trump made no public comment about Curtis's Judiciary Committee letter on Donald Trump Jr.; his on-record comments were about Salazar alone. The Examiner's 'waves off' framing is therefore only partly true: mild initial response and no counterattack on Wicker are verified, but the Saturday-night repost escalation directly undercuts the sustained-tolerance narrative, making the overall claim mixed.",
+  "sources": [
+   {
+    "name": "CNN — 'Trump posts series of attacks on GOP congresswoman who criticized him on immigration'",
+    "url": "https://www.cnn.com/2026/09/26/politics/trump-maria-elvira-salazar-truth-social-posts?cid=external-feeds_iluminar_meta"
+   },
+   {
+    "name": "New York Post — 'China lays out red lines for Trump-Xi meeting as GOP lawmaker criticizes lavish welcome'",
+    "url": "https://nypost.com/2026/09/23/us-news/china-lays-out-red-lines-for-trump-xi-meeting-as-gop-lawmaker-criticizes-lavish-welcome/"
+   }
+  ],
+  "trending_claim": "The Examiner reported Trump was uncharacteristically restrained toward GOP dissenters — giving Salazar's 'gone too far' immigration ad only a mild Oval Office response ('She got a little bit soft on the border'), with no public retaliation toward Wicker's Senate-floor criticism of the Xi visit or Curtis's probe letter — but CNN reported Trump reposted 14+ attacks on Salazar, some urging her replacement, on Sept 26.",
+  "trending_context": "Prominent Examiner White House story Sep 27 circulating widely in right-leaning media; headline confirmed on the article page.",
+  "verdict": "mixed",
+  "side": "right",
+  "order": 11
+ },
+ {
+  "article_url": "https://www.cnn.com/2026/09/25/politics/supreme-court-rejects-gop-third-effort-to-capture-house-seat-from-missouri?cid=external-feeds_iluminar_meta",
+  "headline": "Supreme Court rejects GOP's third effort to capture Democratic House seat in Missouri",
+  "id": "R12",
+  "outlet": "CNN",
+  "published": "2026-09-25",
+  "rating_explained": "The claim describes two Supreme Court emergency-docket decisions issued Friday, Sept 25, and both check out. CNN reports the unsigned Missouri order rejected the GOP's third attempt to impose the 2025 map, keeping the 2022 map because ballots 'have been printed and mailed' and mid-election reversion would bring 'electoral chaos' under the Purcell principle, with no noted dissents. Redistricting Online corroborates every detail: the case (People Not Politicians v. Onder, No. 26A388), the unsigned per curiam order, no recorded dissents, the Purcell grounding, and that it was the third rejection in three weeks. The same Friday, the Court ruled 6-3 that DHS may use its expanded SAVE voter-citizenship database ahead of the midterms, with the majority calling challengers' claims 'likely lack merit' and the three liberals dissenting, per the ABA Journal's republication of the Washington Post report. Because the map was blocked on Purcell grounds and the SAVE database was authorized in the same session, the claim is accurate.",
+  "sources": [
+   {
+    "name": "Redistricting Online — 'U.S. Supreme Court Blocks Missouri's 2025 Map for a Third Time'",
+    "url": "https://redistrictingonline.org/2026/09/26/u-s-supreme-court-blocks-missouris-2025-map-for-a-third-time-closing-the-midterm-fight/"
+   },
+   {
+    "name": "ABA Journal (via Washington Post)",
+    "url": "http://www.abajournal.com/syndicated/article/government-can-use-social-security-data-to-identify-noncitizen-voters-supreme-court-rules"
+   }
+  ],
+  "trending_claim": "The Supreme Court blocked Missouri from using its new Trump-backed congressional map in the 2026 midterms, keeping the 2022 map under the Purcell principle, while in the same session allowing DHS to use its voter-citizenship database.",
+  "trending_context": "Top legal/politics story in conservative weekend roundups (Tangle Sunday, conservative blogs) — a split decision that infuriated the right on redistricting but delivered a win on noncitizen-voting checks.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 12
+ },
+ {
+  "article_url": "https://nypost.com/2026/09/25/us-news/mike-lee-explodes-on-voting-error-that-keeps-happening-as-huge-number-of-noncitizens-found-on-rolls/",
+  "headline": "Mike Lee explodes on voting error that 'keeps happening' as huge number of noncitizens found on rolls",
+  "id": "R13",
+  "outlet": "New York Post",
+  "published": "2026-09-25",
+  "rating_explained": "The checkable core of the claim is confirmed. Reuters published 'Thirty thousand mistakes. How red and blue states added non-citizens to the US voter rolls' on Sept 23, 2026, reporting that official records show 'more than 30,000 self-declared non-citizens' added to voter rolls since 2000 due to 'software glitches and clerical errors' at driver's license and state ID agencies across 'a dozen' states — New Jersey's 6,600 plus 11 others (California, Illinois, Iowa, Nevada, Ohio, Oregon, Pennsylvania, South Dakota, Texas, Utah, Virginia). The New York Post reported Sept 25 that Sen. Mike Lee, who introduced the SAVE America Act earlier this year, used the Reuters findings in a Senate floor speech to press for the bill, which Trump supports, has passed the House, and has stalled in the Senate. Reuters itself provided the balancing context: experts said the numbers were too small relative to 170 million registered voters to affect elections, and Reuters could not determine how many of these noncitizens actually voted. Since the Reuters review, the figures, and Lee's SAVE Act push all verify as stated, the verdict is accurate.",
+  "sources": [
+   {
+    "name": "Reuters — 'Thirty thousand mistakes. How red and blue states added non-citizens to the US voter rolls'",
+    "url": "https://www.reuters.com/legal/government/thirty-thousand-mistakes-how-red-blue-states-added-non-citizens-us-voter-rolls-2026-09-23/"
+   },
+   {
+    "name": "New York Post — 'Mike Lee explodes on voting error that keeps happening as huge number of noncitizens found on rolls'",
+    "url": "https://nypost.com/2026/09/25/us-news/mike-lee-explodes-on-voting-error-that-keeps-happening-as-huge-number-of-noncitizens-found-on-rolls/"
+   }
+  ],
+  "trending_claim": "Sen. Mike Lee is pushing the SAVE America Act after a Reuters review found more than 30,000 self-declared noncitizens were mistakenly added to voter rolls in 12 states since 2000 due to DMV software glitches.",
+  "trending_context": "Major talking point in right-leaning election-integrity coverage (NYP, Fox), paired with the same-week SCOTUS ruling letting DHS use its voter-citizenship database.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 13
+ },
+ {
+  "article_url": "https://www.primetimer.com/news/house-democrat-steve-cohen-introduces-26-articles-of-impeachment-against-trump-cites-abuse-of-power-violation-of-oath-and-other-allegations",
+  "headline": "House Democrat Steve Cohen introduces 26 articles of impeachment against Trump, cites 'abuse of power,' 'violation of oath' and other allegations",
+  "id": "R14",
+  "outlet": "Primetimer",
+  "published": "2026-09-26",
+  "rating_explained": "The story asserts Cohen filed 26 articles of impeachment on September 24, 2026 citing abuse of power, oath violations, corrupt pardon use, and emoluments violations. Cohen's own House press release (cohen.house.gov) confirms all 26 articles verbatim: Article II (waging war on Iran without congressional approval), Article III (extrajudicial killings in Venezuelan international waters), Article V (birthright citizenship EO), Articles VIII/IX/XII (Alien Enemies Act/Abrego Garcia deportation, CECOT, defying immigration court orders), and Article XXIII (demolishing the White House East Wing without congressional approval). MEAWW and Heritage Review independently corroborate the filing, the September 24 date, and the topics. One caveat, stated in the sources themselves: filing a resolution is not impeachment — the House must vote to approve at least one article, and Cohen himself told Nexstar the effort 'won't go anywhere' in the GOP-controlled House, nine days after the House tabled Rep. Al Green's impeachment push 232-147.",
+  "sources": [
+   {
+    "name": "Rep. Steve Cohen official House press release",
+    "url": "http://cohen.house.gov/media-center/press-releases/congressman-cohen-introduces-comprehensive-articles-impeachment-against"
+   },
+   {
+    "name": "MEAWW",
+    "url": "https://news.meaww.com/house-democrat-drops-massive-26-article-impeachment-resolution-targeting-trump"
+   },
+   {
+    "name": "Heritage Review",
+    "url": "https://heritagereview.com/retiring-democrat-steve-cohen-files-26-impeachment-articles-against-trump-in-a-bid-he-admits-will-fail/"
+   }
+  ],
+  "trending_claim": "Rep. Steve Cohen (D-TN) filed a 26-article impeachment resolution against President Trump covering the Iran strikes, Venezuela operations, birthright citizenship, deportations, and the East Wing demolition.",
+  "trending_context": "Featured in the Conservative Treehouse weekend politics thread and covered by Breitbart as a 'preview of a midterm reckoning' Democrats would unleash if they take the House.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 14
+ },
+ {
+  "article_url": "https://www.newsmax.com/newsfront/putin-trump-g20-summit/2026/09/25/id/1270735",
+  "headline": "Senators Urge Trump to Rescind Putin's G20 Invitation",
+  "id": "R15",
+  "outlet": "Newsmax",
+  "published": "2026-09-25",
+  "rating_explained": "The story asserts 14 senators (7 Republicans including McConnell, Cornyn, Wicker, Moran, Tillis, Curtis, Armstrong; 7 Democrats led by Shaheen) wrote Trump on September 25 urging him to rescind Putin's invitation to the December G20 summit in Miami. IANS (Sept 26 wire), Nation Press, and NAnews each confirm the 14 signatories with the exact same name lists and party split; NAnews notes the appeal was published by the Senate Foreign Relations Committee on September 25, 2026 and lists McConnell among the seven Republicans. All three corroborate the summit dates (December 14-15, Miami), the letter's core quote ('President Putin bears sole responsibility for launching Russia's full-scale war of aggression against Ukraine'), and the sanctions-objection details (Putin and Finance Minister Siluanov under Executive Order 14024; Russian delegations at G20 ministerials in Asheville, Chapel Hill, Houston). One discrepant outlet, the Washington Sun, reported 13 senators with 6 Republicans and omitted McConnell — flagged here, but the weight of evidence (including the SFRC-published appeal) supports 14 with McConnell. What's disputed or unknown: whether the White House will act; the letter's outcome and Putin's acceptance of the invitation remain unresolved.",
+  "sources": [
+   {
+    "name": "IANS wire",
+    "url": "https://ianslive.in/us-senators-tell-trump-keep-putin-out-of-g20--20260926072402"
+   },
+   {
+    "name": "Nation Press",
+    "url": "https://www.nationpress.com/international/14-senators-urge-trump-bar-putin-from-g20"
+   },
+   {
+    "name": "NAnews (Nikol News Israel)",
+    "url": "https://news.nikk.co.il/en/14-senators-demanded-that-trump/"
+   }
+  ],
+  "trending_claim": "Fourteen senators from both parties, including seven Republicans (McConnell, Cornyn, Wicker, Moran, Tillis, Curtis, Armstrong), sent Trump a letter urging him to rescind his invitation for Putin to attend the December G20 summit in Miami.",
+  "trending_context": "Heavily covered by right-leaning outlets (Newsmax, Examiner, Conservative Institute) as a Republican pushback against Trump's summit plans.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 15
+ },
+ {
+  "article_url": "https://washexam.com/news/3122291/russia-and-china-unite-against-us-over-iran-and-cuba-in-un-speeches/",
+  "headline": "Russia and China unite against US over Iran and Cuba in UN speeches",
+  "id": "R16",
+  "outlet": "Washington Examiner",
+  "published": "2026-09-26",
+  "rating_explained": "The story asserts Lavrov and Han Zheng used their Saturday, September 26 UNGA speeches to back Iran against the U.S.-Israeli war and denounce the U.S. energy blockade of Cuba. Reuters confirms Han Zheng said Gulf countries' 'sovereignty and security' must be respected and urged the 'relevant country' to 'immediately stop using threat of force against Cuba and immediately and completely lift the blockade and sanctions against Cuba,' and that Lavrov echoed him hours later, calling on Washington to lift the 'siege,' remove trade restrictions, and strike Cuba off the state sponsors of terrorism list. The NY Post and Eastora News independently confirm Lavrov's Iran remarks: he called it 'unacceptable' that force was used to kill Ayatollah Khamenei, his family, and Iran's military/political leadership, and condemned U.S.-Israeli strikes on Iran's civilian infrastructure and IAEA-safeguarded nuclear facilities. Nuances: Han Zheng never named the United States directly (he said 'the relevant country'); Lavrov did. The Examiner's phrase 'sided with the Iranian regime over the Trump administration' is the outlet's characterization rather than a direct quote, but the reported speech content underneath it checks out.",
+  "sources": [
+   {
+    "name": "Reuters (via LA Post)",
+    "url": "https://www.lapost.com/content/china-pushes-back-against-us-on-iran-and-cuba-in-un-speech"
+   },
+   {
+    "name": "Reuters (via TBS News)",
+    "url": "https://www.tbsnews.net/world/china-pushes-back-against-us-iran-and-cuba-un-speech-1554616"
+   },
+   {
+    "name": "New York Post",
+    "url": "https://nypost.com/2026/09/26/us-news/russian-foreign-minister-sergei-lavrov-tears-into-us-at-united-nations/"
+   }
+  ],
+  "trending_claim": "Russia's Sergey Lavrov and China's Han Zheng used their Saturday UN General Assembly speeches to side with Iran against the U.S.-Israeli war and condemn the U.S. energy blockade of Cuba.",
+  "trending_context": "Key Examiner foreign-policy story from the Sep 26-27 UNGA weekend widely shared in right-leaning media; headline confirmed on the article page.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 16
+ },
+ {
+  "article_url": "https://washexam.com/news/3122292/mike-waltz-joins-gop-chorus-blaming-russia-ukraine-war-for-high-energy-prices/",
+  "headline": "Mike Waltz joins GOP chorus blaming Russia-Ukraine War for high energy prices",
+  "id": "R17",
+  "outlet": "Washington Examiner",
+  "published": "2026-09-26",
+  "rating_explained": "The Examiner reports that Waltz appeared on Fox News's Fox News Live and quoted him at length saying the diesel problem is 'separate than what's happening in the Strait of Hormuz' and that 'the primary thing that is affecting that is the war between Russia and Ukraine.' A Fox News channel video page confirms Waltz appeared on Fox News Live discussing the diesel fuel shortage, corroborating the appearance and topic. The AAA figures check out: the Examiner cites $6.48/gal Saturday and a record $6.5276 Tuesday, and TNND/fox49.tv independently reports AAA's $6.51/gal Thursday average, 'nearly $3 more expensive than a year ago,' with repeated record highs. One nuance: the causal claim that refinery hits in Russia-Ukraine are the driver is Waltz's stated administration position, quoted as such; TNND's independent reporting attributes the diesel pinch to multiple causes, including the Iran war, Middle East refinery damage, and targeting of Russian energy sites.",
+  "sources": [
+   {
+    "name": "Fox News (video page)",
+    "url": "https://www.youtube.com/watch?v=FOub5EupomM"
+   },
+   {
+    "name": "TNND / fox49.tv",
+    "url": "https://fox49.tv/news/nation-world/gop-searches-for-diesel-price-relief-as-industry-warns-export-ban-could-backfire-export-ban-iran-war-middle-east-refineries"
+   }
+  ],
+  "trending_claim": "U.S. Ambassador to the UN Mike Waltz told Fox News that record-high U.S. diesel prices (about $6.48/gal per AAA) are driven by the Russia-Ukraine war's refinery hits, not the Iran/Hormuz conflict.",
+  "trending_context": "Examiner energy story feeding the right's diesel-price debate, a top midterm issue; headline confirmed on the article page.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 17
+ },
+ {
+  "article_url": "https://conservativelegalnews.com/former-democratic-fundraiser-calls-harris-campaign-spending-a-pyramid-scheme-in-new-tell-all-book/",
+  "headline": "Ex-Dem Fundraiser Calls Harris Campaign 'Pyramid Scheme'",
+  "id": "R18",
+  "outlet": "Conservative Legal News",
+  "published": "2026-09-25",
+  "rating_explained": "The core of this story is that Li said it, and that is well supported: multiple outlets reproduce identical verbatim quotes from the Fox News Digital interview ('I sincerely believe it's a pyramid scheme' and 'When you recruit somebody, you can claim up to $250,000 of what they raise'), consistent with a single original interview. Headline USA confirms the underlying predicates: Li is a former DNC fundraiser who raised millions, her book Unburdened is published by Harper with a Sept. 22 release, and the New York Post published book excerpts on Sept. 16, 2026. However, the article is accurate precisely because it frames these as Li's allegations and includes a 'What remains unanswered' section: FEC-based reporting (OpenSecrets/The Dispatch) shows the Harris committee raised about $1.5 billion total, undercutting the book's '$2.5 billion over seven weeks' figure; USA Today-network reporting documented a $575,000 FEC-reported Sphere ad buy rather than Li's '$350,000 a night' figure; and no charges or formal investigations have been announced. The 'pyramid scheme' characterization is her stated opinion, not a legal finding.",
+  "sources": [
+   {
+    "name": "Headline USA",
+    "url": "https://headlineusa.com/ex-dnc-operative-exposes-kamalas-celebrity-crowd-wrangling-bait/"
+   },
+   {
+    "name": "Front Page News Paper",
+    "url": "https://frontpagenewspaper.com/2026/09/kamala-harris-hit-with-explosive-allegations/"
+   }
+  ],
+  "trending_claim": "Ex-Democratic fundraiser Lindy Li told Fox News Digital she believes the Harris campaign's fundraising operation was 'a pyramid scheme' where operatives claimed credit for up to $250,000 raised by recruited bundlers.",
+  "trending_context": "Fox News homepage feature this weekend, circulating heavily in right media (conservative recaps, Digital Free Press video) as Democrats-trashing-Democrats content.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 18
+ },
+ {
+  "article_url": "https://fox49.tv/news/nation-world/massie-trumps-comeuppance-will-happen-on-election-day-then-a-reckoning-the-next-day-jeffrey-epstein-pete-hegseth-iran-war-mike-johnson-roger-marshall-dhs-xi-jinping-white-house",
+  "headline": "Massie: Trump's 'comeuppance will happen on Election Day,' then 'a reckoning' the next day",
+  "id": "R19",
+  "outlet": "TNND (Fox 49)",
+  "published": "2026-09-25",
+  "rating_explained": "Both checkable factual predicates are confirmed by independent named sources. Dagens.com reports that Massie lost Kentucky's Republican primary in May 2026 to Ed Gallrein, a Trump-backed former Navy SEAL, roughly 55% to 45%, and quotes Massie saying to CNN's Kaitlan Collins, 'I think his comeuppance will happen on election day, and the day after I think there's going to be a reckoning.' The TNND piece attributes the original reporting to The Hill and identifies the venue as CNN's 'The Source,' consistent with the direct quotes. The prediction itself ('comeuppance,' 'reckoning') is Massie's opinion about a future election outcome, which cannot be fact-checked; there is no dispute that he lost the primary or that he made the remarks as quoted.",
+  "sources": [
+   {
+    "name": "Dagens.com",
+    "url": "https://www.dagens.com/news/republican-congressman-warns-trump-as-even-his-own-party-members-flee-from-him"
+   },
+   {
+    "name": "Sinclair National Desk (Charlotte Hazard)",
+    "url": "https://published.pdf.pagesuite.com/fea9d757-caf1-44de-a806-73630a1ba0bf/d6868dc7-925a-49e9-863d-9f8135d68d78/d5f9da20-0bf3-452b-a5be-58bbbd406df1/f9c58d6b-cc2b-41b7-affd-a8555a56c37f/ae35e965-889e-42dc-91be-46a940330a0d/lowres.pdf"
+   }
+  ],
+  "trending_claim": "Rep. Thomas Massie, ousted in the Kentucky GOP primary by a Trump-backed challenger, told CNN he predicts Trump's 'comeuppance will happen on Election Day' and a 'reckoning' the day after.",
+  "trending_context": "Widely shared in right/never-Trump-conservative circles and conservative news recaps as an intra-GOP fight marker.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 19
+ },
+ {
+  "article_url": "https://nypost.com/2026/09/27/us-news/fetterman-says-hes-a-lifelong-republican-in-awkward-slip/",
+  "headline": "Fetterman says he's a 'lifelong Republican' in awkward slip",
+  "id": "R20",
+  "outlet": "New York Post",
+  "published": "2026-09-27",
+  "rating_explained": "The Post reports that on Sept 26, 2026 at the Texas Tribune Festival in Austin, Fetterman answered an audience question about why he won't become an independent with 'Because I'm a lifelong Republican,' was corrected by moderator Major Garrett, and laughed it off as a slip that would 'break through.' The Hill's account of the event — verified via Primetimer's reprint — confirms the same quotes verbatim, including Garrett's 'Democrat' correction and Fetterman's 'I'm a lifelong Democrat though.' Newsmax independently confirms both the slip and that Fetterman 'declined to say how he'd cast a decisive 51st vote if Democrats retake the Senate majority in November,' quoting his 'Let's revisit after the midterms, and let's see what happens.'",
+  "sources": [
+   {
+    "name": "The Hill (via Primetimer reprint)",
+    "url": "https://www.primetimer.com/news/video-of-democrat-john-fettermans-im-a-lifelong-long-republican-slip-up-goes-viral"
+   },
+   {
+    "name": "Newsmax",
+    "url": "https://www.newsmax.com/newsfront/john-fetterman-texas-tribune-festival-midterms/2026/09/27/id/1270834"
+   }
+  ],
+  "trending_claim": "Sen. John Fetterman accidentally called himself a 'lifelong Republican' at the Texas Tribune Festival while refusing to say how he'd vote if he became the Democrats' 51st Senate vote after the midterms.",
+  "trending_context": "Top story on the MAGA Daily News roundup and going viral across right-leaning media, feeding party-switch speculation.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 20
+ },
+ {
+  "article_url": "https://nypost.com/2026/09/24/us-news/aoc-testing-the-waters-for-possible-2028-run-as-she-launches-upstate-ny-tour-before-midterm-elections/",
+  "headline": "AOC testing the waters for possible 2028 run as she launches upstate NY tour before midterm elections",
+  "id": "R21",
+  "outlet": "New York Post",
+  "published": "2026-09-24",
+  "rating_explained": "Axios's own reporting — verified via a full-text reprint at Political Dog 101 whose verbatim excerpts match the Axios text independently quoted on ResetEra — says her 'swing through Buffalo and Ithaca was officially aimed at boosting Democratic turnout in the midterms. But it doubled as a way to test AOC's appeal far from her home base of Queens and the Bronx, and build relationships with locals,' and reports she says she is 'genuinely undecided on whether to run for the White House or Senate.' Christian News Alerts independently confirms the tour's facts: a Thursday rally in Buffalo, stops in Syracuse and Ithaca, a $300,000 contribution to state Democrats, an 'inactive voter training' session, and her 'leaving all my options open' non-denial days after calling 2028 'make-or-break' to the New York Times. The 'test run' characterization is Axios's analysis, which the Post's framing faithfully attributes.",
+  "sources": [
+   {
+    "name": "Axios (via full-text reprint at Political Dog 101)",
+    "url": "https://politicaldog101.com/2026/09/reality-aoc-possible-new-york-new-york-us-senate-run/"
+   },
+   {
+    "name": "Christian News Alerts",
+    "url": "https://christiannewsalerts.com/ocasio-cortez-launches-upstate-new-york-tour-fueling-2028-speculation-as-republicans-push-back/"
+   }
+  ],
+  "trending_claim": "Rep. Alexandria Ocasio-Cortez is touring Buffalo and Ithaca in what Axios reports doubles as a test of her appeal outside NYC for a possible Senate or presidential bid in 2028.",
+  "trending_context": "Featured on Memeorandum's 9/27 snapshot with right-side discussion (NewsMax, American Conservative) and a RedState piece claiming Democrats like Forstag are scrubbing her endorsement.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 21
+ },
+ {
+  "article_url": "https://www.reuters.com/world/us/new-jerseys-lieutenant-governor-resigns-amid-sexual-harassment-findings-2026-09-25/",
+  "headline": "New Jersey's lieutenant governor resigns amid sexual harassment findings",
+  "id": "R22",
+  "outlet": "Reuters",
+  "published": "2026-09-25",
+  "rating_explained": "AP reporting (via Scripps/TMJ4) confirms Caldwell resigned Friday, Sept 25, after Gov. Mikie Sherrill publicly demanded his resignation Thursday, following the release of a 61-page report by the law firm of former NJ Attorney General Christopher Porrino. The report found he committed several state-policy violations: telling a staffer 'you young women are looking for young sperm' after his advances on the staffer's friend were rebuffed (investigators deemed his denial not credible), trying to secure a promotion for a state employee he was dating, and bringing personal guests to ticketed events without paying. WTAM 1100 (citing Clarrus) independently confirms the 61-page report and the three substantiated violations, and Sherrill's Friday deadline. Disputed: Caldwell calls the report 'false'/'specious'/'poorly done' and says he resigned to avoid being a distraction rather than accepting the findings; his attorney Thomas Calcagni is exploring legal remedies.",
+  "sources": [
+   {
+    "name": "Associated Press (via Scripps/TMJ4)",
+    "url": "https://www.tmj4.com/politics/new-jersey-governor-calls-on-lt-gov-dale-caldwell-to-resign-after-misconduct-report"
+   },
+   {
+    "name": "WTAM 1100 (citing Clarrus)",
+    "url": "https://wtam.iheart.com/content/2026-09-25-new-jersey-lt-governor-resigns-after-ethics-probe/"
+   }
+  ],
+  "trending_claim": "New Jersey Lt. Gov. Dale Caldwell resigned Friday after a 61-page investigation found he committed sexual harassment and ethics violations, including trying to get his girlfriend promoted.",
+  "trending_context": "Listed in the Tangle Sunday weekend recap and hammered by Republicans as a second scandal for Gov. Mikie Sherrill's first year (after the NJ noncitizen voter-registration disclosure).",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 22
+ },
+ {
+  "article_url": "https://www.usatoday.com/story/sports/golf/2026/09/27/trump-presidents-cup-2026-trophy-ceremony/91976992007/",
+  "headline": "Trump gets credit for U.S. Presidents Cup win at trophy ceremony",
+  "id": "R23",
+  "outlet": "USA Today",
+  "published": "2026-09-27",
+  "rating_explained": "USA Today reports Trump, as honorary chairman, presented the Presidents Cup trophy to Team USA after its Sunday comeback win at Medinah, and that captain Brandt Snedeker publicly credited him — quoting Snedeker: 'He definitely brought the juice. He deserves a lot of the credit.' Golfweek independently confirms Trump attended Sunday's final, shook hands with all 24 players, and was congratulated at the trophy ceremony, quoting Snedeker: 'he gets all the credit... Thank you, President Trump.' Fox Sports Australia, citing AFP photography, confirms Trump presented the Cup at the ceremony and that Snedeker made similar crediting comments there. Every checkable element — the honorary-chairman role, the attendance, the trophy presentation, and the on-record credit from the winning captain — verifies against independent named outlets. The claim is about credit being given, not about whether Trump 'caused' the win, so no unprovable causation claim is asserted.",
+  "sources": [
+   {
+    "name": "Golfweek",
+    "url": "https://golfweek.usatoday.com/story/sports/golf/presidents-cup/2026/09/27/us-storms-back-wins-2026-presidents-cup-sunday-singles-rally/91977075007/"
+   },
+   {
+    "name": "Fox Sports Australia (citing AFP)",
+    "url": "https://www.foxsports.com.au/golf/presidents-cup-2026-donald-trump-adam-scott-handshake-president-gets-photo-with-victorious-usa-team-brandt-snedeker-trump-comments-latest-news-video/news-story/a83fa3192e3eed9c149c385be3921b12"
+   }
+  ],
+  "trending_claim": "President Trump attended the Presidents Cup final at Medinah as honorary chairman, presented the trophy after the U.S. comeback win, and was publicly credited by captain Brandt Snedeker for 'bringing the juice.'",
+  "trending_context": "Promoted on the Illinois GOP newsletter and Fox News live coverage; a heckler incident on the broadcast also fed right-media discussion of anti-Trump protests.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 23
+ },
+ {
+  "article_url": "https://washexam.com/news/3122267/trump-wants-the-protect-college-sports-act-passed-what-to-know-about-the-legislation/",
+  "headline": "Trump wants the Protect College Sports Act passed. What to know about the legislation.",
+  "id": "R24",
+  "outlet": "Washington Examiner",
+  "published": "2026-09-26",
+  "rating_explained": "The official Senate Daily Press gallery for Thursday, Sept. 24 confirms the Examiner's vote numbers exactly: the Cruz-Cantwell substitute amendment to S. 4668 was adopted 77-23, and cloture was invoked 74-25, and it records the Senate reconvening Monday, Sept. 28 to 'vote on passage of the bill at 5:30 p.m.' Sports Business Journal independently confirms the Thursday sequence: a first vote of 77-23 and a second vote with 74 supporting votes, with a final vote expected Monday. AP reporting confirms Trump's attendance at the Sept. 26 Texas-Tennessee game in Knoxville (No. 1 Texas vs. No. 14 Tennessee). ABC News reports Trump said he would sign the legislation 'immediately,' corroborating his personal push; the Examiner also cites the Aug. 6 White House statement of administration policy. Caveat: characterizing the Knoxville trip as a campaign stop 'to back' the bill is the Examiner's framing — AP connects the visit to the college-sports money debate Congress is resolving but does not state the trip's purpose. The Monday final-vote outcome was still unknown at fact-check time.",
+  "sources": [
+   {
+    "name": "U.S. Senate Daily Press (official Senate gallery)",
+    "url": "https://www.dailypress.senate.gov/thursday-september-24-2026/"
+   },
+   {
+    "name": "Sports Business Journal",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/24/protect-college-sports-act-passes-two-more-procedural-votes-setting-up-possible-final-vote-monday/"
+   },
+   {
+    "name": "Associated Press (via Acadiana News First)",
+    "url": "https://www.acadiananewsfirst.com/2026/09/27/trump-attends-texas-tennessee-college-football-game/"
+   },
+   {
+    "name": "ABC News (via SportsTalkFlorida)",
+    "url": "https://sportstalkflorida.com/featured/protect-college-sports-act-senate-advances-sept-14-2026/"
+   }
+  ],
+  "trending_claim": "President Trump is personally pushing the Senate to pass the Cruz-Cantwell Protect College Sports Act — which advanced 74-25 Thursday with a final vote expected Monday — attending Saturday's No. 1 Texas vs. No. 14 Tennessee game to back it.",
+  "trending_context": "Examiner politics story Sep 26 with Trump personally campaigning for the bill ahead of midterms; headline confirmed on the article page.",
+  "verdict": "accurate",
+  "side": "right",
+  "order": 24
+ },
+ {
+  "article_url": "https://wltreport.com/2026/09/26/california-new-law-booster-seat-children-age-16/",
+  "headline": "California Passes New Law Requiring Booster Seat For Children Up To Age 16",
+  "id": "R25",
+  "outlet": "WLT Report",
+  "published": "2026-09-26",
+  "rating_explained": "WLT Report claims California's AB 435, effective Jan. 1, 2027, requires children ages 8-15 to pass a five-step seat-belt fit test or remain in a booster seat, with fines up to $490. The official chaptered bill text confirms Gov. Newsom approved AB 435 on October 7, 2025; it redefines 'properly restrained by a safety belt' as meeting the five-step test — sitting all the way back, knees over the seat edge, shoulder belt on the chest not the neck, lap belt low on the thighs, seated that way the whole trip — operative January 1, 2027, applying to children under 16. An official LAPD notice confirms the five-step test applies to children 8-16 before a seat belt alone counts, effective Jan. 1, 2027. Jalopnik, quoting LAist/CalMatters, confirms a driver who fails the test faces a ticket and fines of $490. The substance is correct, but the headline 'California Passes New Law' published Sept. 26, 2026 falsely implies the law was passed this weekend — it was signed nearly a year earlier, a fact the article's own body discloses. The viral '16-year-olds in booster seats' framing is also wrong; the law covers those under 16, and the article itself corrects this. Primary sources confirm the law's substance.",
+  "sources": [
+   {
+    "name": "Los Angeles Police Department (official notice)",
+    "url": "https://www.lapdonline.org/newsroom/national-child-passenger-safety-week-september-20-to-september-27-na26057cm/"
+   },
+   {
+    "name": "Jalopnik (quoting LAist/CalMatters)",
+    "url": "https://www.jalopnik.com/2005550/california-not-making-13-year-olds-ride-booster-seats/"
+   },
+   {
+    "name": "California Legislative Information (AB 435, ch. 434, Stats. 2025)",
+    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB435"
+   }
+  ],
+  "trending_claim": "California's AB 435, effective Jan. 1, 2027, requires children ages 8 through 15 to pass a five-step seat-belt fit test or remain in a booster seat, with fines up to $490 — presented as newly passed this weekend, though it was actually signed in October 2025.",
+  "trending_context": "Went viral on right-leaning social media Saturday (Adam Carolla amplified) as a 'government overreach' story; note the law was actually signed by Newsom in Oct. 2025 — the viral outrage is this weekend.",
+  "verdict": "mostly-accurate",
+  "side": "right",
+  "order": 25
+ }
+]
