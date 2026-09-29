@@ -1,0 +1,600 @@
+[
+  {
+    "id": "L01",
+    "side": "left",
+    "headline": "One of Kash Patel's deputies resigns from the FBI",
+    "outlet": "CNN",
+    "article_url": "https://www.cnn.com/2026/09/28/politics/kash-patel-deputy-andrew-bailey-resigns-fbi?cid=external-feeds_iluminar_meta",
+    "published": "2026-09-28",
+    "trending_claim": "FBI co-deputy director Andrew Bailey resigned after just over a year; he publicly cited returning to family, while CNN reported cooled relations with FBI Director Kash Patel.",
+    "verdict": "accurate",
+    "rating_explained": "The claim has three elements: resignation after just over a year, a public family reason, and CNN's cooled-relations reporting. Reuters reported on 2026-09-28 that FBI Co-Deputy Director Andrew Bailey resigned after 'a little more than a year,' with Bailey saying he was leaving to return to his family; the AP likewise dated his co-deputy appointment to August 2025 and his departure to Monday, September 28, 2026, and quoted his X post thanking Trump, Attorney General Todd Blanche and Patel while announcing he was stepping down 'to return to my family in Missouri.' In its own article, CNN reported that 'one source familiar with Bailey's departure said relations between Patel and Bailey had quickly cooled shortly after his arrival at the agency last year and the two men were not close.' A Washington Examiner source disputed a separate outlet's claim that Bailey left over frustration about personnel demotions, but that dispute concerns a different purported motive, not CNN's cooled-relations sourcing. All three elements are therefore supported by named, directly evidenced reporting.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/09/28/politics/kash-patel-deputy-andrew-bailey-resigns-fbi?cid=external-feeds_iluminar_meta"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/fbi-deputy-chief-bailey-resign-2026-09-28/"
+      }
+    ],
+    "trending_context": "A prominent Memeorandum item with a large discussion cluster including Daily Kos, Washington Post, Reuters, Axios, Guardian, and NBC; circulating widely in left-leaning commentary.",
+    "order": 1
+  },
+  {
+    "id": "L02",
+    "side": "left",
+    "headline": "Thune bucks Trump's campaign-style 'PSA' ads for using taxpayer money",
+    "outlet": "Washington Examiner",
+    "article_url": "https://www.washingtonexaminer.com/news/senate/4745920/thune-challenges-trump-campaign-style-psa-ads-for-using-taxpayer-money/",
+    "published": "2026-09-28",
+    "trending_claim": "Three government-funded ads, including material repurposed from the 2024 Trump campaign, have cost at least roughly $1.5 million, and Senate Majority Leader John Thune said taxpayers should not fund them.",
+    "verdict": "accurate",
+    "rating_explained": "The claim has four elements: three government-funded ads, repurposed 2024 campaign material, cost near or above $1.5 million, and Thune's objection. The Washington Examiner reported that three taxpayer-funded 'PSA' videos, the latest ending with 'Paid for by the U.S. Government,' included repurposed material from the 2024 presidential election, and that the administration spent 'north of $1.5 million on the three ads, according to ad-tracking firm AdImpact.' The AP independently reported the spots cost 'more than $1.4 million' and said the actual amount 'could be significantly more,' and described the latest ad as 'virtually identical to an ad for Trump's Republican reelection campaign in 2024.' Senate Majority Leader John Thune told reporters: 'It's a great message. I like the message. But it shouldn't be paid for with taxpayer dollars.' The AP also documented criticism from Sen. Mike Rounds and legal experts who said the ads appear to run afoul of federal statutes against using appropriated funds for 'publicity or propaganda.' Every element of the claim is directly supported by named reporting.",
+    "sources": [
+      {
+        "name": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/senate/4745920/thune-challenges-trump-campaign-style-psa-ads-for-using-taxpayer-money/"
+      },
+      {
+        "name": "Associated Press (via Akron News Reporter)",
+        "url": "https://www.akronnewsreporter.com/2026/09/28/us-election-2026-government-ad/"
+      }
+    ],
+    "trending_context": "Heavily surfaced across left and watchdog outlets, with bipartisan/GOP criticism amplifying it in left commentary despite coming from a right-leaning outlet.",
+    "order": 2
+  },
+  {
+    "id": "L03",
+    "side": "left",
+    "headline": "5 men arrested near a U.S.-run base, bailed as UK police probe if there's an Iran link",
+    "outlet": "WAMC / AP",
+    "article_url": "https://www.wamc.org/2026-09-28/5-men-arrested-near-a-u-s-run-base-bailed-as-uk-police-probe-if-theres-an-iran-link",
+    "published": "2026-09-28",
+    "trending_claim": "Five men arrested near RAF Fairford were released on bail while investigators probed possible Iran links; police had not established a state link, the arrests were triggered by a civilian tip, and this contrasted with Trump's claim the men had long been 'under view.'",
+    "verdict": "accurate",
+    "rating_explained": "The claim asserts the men were bailed while an Iran link was probed, no state link had been established, a civilian tip triggered the arrests, and Trump's 'under view' claim stood in contrast. The AP (via WAMC, updated 2026-09-29) reported the five men were released on bail Monday, with Counter Terrorism Policing head Laurence Taylor saying they 'absolutely remain under investigation' while detectives pursued 'multiple lines of inquiry,' including a possible link to Iran. The AP noted investigators 'haven't concluded whether the incident was state-backed' and were also considering Iran, Russia or non-state militant groups as possibilities. The AP reported that police said the arrests were triggered by a late-night call about 'suspicious vehicles,' and a local farmer described calling police after seeing three oddly parked vans as she drove home late Saturday night. Trump told reporters in Chicago: 'We had them under view for a long time and we got them,' which the AP's reporting contrasted with the tip-triggered account. All elements are directly evidenced by on-the-ground reporting.",
+    "sources": [
+      {
+        "name": "WAMC / Associated Press",
+        "url": "https://www.wamc.org/2026-09-28/5-men-arrested-near-a-u-s-run-base-bailed-as-uk-police-probe-if-theres-an-iran-link"
+      },
+      {
+        "name": "LA Post / Associated Press",
+        "url": "https://www.lapost.com/content/police-evacuate-homes-near-us-air-base-in-england-and-detain-men-on-suspected-explosives-offensives"
+      }
+    ],
+    "trending_context": "Lead Memeorandum item with a very large cross-ideological discussion cluster (Guardian, CNN, Reuters, AP, NYT, WaPo, CBS, Fox). The right circulates a materially different claim: a foiled Iranian terror plot long watched by authorities.",
+    "order": 3
+  },
+  {
+    "id": "L04",
+    "side": "left",
+    "headline": "Marjorie Taylor Greene suggests migrant 'caravan' is a 'scare' tactic",
+    "outlet": "indy100",
+    "article_url": "https://www.indy100.com/politics/marjorie-taylor-green-migrant-caravan",
+    "published": "2026-09-28",
+    "trending_claim": "In a September 27, 2026 post on X responding to a reported caravan of several hundred mostly Honduran migrants (the group calls itself \"Fe y Esperanza,\" per Newsweek) moving through Mexico toward the U.S. border, former Rep. Marjorie Taylor Greene said: \"We have not seen a caravan headed to the U.S. southern border in several years, why now? Oh yeah, there is an election coming and the GOP needs to scare you into voting because nothing else is working.\"",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts Greene made this statement. Two independent outlets (PRIMETIMER and The Poke) quote her X post verbatim, word for word: \"We have not seen a caravan headed to the U.S. southern border in several years, why now? Oh yeah, there is an election coming and the GOP needs to scare you into voting because nothing else is working.\" The Poke reproduces the full post dated September 27, 2026, from her @mtgreenee account, and PRIMETIMER confirms the post was a retweeted caption on the caravan video on Sunday, September 27. Separately, PRIMETIMER (citing Newsweek) confirms the underlying caravan report: several hundred people, mostly Honduran, calling itself \"Fe y Esperanza,\" which entered Mexico through the Rodolfo Robles bridge between September 24 and 25. A DHS retweet with an NFL meme about the caravan, which drew 5 million views, further confirms the caravan was being amplified by GOP-aligned accounts that day. Because the claim is about what Greene said and the exact quote is confirmed by multiple outlets with the dated post, the verdict is accurate; the truth of her interpretation of GOP intent is her stated opinion, not a separate checkable event.",
+    "sources": [
+      {
+        "name": "PRIMETIMER",
+        "url": "https://www.primetimer.com/news/our-time-has-come-dhs-responds-with-nfl-meme-to-the-report-of-a-huge-migrant-caravan-headed-for-the-southern-us-border"
+      },
+      {
+        "name": "The Poke",
+        "url": "https://www.thepoke.com/2026/09/28/marjorie-taylor-greene-is-exposing-the-republican-playbook-heading-into-the-midterms-and-the-furious-maga-replies-only-made-it-more-satisfying/"
+      }
+    ],
+    "trending_context": "Fresh left-board engagement (ResetEra thread), Brian Tyler Cohen video, and an MS NOW segment; the right circulates a materially different claim — activist Anthony Aguero's assertion that 400+ Hondurans entered Mexico as an organized border threat.",
+    "order": 4
+  },
+  {
+    "id": "L05",
+    "side": "left",
+    "headline": "Trump denies offering Iran sanctions relief, nuclear concessions",
+    "outlet": "Reuters",
+    "article_url": "https://www.reuters.com/world/trump-denies-offering-iran-sanctions-relief-nuclear-concessions-2026-09-29/",
+    "published": "2026-09-29",
+    "trending_claim": "On September 28, 2026, President Trump wrote on Truth Social, \"This is untrue. I offered them NOTHING,\" denying Axios and CNN reports that cited unidentified U.S. officials saying he was willing to ease sanctions and release frozen Iranian funds in exchange for \"concrete\" Iranian steps on its nuclear program. Whether Trump actually made such an offer remains an unresolved claim conflict between his direct denial and the unnamed sources, which Reuters reports did not identify themselves in either article.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts Trump issued the denial. Reuters' reporting confirms the denial happened: Trump posted on Truth Social on Monday, September 28, writing \"This is untrue. I offered them NOTHING.\" The Reuters report documents both sides of the conflict directly: Axios cited unnamed U.S. officials as saying Trump was willing to give Iran sanctions relief and release frozen Iranian funds in return for \"concrete\" steps on the nuclear program, and CNN likewise cited an unidentified U.S. official saying Trump was willing to offer sanctions relief and frozen funds as part of a final deal conditional on \"concrete progress.\" Critically, Reuters states the Axios report \"did not identify the US officials,\" so the claim that Trump made the offer rests entirely on anonymous sourcing that cannot be independently verified from public information. Two syndicated versions of the Reuters wire (101 WIXX and 95.7 KELO-FM) independently confirm the denial post and the unnamed-source basis of both Axios and CNN reports. Because the trending claim is that Trump denied the reports, and the denial is directly evidenced, the verdict is accurate; whether the underlying offer was real remains a genuine claim conflict that cannot be adjudicated without a named source or direct document.",
+    "sources": [
+      {
+        "name": "101 WIXX (Reuters syndication)",
+        "url": "https://wixx.com/2026/09/29/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks/"
+      },
+      {
+        "name": "95.7 KELO-FM (Reuters syndication)",
+        "url": "https://kelofm.com/2026/09/28/trump-denies-offering-iran-sanctions-relief-for-nuclear-concessions/"
+      }
+    ],
+    "trending_context": "The Axios report was a prominent Memeorandum item with a large cross-outlet discussion cluster; Trump's denial creates a directly checkable claim conflict. The right circulates the denial as the authoritative version while the underlying offer remains based on unnamed sources.",
+    "order": 5
+  },
+  {
+    "id": "L06",
+    "side": "left",
+    "headline": "Trump's Attorney General Todd Blanche Defends Press Ban but Claims 'the President Hasn't Denied Access'",
+    "outlet": "PEOPLE",
+    "article_url": "https://people.com/trump-s-attorney-general-blanche-defends-white-house-ban-of-cnn-ms-now-and-politico-12145623",
+    "published": "2026-09-28",
+    "trending_claim": "On ABC's \"This Week\" on September 27, 2026, Attorney General Todd Blanche defended the Trump administration's credential ban against CNN, MS NOW, and Politico, told host Martha Raddatz that \"The president hasn't denied access,\" and said \"one-sided news\" from the outlets constituted a national-security issue. He did so after U.S. District Judge Timothy Kelly issued a September 24 temporary restraining order requiring the White House to restore the outlets' press passes on due-process grounds, and after CNN was barred from Air Force One on September 26 even though it was the scheduled TV pool outlet for the president's trip to Tennessee.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts Blanche said Trump had not denied press access and framed one-sided reporting as a national-security issue, in tension with the judicial ruling and the Air Force One exclusion. CNN's coverage of the ABC interview quotes Blanche's statements directly: \"The president hasn't denied access. That's not the right way to describe it,\" and \"at some point, complete misinformation and the inaccuracy of one-sided news of certain organizations does become a national security issue.\" USA Today independently confirms the same quotes from the Martha Raddatz interview, including the Air Force One defense: \"The White House routinely decides who can go on Air Force One.\" The counter-facts are also confirmed by named sources: USA Today reports Judge Tim Kelly issued a temporary restraining order on September 24 ordering the White House to return and restore the revoked press passes for reporters at CNN, MS NOW, and Politico after Trump announced the ban on September 18; CNN reports Kelly found the revocation was done without \"constitutionally adequate due process\" and that the record showed national security was not the stated motivation when Trump announced the ban. CNN also confirms its reporters were barred from Air Force One on September 26 for the Tennessee trip despite being the scheduled TV pool outlet, with Fox News covering the next day's pool trip instead. The claim is therefore accurate: Blanche's statements are directly evidenced, and the disputed context surrounding them is independently documented.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/09/27/politics/todd-blanche-white-house-press-ban?cid=external-feeds_iluminar_meta"
+      },
+      {
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/story/news/politics/2026/09/27/todd-blanche-cnn-air-force-one-trump/91975635007/"
+      }
+    ],
+    "trending_context": "Sunday ABC interview generated fresh PEOPLE coverage plus substantial coverage across ideologically distinct outlets including CNN, Guardian, and right-wing aggregators.",
+    "order": 6
+  },
+  {
+    "id": "L07",
+    "side": "left",
+    "headline": "Congress allocated $1.3 billion that the Trump administration hasn't spent",
+    "outlet": "KRPS / NPR",
+    "article_url": "https://www.krps.org/2026-09-28/congress-allocated-1-3-billion-that-the-trump-administration-hasnt-spent",
+    "published": "2026-09-28",
+    "trending_claim": "Approximately $1.3 billion (Partners in Health analysis puts it at $1.35 billion) in FY2025 Global Health Programs funding for HIV/AIDS, malaria, tuberculosis, and maternal and child health remained unobligated by the administration days before the Sept 30 end-of-fiscal-year spending deadline.",
+    "verdict": "accurate",
+    "rating_explained": "Step 1: The NPR/KRPS segment, reported by Fatma Tanis on Sept 28, asserts that about $1.3 billion in congressionally appropriated funds for HIV, malaria, and maternal/child health programs had not been spent by the administration, with the money expiring Sept 30. Step 2: Primary-document corroboration comes from Sen. Susan Collins (R-ME), chair of the Senate Appropriations Committee, whose Sept 24, 2026 letter to Secretary of State Marco Rubio, OMB Director Russell Vought, and USAID leadership states that 'approximately $1.3 billion of remaining FY25 GHP funding will expire on September 30th unless obligated.' Step 3: CIDRAP independently reports that a Partners in Health analysis found OMB withholding $1.35 billion in bilateral funding approved by Congress for tuberculosis, malaria, HIV, and maternal and child health, also expiring Sept 30. Step 4: The administration has not responded to comment requests per both outlets, and OMB told Congress in April it planned to use some of the money for USAID closeout costs, so the funds' final disposition was unresolved — but the core claim that the money was appropriated, unobligated, and facing a Sept 30 deadline is directly confirmed by named official and independent sources. Verdict: accurate.",
+    "sources": [
+      {
+        "name": "U.S. Senate Committee on Appropriations — Sen. Collins Urges Administration to Spend Global Health Programs Funding",
+        "url": "https://www.appropriations.senate.gov/news/majority/sen-collins-urges-administration-to-spend-global-health-programs-funding"
+      },
+      {
+        "name": "CIDRAP — Advocates, lawmakers call for release of congressionally approved global health funds",
+        "url": "https://www.cidrap.umn.edu/hivaids/advocates-lawmakers-call-release-congressionally-approved-global-health-funds"
+      }
+    ],
+    "trending_context": "NPR feature on September 28 plus KFF morning-briefing inclusion and Senate Appropriations Committee attention in left-leaning policy discussion.",
+    "order": 7
+  },
+  {
+    "id": "L08",
+    "side": "left",
+    "headline": "DCCC Announces More Than $11 Million in Coordinated TV Ads for Week 5",
+    "outlet": "DCCC",
+    "article_url": "https://dccc.org/dccc-announces-more-than-11-million-in-coordinated-tv-ads-for-week-5/",
+    "published": "2026-09-28",
+    "trending_claim": "The DCCC announced (not independently verified) that it was placing more than $11 million in coordinated TV ads across 35 House districts in 'Week 5' of the cycle, with 20 of the 35 in offensive districts, including first-time coordinated ads in KY-06, NC-11, and VA-01.",
+    "verdict": "mostly-accurate",
+    "rating_explained": "Step 1: The trending claim is an attribution claim — that the DCCC 'said' it was spending over $11 million in coordinated TV ads in 35 districts, 20 offensive — so verification requires confirming the announcement and its stated terms. Step 2: The DCCC's own Sept 28 press release (the original article) states those exact figures: 'more than $11 million across 35 districts,' with '20 out of the 35 ads ... in offensive districts,' naming KY-06, NC-11, and VA-01 as first-time coordinated districts. Step 3: Independent corroboration exists: Memeorandum surfaced a Sept 28 Semafor report by Nicholas Wu, which stated the DCCC's 'campaign arm is rolling out $11 million in ads across 35 districts, including some redrawn by Republicans in Florida, North Carolina, Ohio, and Texas, according to an announcement,' matching the press release's figures. Step 4: The Daily Caller, reporting Sept 28, independently confirmed a DCCC coordinated ad was already running (with Michigan Democrat Christina Hines), showing the coordinated-ad effort is real and on air. Step 5: The caveat driving 'mostly' rather than 'fully' accurate: the $11 million figure is the committee's own announced spend — no independent outlet or ad-tracking source confirmed the actual dollar placement, and one failed attempt to open the Semafor article directly could not be retried. As a 'DCCC said' claim, it is accurate; the underlying spending itself is unverified beyond the committee's statement.",
+    "sources": [
+      {
+        "name": "Memeorandum (featuring Semafor's 'Democrats prepare to spend in red districts')",
+        "url": "https://www.memeorandum.com/"
+      },
+      {
+        "name": "Daily Caller — Democrat Friendly-Fire Incidents Rising Ahead Of Midterms",
+        "url": "https://dailycaller.com/2026/09/28/democrat-friendly-fire-ads-midterm-elections-axios-review-washington-dc-corrupt-politicians"
+      }
+    ],
+    "trending_context": "Featured by Semafor as a Memeorandum item about Democrats spending in red districts. Note: framed from the party press release — the spending figure is the checkable claim, not DCCC's prediction that Republicans are 'underwater.'",
+    "order": 8
+  },
+  {
+    "id": "L09",
+    "side": "left",
+    "headline": "Ed. Dept. Officially Kills Biden Rule That Added LGBTQ+ Protections to Title IX",
+    "outlet": "Education Week",
+    "article_url": "https://www.edweek.org/policy-politics/ed-dept-officially-kills-biden-rule-that-added-lgbtq-protections-to-title-ix/2026/09",
+    "published": "2026-09-28",
+    "trending_claim": "The Education Department formally rescinded the 2024 Biden Title IX rule and reinstated the 2020 Trump-era rule, with the final rule scheduled for the Sept 29 Federal Register and taking effect on publication; the department says practical status quo is unchanged because it has been enforcing the 2020 rules since January 2025.",
+    "verdict": "accurate",
+    "rating_explained": "Step 1: The Education Week article (published Sept 28, 2026) asserts that the department formally rescinded the 2024 Biden Title IX regulations and restored the 2020 Trump-era regulations, with the rule appearing in the Sept 29 Federal Register and taking immediate effect without a notice-and-comment period, while noting practical enforcement has followed the 2020 rules since Jan 2025. Step 2: K-12 Dive, in a Sept 28 report, independently confirms each element: the move 'repeals the 2024 regulations,' the final rule was 'scheduled publication in the Federal Register' with 'revocation ... to take effect upon publication,' the rescission was done without public notice and comment, and the 2024 rule had been enjoined by eight courts in 2024 and vacated by two courts in early 2025. Step 3: The Educators Room independently confirms the Monday announcement formally rescinded the 2024 regulations, restored the 2020 framework, and quotes Secretary Linda McMahon's statement that the department has been enforcing the 2020 rules 'since the first days of the Administration,' adding that a federal district court vacated the 2024 rule nationwide on Jan 9, 2025. Step 4: The department's 'nothing changes in practice' framing is its own characterization, but the factual basis — that enforcement reverted to the 2020 rules in January 2025 — is confirmed by multiple independent outlets, so the claim as stated is accurate.",
+    "sources": [
+      {
+        "name": "K-12 Dive — Education Department takes 2024 Title IX rule off the books",
+        "url": "https://www.k12dive.com/news/education-department-takes-2024-title-ix-rule-off-the-books/831566/"
+      },
+      {
+        "name": "The Educators Room — Education Department Formally Rescinds Biden-Era Title IX Rule, Restores 2020 Regulations",
+        "url": "https://theeducatorsroom.com/education-department-formally-rescinds-biden-era-title-ix-rule-restores-2020-regulations/"
+      }
+    ],
+    "trending_context": "Widely covered in left-leaning education and civil-rights commentary, with the National Women's Law Center tying it to the reopened Cornell fraternity investigation.",
+    "order": 9
+  },
+  {
+    "id": "L10",
+    "side": "left",
+    "headline": "Tompkins County DA Reopens Criminal Investigation Into Alleged Chi Phi Gang Rape",
+    "outlet": "The Cornell Daily Sun",
+    "article_url": "https://www.cornellsun.com/article/2026/09/tompkins-county-da-reopens-criminal-investigation-into-alleged-chi-phi-gang-rape",
+    "published": "2026-09-28",
+    "trending_claim": "Tompkins County DA Matthew Van Houten told ABC News his office is reopening the criminal investigation into the alleged 2024 gang rape at Cornell's Chi Phi house after Jane Doe filed a civil lawsuit this month, saying the lawsuit's allegations were \"dramatically different\" from her 2024 statement to police, and that a grand jury will review the case for a possible indictment.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts Van Houten reopened the investigation after the civil suit, called its allegations 'dramatically different' from the 2024 police statement, and will present the case to a grand jury. Reuters confirmed on 2026-09-28 that Van Houten 'confirmed that his office would present the case against seven alleged perpetrators to a grand jury for a possible indictment' and that the 2024 statement 'described her drug use and sexual conduct as voluntary, conscious and consensual.' USA Today confirmed Van Houten told the outlet directly that the investigation 'has been reopened,' that no charges were brought in November 2024 because Doe 'did not allege at the time that she was drugged or assaulted,' and quoted his statement that the civil suit's allegations differed from the original account. CNN reported the same quotes, including 'significantly different.' One disputed detail: Doe's lawyer Thomas Giuffra told CNN the 2024 police report was 'not materially different' from the lawsuit — a dispute over characterization, not over the fact of the reopening, which Van Houten himself announced. The core event and the DA's stated rationale are verified by direct statements from the DA to multiple named outlets.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/government/prosecutors-reopen-investigation-into-alleged-2024-gang-rape-cornell-university-2026-09-28/"
+      },
+      {
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/story/news/crime/2026/09/28/cornell-university-2024-gang-rape-case-reopened/91985023007/"
+      }
+    ],
+    "trending_context": "ABC News broke the DA story, drawing a large cross-outlet discussion cluster (WaPo, 19th News, Wonkette, Mother Jones, New Republic, NWLC) in left-leaning conversation about Title IX and campus sexual assault.",
+    "order": 10
+  },
+  {
+    "id": "L11",
+    "side": "left",
+    "headline": "Lawler, Conley spar over Trump, data centers, ICE in NY-17 debate",
+    "outlet": "lohud / USA Today Network",
+    "article_url": "https://www.lohud.com/story/news/politics/2026/09/28/ny-17-debate-lawler-conley-spar-over-trump-data-centers-ice/91894692007/",
+    "published": "2026-09-28",
+    "trending_claim": "In the first televised NY-17 debate on Sept. 28, Democrat Cait Conley accused Rep. Mike Lawler of voting '100% of the time' with Trump — a claim undercut by a Congressional Quarterly analysis finding Lawler voted with Trump 94% of the time in 2025 — while Lawler called Conley 'bought and paid for' by the AI industry.",
+    "verdict": "mixed",
+    "rating_explained": "The story asserts three verifiable things about the Sept. 28 News 12 debate: it was the candidates' first televised debate, Conley made the '100%' charge, and Lawler called her 'bought and paid for' by the AI industry. lohud's debate report confirms all three: the debate was recorded Monday afternoon Sept. 28 at News 12's studio and aired at 8 p.m.; it quotes Conley saying Lawler 'would not have voted 100% of the time for Donald Trump's agenda' and quotes Lawler's retort ('No matter how many times you say 100% of the time, it's provably false') as well as his line that Conley was 'bought and paid for' by the artificial intelligence industry. A News 12 press release confirms this was 'their first televised debate of the 2026 general election campaign.' The CQ 94% figure appears as a fact-check parenthetical in The New York Times' debate coverage: 'An analysis by Congressional Quarterly found that in 2025 Mr. Lawler voted yes on bills Mr. Trump approved of 94 percent of the time.' However, framing that as a contradiction of Conley's 100% claim omits a material counterpoint: lohud reported on Aug. 7 that a VoteHub analysis 'found Lawler sided with Trump in all 282 floor votes in 2025 on which the president had taken a clear position' — literally 100%. The two studies use different denominators, so Lawler's 'provably false' denial and the 'contradicted by CQ' framing both depend on methodology; the verdict is mixed because the debate exchanges are verified but the story's contradiction framing is incomplete without the VoteHub finding.",
+    "sources": [
+      {
+        "name": "lohud / USA Today Network (debate report)",
+        "url": "https://www.lohud.com/story/news/politics/2026/09/28/ny-17-debate-lawler-conley-spar-over-trump-data-centers-ice/91894692007/"
+      },
+      {
+        "name": "lohud / USA Today Network (VoteHub analysis, Aug. 7)",
+        "url": "https://www.lohud.com/story/news/politics/2026/08/07/ny-rep-mike-lawler-ranks-near-top-in-house-for-new-bipartisan-grades/91195260007/"
+      }
+    ],
+    "trending_context": "Swing-district debate in a House-majority-deciding seat covered by the NYT, lohud, and News 12; widely discussed in left commentary on House takeover prospects.",
+    "order": 11
+  },
+  {
+    "id": "L12",
+    "side": "left",
+    "headline": "Top Trump Staffer Slammed By Critics Over 'Tone Deaf' AI Video",
+    "outlet": "OK Magazine",
+    "article_url": "https://okmagazine.com/p/trump-staffer-tone-deaf-video-champagne-white-house-economic-struggles/",
+    "published": "2026-09-28",
+    "trending_claim": "White House deputy chief of staff Dan Scavino posted an AI-generated video of himself, his wife, and Eric and Lara Trump partying on a gilded luggage cart with champagne after the Xi Jinping state dinner, drawing bipartisan 'let them eat cake' criticism amid cost-of-living concerns.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts Scavino posted an AI-generated clip of himself, his wife, and Eric and Lara Trump spraying champagne on a gilded luggage cart tied to the Xi state dinner, and that it drew cross-party 'let them eat cake'-style backlash amid affordability concerns. SoapCentral reports the six-second AI-generated clip, posted over the Sept. 26-27 weekend, shows Scavino in a suit riding a luggage cart with his wife Erin Scavino spraying champagne, Eric Trump pushing the cart, and Lara Trump partying alongside them amid champagne bottles and gold-themed interiors, with Donald Trump appearing briefly at the end to Pitbull's 'Don't Stop the Party.' Both outlets quote Scavino's caption verbatim tying it to the state dinner for Chinese President Xi Jinping: 'This is not intended for the Dems' heads to explode—Being some of the post-State Dinner party has gotten out, I felt inclined to share mine as well, in complete transparency, with the American People. GOD BLESS THE USA!!!' Briefly confirms the criticism crossed party lines: Republican Meghan McCain wrote 'One of my friends couldn't afford air conditioner this summer,' conservative activist Carrie Prejean Boller called it a 'tone deaf AI video' of officials 'partying at the People's House' while Americans can't afford groceries, gas, or mortgages, and SoapCentral documents liberal commentator Harry Sisson's 'real let them eat cake situation' line. The 'bipartisan' characterization is supported: McCain, Boller, and conservative commentator Jonah Goldberg are on the right; Sisson on the left. Scavino did not dispute the video was AI-generated.",
+    "sources": [
+      {
+        "name": "SoapCentral",
+        "url": "https://www.soapcentral.com/entertainment/donald-trump-s-aide-posts-ai-party-video-harry-sisson-describes-let-eat-cake-situation"
+      },
+      {
+        "name": "Briefly",
+        "url": "https://briefly.co/anchor/US_politics/story/critics-slam-dan-scavino-for-posting-tone-deaf-ai-clip"
+      }
+    ],
+    "trending_context": "The Bulwark's Will Sommer reported QAnon believers were interpreting the video as a coded message; the story was a prominent Memeorandum item with backlash from Meghan McCain, Carrie Prejean Boller, and The Bulwark's Sarah Longwell.",
+    "order": 12
+  },
+  {
+    "id": "R01",
+    "side": "right",
+    "headline": "Trump Demands Axios Withdraw Iran 'Hoax' Story",
+    "outlet": "Newsmax",
+    "article_url": "https://www.newsmax.com/newsfront/donald-trump-axios-withdraw/2026/09/28/id/1270997",
+    "published": "2026-09-28",
+    "trending_claim": "President Trump denied an Axios report that he offered Iran sanctions relief and frozen funds for nuclear concessions, called it a hoax, and demanded its withdrawal on Truth Social.",
+    "verdict": "accurate",
+    "rating_explained": "Newsmax's article asserts that Trump denied an Axios report, called it a hoax, and demanded withdrawal. Direct evidence confirms all three elements: Reuters quotes Trump's Truth Social post verbatim — \"Axios just released a story that 'Trump' offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING!\" — followed by the demand that Axios \"withdraw this fake story, IMMEDIATELY!\" Reuters also confirms the underlying Axios report existed and cited unnamed U.S. officials, and that CNN reported the same from an unidentified official. Whether Trump actually made such an offer in talks is unresolvable on public evidence — Axios updated its report to include the denial but maintained its sourcing, which remains anonymous — but the Newsmax article's actual claim is about the denial itself, and that is directly documented. The article fairly notes Axios stood by its reporting.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-talks-2026-09-29/"
+      },
+      {
+        "name": "Newsmax (original article)",
+        "url": "https://www.newsmax.com/newsfront/donald-trump-axios-withdraw/2026/09/28/id/1270997"
+      }
+    ],
+    "trending_context": "Circulated heavily on right-leaning sites on Sept 28 as the Trump-vs-media dispute over anonymous-source Iran reporting escalated.",
+    "order": 1
+  },
+  {
+    "id": "R02",
+    "side": "right",
+    "headline": "Trump Admin Kills Biden's Fuel Economy Rules, Says New Cars Will Cost $1,300 Less",
+    "outlet": "Daily Caller",
+    "article_url": "https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac",
+    "published": "2026-09-28",
+    "trending_claim": "The Trump administration finalized new fuel economy standards (34.9 mpg fleet average by model year 2031, down from Biden's 50.4 mpg target) that the Department of Transportation projects will cut the average new-vehicle price by $1,300 and save Americans $138 billion over five years.",
+    "verdict": "mostly-accurate",
+    "rating_explained": "The Daily Caller reports a rule finalized September 28, 2026, and that its figures are the department's projections. Both checks out: the Detroit Free Press confirms the final rule sets a fleet-wide average of 34.9 mpg by model year 2031 (up from 30.1 in 2024), versus the Biden-era target of 50.4 mpg, and that Secretary Duffy announced the rule on Sept. 28 with the $1,300-per-vehicle claim; a second outlet (CNHI News, citing the DOT statement) confirms both the $1,300 price figure and the $138 billion five-year savings figure, plus credit-trading elimination starting MY2028. The figures are NHTSA's own forward-looking projections, not measured outcomes — critics including the NRDC argue the new target is below fuel economy already achieved and will raise drivers' fuel costs, and the agency itself notes real-world economy runs 20–30% below test values. The article presents the numbers as the administration's estimates, which is accurate framing; the verdict is mostly-accurate because the savings depend on disputed modeling assumptions rather than verified results.",
+    "sources": [
+      {
+        "name": "Detroit Free Press",
+        "url": "https://www.freep.com/story/money/cars/2026/09/28/trump-new-mpg-standards-us-cars-trucks/91984306007/"
+      },
+      {
+        "name": "Daily Caller (original article)",
+        "url": "https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac"
+      }
+    ],
+    "trending_context": "Featured prominently in right-ecosystem daily roundups on Sept 28-29 as a flagship deregulation win.",
+    "order": 2
+  },
+  {
+    "id": "R03",
+    "side": "right",
+    "headline": "Trump Admin Repeals Biden-Era Title IX LGBTQ Rule",
+    "outlet": "Newsmax",
+    "article_url": "https://www.newsmax.com/newsfront/title-ix-education-mcmahon/2026/09/28/id/1270938",
+    "published": "2026-09-28",
+    "trending_claim": "Education Secretary Linda McMahon formally rescinded the Biden administration's Title IX rules on gender identity and sexual orientation, restoring the 2020 Trump-era framework.",
+    "verdict": "accurate",
+    "rating_explained": "The underlying event is directly documented by multiple independent outlets: Secretary McMahon issued a final rule on September 28, 2026 that removes the Biden 2024 Title IX regulation from the Code of Federal Regulations and restores the first Trump administration's 2020 framework, with the revocation taking effect upon Federal Register publication scheduled for September 29. K-12 Dive and EdSource confirm the scope — the 2024 rule's gender-identity and sexual-orientation provisions are struck from the books and the 2020 rule governs. Scope caveat, stated by the department itself and reported by K-12 Dive: this formalizes a shift already in effect since a federal court vacated the 2024 rule nationwide in January 2025, so the department says \"nothing changes in daily practice\"; the rule was issued without a notice-and-comment period on the grounds that courts had already nullified the 2024 text. This is a rescission formalization, not a new substantive rulemaking (e.g., a statutory definition of sex is expected in a future action). The Newsmax headline accurately describes the event.",
+    "sources": [
+      {
+        "name": "K-12 Dive",
+        "url": "https://www.k12dive.com/news/education-department-takes-2024-title-ix-rule-off-the-books/831566/"
+      },
+      {
+        "name": "EdSource",
+        "url": "https://edsource.org/updates/u-s-department-of-education-ends-title-ix-protections-for-lgbtq-students"
+      }
+    ],
+    "trending_context": "Trended across conservative outlets on Sept 28-29 as a major culture-war policy victory.",
+    "order": 3
+  },
+  {
+    "id": "R04",
+    "side": "right",
+    "headline": "Kash Patel's Right-Hand Man Leaves FBI",
+    "outlet": "Daily Caller",
+    "article_url": "https://dailycaller.com/2026/09/28/andrew-bailey-leaves-fbi-kash-patel-dan-bongino",
+    "published": "2026-09-28",
+    "trending_claim": "FBI Co-Deputy Director Andrew Bailey announced on Sept. 28 that he is stepping down after a little over a year to return to his family in Missouri, effective Oct. 2. Reports of friction with Kash Patel come from The New York Times and rest on anonymous sources; Bailey's and Patel's public statements were warm, so the true relationship is unknown.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts that FBI Co-Deputy Director Andrew Bailey announced his resignation after about a year to return to his family in Missouri, effective Oct. 2. Direct evidence confirms the core claim: Bailey's own Sept. 28 X post states he is 'stepping down to return to my family in Missouri,' and he thanked Trump, AG Todd Blanche, and Kash Patel. AP and Reuters report he was named co-deputy director in August 2025, confirming 'a little more than a year.' On the Oct. 2 date: the AP reports that 'his last day will be Friday, an FBI spokesman said' — Oct. 2, 2026 is a Friday — corroborating the Daily Caller's Bloomberg Law attribution. On friction with Patel: the NYT reported, via multiple anonymous sources, that 'Mr. Patel and Mr. Bailey did not get along, and often went long stretches without speaking to each other,' and CNN separately cited a source saying relations 'quickly cooled.' But these are anonymous claims with no on-the-record confirmation, and both men's public statements expressed mutual praise — so friction is reported but unverifiable, not disproven. Because the baseline announcement claim is confirmed by direct evidence, the verdict is accurate, with the friction framing noted as anonymously sourced only.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/09/28/politics/kash-patel-deputy-andrew-bailey-resigns-fbi?cid=external-feeds_iluminar_meta"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us/fbi-deputy-chief-bailey-resign-2026-09-28/"
+      }
+    ],
+    "trending_context": "Drew heavy right-side pickup on Sept 28-29 (Daily Wire, Breitbart, Fox, Examiner, Newsmax, RedState, Gateway Pundit), with anonymous sourcing suggesting friction between Bailey and Director Kash Patel.",
+    "order": 4
+  },
+  {
+    "id": "R05",
+    "side": "right",
+    "headline": "Texas Poll: Talarico Keeps Narrow Lead Over Paxton",
+    "outlet": "Newsmax",
+    "article_url": "https://www.newsmax.com/politics/texas-poll-talarico-paxton/2026/09/27/id/1270875",
+    "published": "2026-09-27",
+    "trending_claim": "A BIG DATA POLL survey conducted Sept. 24–26 found James Talarico leading Ken Paxton 44.6% to 41.6% among likely Texas voters (46.8% to 44.9% after undecided leaners), with a ±4.0% margin of error — exactly as the pollster's Sept. 27 release reports.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts a Big Data Poll Sept. 24–26 survey shows Talarico leading Paxton 44.6%–41.6% among likely voters, 46.8%–44.9% after leaners, within a ±4-point margin. The pollster's own Sept. 27 release (bigdatapoll.com) confirms every figure: fielded Sept. 24–26 with 793 registered and 698 likely Texas voters, Talarico ahead 44.6%–41.6% among likely voters, narrowing to 46.8%–44.9% after leaners, with an overall sampling error of ±4.0% for both samples. USA Today independently reported the identical numbers, sample sizes, and dates. The release's methodology section documents mixed-mode collection (~40% online via Lucid/CINT, ~60% live-agent phone/text-to-online from the L2 voter file), weighting by sex, age, race/ethnicity, education, and geography, and states the survey was crowdfunded via the Public Polling Project with no candidate or campaign funding. Other independent polls are broadly consistent in direction: USA Today lists Texas Southern, ReconMR, Emerson, Mason-Dixon, SoCal Strategies, AARP, and N+Univision September surveys all showing Talarico ahead by 1–6 points. Caveats: the 3-point lead sits within the ±4.0% margin, and pollster Rich Baris has a MAGA-aligned reputation (Newsweek has called him Trump's 'most favorable pollster'), though a Democrat lead in this poll cuts against any pro-Republican bias concern. Numbers and methodology are reported faithfully, so the verdict is accurate with the margin-of-error caveat.",
+    "sources": [
+      {
+        "name": "Big Data Poll (official release)",
+        "url": "https://www.bigdatapoll.com/blog/lone-star-state-poll-talarico-paxton-in-close-race-us-senate-in-texas/"
+      },
+      {
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/story/news/state/texas/2026/09/28/paxton-talarico-in-tight-race-new-poll-finds/91984199007/"
+      }
+    ],
+    "trending_context": "Amplified in right media on Sept 27-29 amid heavy GOP ad spending in the toss-up Texas Senate race.",
+    "order": 5
+  },
+  {
+    "id": "R06",
+    "side": "right",
+    "headline": "Hegseth mobilizes Pentagon to protect midterm elections from foreign threats",
+    "outlet": "Washington Examiner",
+    "article_url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4746327/hegseth-pentagon-cyber-midterms-foreign-threats/",
+    "published": "2026-09-28",
+    "trending_claim": "Pete Hegseth's Sept. 22 memo 'Countering Foreign Threats to 2026 Elections,' publicly released Sept. 28, directs U.S. Cyber Command and the Defense Intelligence Enterprise to prioritize countering foreign cyber and intelligence threats to the 2026 midterms. The memo is strictly about foreign threats — it names no adversaries, adds no staffing/funding, and authorizes no domestic action.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts that Hegseth's Sept. 22 memo, released Sept. 28, directs Cyber Command and the Defense Intelligence Enterprise to prioritize countering foreign cyber and intelligence threats to the 2026 midterms. This is confirmed: the Pentagon publicly announced the one-page memo 'Countering Foreign Threats to 2026 Elections' on Sept. 28, addressed to the commander of U.S. Cyber Command and the directors of the NSA, DIA, and NGA. Defense One, which linked the memo's media.defense.gov posting, quotes Hegseth directing 'the entire [Defense Intelligence Enterprise] to mobilize every authorized asset, capability, and partnership... to defend our election infrastructure from foreign malign influence,' calling it a 'no-fail mission,' and CNN confirms the Pentagon said the command will work with DHS to counter foreign cyber threats to election infrastructure, with intel collection 'in accordance with the law.' On the 'election-integrity move' framing: it is reasonable shorthand, but the memo's scope is strictly foreign — Defense One notes it names no specific adversaries, sets no staffing or funding, and sets no deadlines, and Axios/CNN note it sends no military personnel to polling places. Neither outlet contradicts the baseline; both corroborate the date, release, recipients, and directives. The core claim is verified by the Pentagon's own release and memo text, so the verdict is accurate, with the framing caveat that nothing in the memo covers domestic election-integrity action.",
+    "sources": [
+      {
+        "name": "Defense One",
+        "url": "https://www.defenseone.com/threats/2026/09/hegseth-orders-cyber-intelligence-agencies-prioritize-election-defense/416295/"
+      },
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/09/28/politics/hegseth-cyber-command-foreign-interference-elections-midterms?cid=external-feeds_iluminar_meta"
+      }
+    ],
+    "trending_context": "Picked up across right-leaning national-security coverage on Sept 28-29 as a Trump-administration election-integrity move.",
+    "order": 6
+  },
+  {
+    "id": "R07",
+    "side": "right",
+    "headline": "Trump Admin Asks SCOTUS To Uphold Trans Surgery Ban In Federal Prisoners",
+    "outlet": "Daily Caller",
+    "article_url": "https://dailycaller.com/2026/09/28/trump-doj-supreme-court-transgender-surgeries-prison",
+    "published": "2026-09-28",
+    "trending_claim": "The DOJ filed an emergency appeal on Sept. 28, 2026 asking the Supreme Court to lift Judge Royce Lamberth's injunction blocking Bureau of Prisons restrictions on transgender surgeries, hormones, and social accommodations for federal inmates.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts the Justice Department filed an emergency appeal on Monday, Sept. 28 asking the Supreme Court to reinstate a Bureau of Prisons policy ending transgender surgeries, hormone therapy, and social accommodations like wigs and makeup, after Judge Lamberth blocked the policy. AP reporter Lindsay Whitehurst confirms the Trump administration asked the Supreme Court on Monday, Sept. 28, 2026 to 'let it enforce, for now, restrictions on gender-affirming care in federal prison,' and that Judge Royce Lamberth ordered the government to continue providing gender-affirming care like hormone therapy while the lawsuit plays out. Law Commentary (Bridget Luckey) independently confirms the DOJ filed an emergency request to lift Lamberth's injunction in 'Kingdom v. Trump,' a class action covering federal inmates diagnosed with gender dysphoria, noting the D.C. Circuit refused to suspend the order on Sept. 18, 2026. Law Commentary details the scope: the BOP policy bars gender-affirming surgeries, generally prohibits new hormone therapy, tapers existing hormones, and ends makeup/wigs/clothing/hair-removal items while psychotherapy remains. One precision caveat: the Daily Caller dates the block to 'June,' while court records cited in the coverage show the relevant preliminary injunction proceedings spanned May (order) through an updated August 26 injunction — a minor dating imprecision that does not affect the core claim. Because named sources with direct reporting confirm the filing, the date, the judge, the case, and the scope of the enjoined policy, the verdict is accurate.",
+    "sources": [
+      {
+        "name": "Associated Press (via KCAU)",
+        "url": "https://www.kcau9.com/news/national/ap-trump-administration-asks-supreme-court-to-allow-transgender-medical-care-restrictions-in-prison/"
+      },
+      {
+        "name": "Law Commentary (Bridget Luckey)",
+        "url": "https://www.lawcommentary.com/articles/trump-supreme-court-transgender-health-care-federal-prisons"
+      }
+    ],
+    "trending_context": "Circulated in conservative media on Sept 28-29 as the administration's latest court push on transgender policy.",
+    "order": 7
+  },
+  {
+    "id": "R08",
+    "side": "right",
+    "headline": "Judicial Retirement Sets Up Trump Circuit Court Nomination Showdown",
+    "outlet": "Daily Caller News Foundation",
+    "article_url": "https://dailycallernewsfoundation.org/2026/09/28/judicial-retirement-sets-up-trump-circuit-court-nomination-showdown/",
+    "published": "2026-09-28",
+    "trending_claim": "Fifth Circuit Judge Leslie Southwick, 76, will take senior status at the end of 2026 or upon confirmation of his successor (whichever is later), giving Trump his second Fifth Circuit vacancy this term; Trump has nominated U.S. District Judge Anna St. John for the other vacancy, succeeding Judge Kurt Engelhardt.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts Judge Leslie Southwick announced his intent to take senior status, creating a second Trump vacancy on the Fifth Circuit, and that Trump has already nominated Judge Anna St. John to fill the other vacancy. Reuters confirms Southwick, 76, told Trump on Monday, Sept. 28, 2026 that he planned to retire from active service and assume senior status 'at the end of 2026 or upon the confirmation of his successor, whichever is later,' and explicitly states his decision 'opens the second vacancy of the Republican president's second term on the 5th Circuit.' Reuters also confirms Southwick was appointed by George W. Bush in 2007 to a Mississippi-based seat, and that Trump in June announced the nomination of U.S. District Judge Anna St. John of the Eastern District of Louisiana to succeed U.S. Circuit Judge Kurt Engelhardt, another Bush appointee. The Senate Judiciary Committee's own press release confirms it advanced Anna St. John's nomination to be a Fifth Circuit judge by a 12–10 vote. The Daily Caller's phrasing of 'upon confirmation of his successor' slightly compresses the end-of-2026-or-confirmation trigger, but the substance — the retirement announcement, the second vacancy, and the St. John nomination for the Engelhardt seat — is confirmed by named official and wire sources. Hence accurate.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/government/trump-gains-second-vacancy-fill-appeals-court-dominated-by-conservatives-2026-09-28/"
+      },
+      {
+        "name": "Senate Judiciary Committee (official press release)",
+        "url": "https://www.judiciary.senate.gov/press/rep/releases/senate-judiciary-committee-advances-13-judicial-and-executive-nominees"
+      }
+    ],
+    "trending_context": "Syndicated across right-leaning outlets on Sept 28-29 as a judicial-confirmation storyline ahead of the midterms.",
+    "order": 8
+  },
+  {
+    "id": "R09",
+    "side": "right",
+    "headline": "John Fetterman Says He's Staying A Democrat — Then Puts The 51st Senate Vote In Play",
+    "outlet": "WLT Report",
+    "article_url": "https://www.wltreport.com/2026/09/28/john-fetterman-democrat-51st-senate-vote/",
+    "published": "2026-09-28",
+    "trending_claim": "At the Texas Tribune Festival on Sept. 26, 2026, Sen. John Fetterman refused to say how he would vote if he became the deciding 51st senator after the midterms, saying 'let's revisit after the midterms... if I happen to be 51,' and accidentally called himself a 'lifelong Republican' before correcting himself.",
+    "verdict": "mostly-accurate",
+    "rating_explained": "The story asserts Fetterman made a 'lifelong Republican' slip he quickly corrected and declined to commit on how he would use a potential 51st-vote position, saying some version of 'wait till the midterms.' The New York Post confirms that at the Sept. 26 Texas Tribune Festival in Austin, speaking with CBS's Major Garrett, Fetterman accidentally declared himself a 'lifelong Republican,' was corrected by Garrett, and said: 'Let's revisit this after the midterms, and let's see what happens, you know, if I happen to be 51. I don't know.' Newsmax independently confirms the 'lifelong Republican' reply — 'a lifelong Democrat though' — to an audience question about why he had not registered as an independent, and quotes 'Let's revisit after the midterms, and let's see what happens.' However, the party-switch implication is editorial framing, not his stated position: at the same event he said he has 'no path as a Republican,' that he doesn't 'have a reason to' leave the party, and 'I am not a Republican.' Additionally, the headline quote 'Wait till the midterms. See what I do.' is a compressed rendering found verbatim in only one lower-tier outlet; the outlets I verified quote the 'let's revisit' phrasing. Because the substantive quotes check out but the speculation framing goes beyond what he actually said — which included explicit denials of a party switch — the verdict is mostly-accurate with a framing caveat.",
+    "sources": [
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/09/27/us-news/fetterman-says-hes-a-lifelong-republican-in-awkward-slip/"
+      },
+      {
+        "name": "Newsmax",
+        "url": "https://www.newsmax.com/newsfront/john-fetterman-texas-tribune-festival-midterms/2026/09/27/id/1270834"
+      }
+    ],
+    "trending_context": "Viral in conservative media on Sept 27-29, framed as Fetterman keeping a party switch on the table ahead of a potential 50-50 Senate.",
+    "order": 9
+  },
+  {
+    "id": "R10",
+    "side": "right",
+    "headline": "This is what Democrats' immigration policy would be",
+    "outlet": "Washington Examiner",
+    "article_url": "https://www.washingtonexaminer.com/opinion/editorials/4742647/what-abolishing-ice-looks-like/",
+    "published": "2026-09-28",
+    "trending_claim": "Rep. Delia Ramirez's Reimagining Safety Act proposal would abolish ICE and CBP, dismantle DHS, move selected functions to other departments, and redirect ICE/CBP funding to social services.",
+    "verdict": "mostly-accurate",
+    "rating_explained": "The story asserts that Rep. Delia Ramirez's Reimagining Safety Act would abolish ICE and CBP, dismantle DHS, reassign functions, and redirect funding to social services. Ramirez's own House press release confirms the core of this: it would abolish ICE and CBP, dismantle DHS while preserving CISA, FEMA, TSA and customs functions, create a Department of Community Safety, reinvest funds 'in our communities,' and 'begin the process of establishing a separate civil immigration system.' However, no bill text exists yet — MIT Technology Review reported Sept. 23 that her office had not released the legislative text and said it would come 'in the next few weeks,' and no H.R. number for the bill appears on Congress.gov — so the editorial describes an announced proposal, not introduced bill language. Further, specifics such as TSA and the Coast Guard moving to the Transportation Department, the claim that no ICE or CBP function would remain with the federal government (which conflicts with the announced separate civil immigration system and preserved customs functions), and the traffic-ticket citations and green-card hypotheticals go beyond the public announcement. The central elements check out against the sponsor's own announcement, but the bill cannot yet be read and several operational details are the editorial's extrapolations.",
+    "sources": [
+      {
+        "name": "Rep. Delia Ramirez (official House press release)",
+        "url": "http://ramirez.house.gov/media/press-releases/ramirez-civil-society-community-leaders-announce-community-led-legislation"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/"
+      }
+    ],
+    "trending_context": "Amplified on Sept 28 by the NY Post and across conservative outlets as a concrete preview of Democrats' immigration agenda if they win Congress.",
+    "order": 10
+  },
+  {
+    "id": "R11",
+    "side": "right",
+    "headline": "DA reopens probe into 7 Cornell frat bros who allegedly drugged, gang-raped student — and were given essay to 'mitigate conduct'",
+    "outlet": "New York Post",
+    "article_url": "https://nypost.com/2026/09/27/us-news/da-reopens-probe-into-7-cornell-frat-bros-who-allegedly-drugged-gang-raped-student/",
+    "published": "2026-09-27",
+    "trending_claim": "Tompkins County DA Matthew Van Houten reopened the investigation into the alleged 2024 Chi Phi fraternity assault and intends to present it to a grand jury after a Sept. 14 civil suit alleged the accused students were offered essays to 'mitigate' their conduct.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts the Tompkins County DA is reopening the 2024 Chi Phi investigation and intends to present it to a grand jury. District Attorney Matthew Van Houten told ABC News — and confirmed in a statement to WRVO Public Media — 'It's our intention to present the case to the Tompkins County grand jury with Jane Doe's cooperation,' directly verifying the core claim. The 'essays' detail requires careful separation: the Sept. 14 civil suit and Jane Doe's lawyer allege that only two of the seven accused were expelled while the others were reinstated after writing essays, but Cornell disputes this — Vice President Kyle Kimball called any suggestion of non-consequential punishment 'false' and 'irresponsible' — and no university record has verified the essay offers. Van Houten also said the complaint's allegations are 'dramatically different' from Doe's 2024 police statement and admitted his office never independently investigated, relying on Cornell police. The reopening and grand-jury intent are confirmed by the DA himself; the essay claim is an allegation in the complaint, disputed by Cornell, not an established fact.",
+    "sources": [
+      {
+        "name": "The Cornell Daily Sun",
+        "url": "https://www.cornellsun.com/article/2026/09/tompkins-county-da-reopens-criminal-investigation-into-alleged-chi-phi-gang-rape"
+      },
+      {
+        "name": "WRVO Public Media",
+        "url": "https://www.weos.org/2026-09-28/tompkins-county-da-to-reopen-suspected-case-of-gang-rape-after-victim-files-lawsuit"
+      }
+    ],
+    "trending_context": "One of the most-discussed stories in the right ecosystem on Sept 27-29, picked up by Breitbart, Townhall, the Examiner, and others.",
+    "order": 11
+  },
+  {
+    "id": "R12",
+    "side": "right",
+    "headline": "Five British nationals already out on bail after arrest over suspected bomb plot at UK base: police",
+    "outlet": "New York Post",
+    "article_url": "https://nypost.com/2026/09/28/world-news/five-men-arrested-over-suspected-bomb-plot-at-uk-base-are-all-british-nationals-police/",
+    "published": "2026-09-28",
+    "trending_claim": "Five British nationals ages 23-25 arrested near RAF Fairford on suspicion of explosives offences and preparation of a terrorist act were released on police bail Monday; Trump said he would not have released them and said the plot 'might be' linked to Iran; Iran denied involvement.",
+    "verdict": "accurate",
+    "rating_explained": "The story asserts five British nationals ages 23-25 arrested near RAF Fairford on explosives and terrorism offences were released on bail Monday, that Trump criticized the release and suggested a possible Iran connection, and that Iran denied involvement. CNN confirmed each element: the men were arrested early Sunday and released on bail Monday; Trump told reporters in the Oval Office 'I wouldn't have done that' and that the suspects 'might be' connected to Iran, adding 'I know the answer, I can be very specific, but I'd rather not say it'; and Iran's London embassy issued a statement condemning 'unfounded and malicious speculations' linking it to the incident. UK Counter Terrorism Policing head Laurence Taylor said Monday the men were released on police bail under stringent conditions and 'absolutely remain under investigation,' considering 'every possible angle,' including proxies 'knowingly or unknowingly working on behalf of a foreign state.' One precision note: the men were arrested on suspicion of explosives offences and on suspicion of preparation of a terrorist act — not formally charged — and UK authorities have not publicly confirmed any Iran link. All headline facts are directly verified.",
+    "sources": [
+      {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/09/28/uk/raf-fairford-key-questions-terror-suspects-arrests-intl?cid=external-feeds_iluminar_meta"
+      },
+      {
+        "name": "LADbible",
+        "url": "https://www.ladbible.com/news/uk-news/donald-trump-surprised-raf-fairford-suspects-bailed-456141-20260928"
+      }
+    ],
+    "trending_context": "Major right-side story on Sept 28-29, with Trump criticism of the bail release and speculation about foreign-state involvement dominating coverage.",
+    "order": 12
+  },
+  {
+    "id": "R13",
+    "side": "right",
+    "headline": "Republicans Pouring Unprecedented Amounts Of Money Into Midterms To Save GOP Candidates In Red States",
+    "outlet": "Daily Caller",
+    "article_url": "https://dailycaller.com/2026/09/26/republicans-spend-red-states-midterm-elections",
+    "published": "2026-09-26",
+    "trending_claim": "Three Trump-aligned PACs (MAGA Inc., No Going Back PAC, Safety and Affordability PAC) spent over $163 million on ads since Sept. 1, nearly 40% ($63M+) of it in states/districts Trump won by at least ten points, and over $110 million in Republican House ad bookings went to districts Trump won by double digits.",
+    "verdict": "accurate",
+    "rating_explained": "Step 1: The Daily Caller reports three Trump-aligned groups — MAGA Inc., No Going Back PAC and the Safety and Affordability PAC — spent more than $163 million on ads since Sept. 1, with nearly 40% (over $63 million) in states and districts Trump won by at least ten points in 2024, plus over $110 million in Republican House ad bookings since Aug. 1 going to districts Trump won by double digits. Step 2: The Associated Press published an analysis of AdImpact ad-tracking data with exactly these figures: 'more than $163 million on advertising and air time since Sept. 1' and 'Nearly 40% of that money — more than $63 million — has been spent in states and districts where Trump won by 10 percentage points or more,' and it also matches the sub-figures ($107M Texas, $152M Ohio). Step 3: The $110 million House figure traces to a POLITICO analysis of AdImpact data, which reported that since Aug. 1 'more than $110 million in ad bookings have gone toward Republican-held districts so red that Trump won them by double digits.' Step 4: All three numbers match the underlying newsroom analyses exactly. One attribution note: the Daily Caller credits 'KARK, an NBC News affiliate,' but KARK merely carried AP wire copy — the figures belong to AP's own analysis of AdImpact data (and Politico's analysis of AdImpact data for the $110M figure), not to AdImpact itself or to KARK. The numbers themselves are verified, so the verdict is accurate.",
+    "sources": [
+      {
+        "name": "Associated Press",
+        "url": "https://www.ap.org/news-highlights/elections/2026/republicans-dump-cash-into-red-states-as-they-try-to-hold-the-line-against-democrats-in-the-midterms/"
+      },
+      {
+        "name": "POLITICO (via full-text mirror)",
+        "url": "https://qwer.ro/en/we-need-to-stop-the-contagion-gop-ramps-up-midterms-defense-in-trump-states"
+      }
+    ],
+    "trending_context": "Trended in right media over the weekend as evidence of perilous midterm environment in traditionally safe GOP territory.",
+    "order": 13
+  },
+  {
+    "id": "R14",
+    "side": "right",
+    "headline": "Report: Trump to Unveil $15 Billion Iowa Steel Project",
+    "outlet": "Newsmax",
+    "article_url": "https://www.newsmax.com/us/donald-trump-iowa-15-billion/2026/09/28/id/1270912",
+    "published": "2026-09-28",
+    "trending_claim": "Mesabi Metallics, part of India's Essar Group, plans a $15 billion steel mill in eastern Iowa with 7.5 million tons of initial annual capacity, first production targeted for 2030, and about 1,700 jobs.",
+    "verdict": "accurate",
+    "rating_explained": "Step 1: Newsmax, citing a Wall Street Journal report on Sept. 28, said Trump was expected to announce Mesabi Metallics' plan to build a $15 billion steel mill in eastern Iowa with 7.5 million tons of initial annual capacity, first production in 2030, and more than 1,700 jobs. Step 2: The Journal then confirmed Trump unveiled the proposal Monday afternoon, Sept. 28, at the White House with Mesabi executives, reporting an initial capacity of 7.5 million tons rising to about 10 million, production targeted for 2030, and 'more than 1,700 jobs.' Step 3: Iowa Public Radio independently reported the same $15 billion figure, the Lee County location, the 2030 target, and 'at least 1,700 permanent high-paying jobs,' with Gov. Kim Reynolds, Rep. Ashley Hinson and Mesabi chairman Rewant Ruia present, and confirmed Mesabi belongs to India's Essar Group. Step 4: The pre-announcement framing was correct — the announcement did occur. Step 5: Caveats: this is a planned project, not one under construction — no steel is being made there yet; Iowa's legislature may be called into special session for tax incentives (though White House officials say the project isn't dependent on them); and the WSJ notes the project was first proposed by Essar about 20 years ago, went through a bankruptcy a decade ago, and Mesabi controls only about 23 years of ore reserves. The core figures and the event itself are confirmed, so the verdict is accurate with the planned-not-built caveat.",
+    "sources": [
+      {
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/politics/trump-to-unveil-planned-15-billion-iowa-steel-project-051bc7d8"
+      },
+      {
+        "name": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-09-28/president-trump-15-billion-steel-plant-iowa-mesabi-metallics"
+      }
+    ],
+    "trending_context": "Huge right-side story on Sept 28-29 — Memeorandum showed Fox, Breitbart, the Examiner, Newsmax, Townhall, RedState, and Gateway Pundit discussion links.",
+    "order": 14
+  }
+]
